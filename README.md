@@ -1,4 +1,4 @@
-# CMT3A-MSS: Méthodes des sciences sociales
+# [CMT3A MSS](CMT3A-MSS): Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 
 ## Contenu
@@ -41,7 +41,8 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
     - Remise: Avant la Séance 5.
 
 ### Rapport de recherche
-    - Thème:
+    - Contrainte d'analyse:
+        - La question de recherche doit pouvoir être explorée à l'aide de données en provenance de quotidiens (textes, images, ou les deux).
     - Objectifs:
         - Introduction
         - Données et méthode
@@ -68,10 +69,10 @@ Le première partie du cours introduit à la démarche scientifique et se focali
     Lectures:
         - Le plan du cours (si vous lisez ceci, c'est déjà bien parti!)
     Activité:
-        - Création de groupe
+        - Création des groupes
         - Pratique: RStudio et Markdown
 
-##### Séance 2 - Le devis de recherche
+##### Séance 2 - L'objet de recherche
     Thèmes:
         - La démarche scientifique
         - Les différents niveaux d'analyse
@@ -83,7 +84,6 @@ Political Methodology , Chapter 12
         - Giovanni Sartori, « Concept Misformation in Comparative Politics », American
         - Political Science Review 64 (4), décembre 1970: 1033-53. Disponible en ligne.
         - Rudolph, Susanne Huber, « The Imperialism of Categories: Situating Knowledge in a Globalizing World », Perspectives on Politics 3 (1), mars 2005: 5-14. Disponible en ligne.
-
         - Pierre Bourdieu, « L’illusion biographique », Actes de la recherche en sciences
         sociales, 62-63, 1986 :69-72. Disponible en ligne.
         - Lamont, M., & Swidler, A. (2014). Methodological pluralism and the possibilities
