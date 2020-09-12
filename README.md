@@ -21,24 +21,36 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 
 ### Travaux Pratiques
 - TP1: Devis de recherche:
-    - Ancrage théorique
-    - Problématique
-    - Hypothèse(s)
-    - Données et méthode d'analyse
-    - Attentes
+    - Objectif:
+        - Ancrage théorique
+        - Problématique
+        - Hypothèse(s)
+        - Données et méthode d'analyse
+        - Attentes
     - Format:
         - 2 pages
         - 5 références
+    - Remise: Avant la Séance 3.
 - TP2: Collecte et présentation des données
-    - Collecte de données terminée
-    - Présentation des données collectées
-    - Problèmes liés à la collecte
+    - Objectif:
+        - Collecte de données terminée
+        - Présentation des données collectées
+        - Présentation des problèmes liés à la collecte
     - Format:
         - 1 page
+    - Remise: Avant la Séance 5.
 
 ### Rapport de recherche
-- Format:
-    - De 5 pages sans images à 8 pages avec 2 illustrations
+    - Thème:
+    - Objectifs:
+        - Introduction
+        - Données et méthode
+        - Résultats
+        - Conclusion et Discussion
+    - Format:
+        - De 5 pages sans images à 8 pages avec 2 illustrations
+    - Remise:
+        - lundi 11 janvier 2021
 
 ## Déroulement des séances
 Chaque séance se déroule en 3 parties.
@@ -54,7 +66,7 @@ Le première partie du cours introduit à la démarche scientifique et se focali
     Thèmes:
         - Présentation du plan de cours
     Lectures:
-        - Le syllabus du cours
+        - Le plan du cours (si vous lisez ceci, c'est déjà bien parti!)
     Activité:
         - Création de groupe
         - Pratique: RStudio et Markdown
@@ -85,11 +97,11 @@ Political Methodology , Chapter 12
         - Préparation à GitHub
 
 #### Partie 2 | Collecte de données
-Séance 3 - Collecte de documents et éthique
+Séance 3 - Collecte de documents et éthique (TP1!)
 Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
 
 #### Partie 3 | Analyse et rapport de recherche
-Séance 5 - Analyse de contenus, de discours, d'images
+Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
 Séance 6 - Séance d'aide à la recherche
 
 ### Deuxième semestre : Méthodes Quantitatives
