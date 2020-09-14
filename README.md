@@ -76,11 +76,12 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
-Thèmes:
+
+##### Thèmes:
     - Présentation du plan de cours
-Lectures:
+##### Lecture(s):
     - Le plan du cours (si vous lisez ceci, c'est bien parti!)
-Activité:
+##### Activité(s):
     - Création des groupes
     - Pratique: RStudio et Markdown
 
