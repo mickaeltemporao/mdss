@@ -1,7 +1,19 @@
-# CMT3A-MSS: Méthodes des sciences sociales
+---
+title: "Méthodes des sciences sociales"
+author: "Mickael Tempoão <m.temporao [at] sciencespobordeaux [dot] fr>"
+date: "Dernière mise à jour: 9/14/2020"
+output:
+    html_document:
+        toc: true
+        toc_float: true
+---
+
+# Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 
-## Contenu
+## **ATTENTION:** Syllabus temporaire!
+
+## Contenu du cours
 Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
 
 ## Objectifs
@@ -13,16 +25,6 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 - 30% : Participation
 - 30% : Travaux Pratiques
 - 40% : Rapport de recherche
-
-## Séances
-
-| Date          | Séance          | Travail  |
-| ------------- | :-------------- | :-----   |
-| col 3 is      | right-aligned   | test     |
-| col 2 is      | centered        | test     |
-| zebra stripes | are neat        | ewrewr   |
-|               |                 |          |
-
 
 ### Participation
 - Présentations par groupes
@@ -87,25 +89,48 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 ## Premier semestre : Méthodes Qualitatives
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
+## Séances
+
+| Date       | Séance                          | Travail  |
+| -----------| :------------------------------ | :------- |
+| 2020/09/18 | Séance 1A: Introduction générale| Syllabus |
+| 2020/09/XX | Séance 1B: Introduction générale| Syllabus |
+| 2020/XX/XX | Séance 2A: Introduction générale| Lecture  |
+| 2020/XX/XX | Séance 2B: Introduction générale| Lecture  |
+| 2020/XX/XX | Séance 3A: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 3B: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 4A: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 4B: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 5A: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 5B: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 6A: Introduction générale| à venir  |
+| 2020/XX/XX | Séance 6B: Introduction générale| à venir  |
+
+
+
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
 
 ##### Thèmes:
 - Présentation du plan de cours
+
 ##### Lecture(s):
 - Le plan du cours (si vous lisez ceci, c'est bien parti!)
+
 ##### Activité(s):
 - Création des groupes et ordre de passage
-- Pratique: RStudio et Markdown
+- Introduction à RStudio et Markdown
 
 #### Séance 2 - L'objet de recherche
 ##### Thèmes:
 - La démarche scientifique
 - Niveau d'analyse
 - Problématique et hypothèses
+
 ##### Lecture(s):
-Lecture obligatoire:
-- Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
+- Lecture obligatoire:
+    - Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
+
 ##### Activité(s):
 - Formulation d'une question recherche
 - Introduction à GitHub
