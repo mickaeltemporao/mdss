@@ -1,4 +1,4 @@
-# [CMT3A MSS](CMT3A-MSS): Méthodes des sciences sociales
+# CMT3A-MSS: Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 
 ## Contenu
@@ -10,9 +10,9 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 - Introduire les étudiant.e.s à de nouveaux outils de recherche empirique.
 
 ## Évaluation
-30% - Participation
-30% - Travaux Pratiques
-40% - Rapport de recherche
+- 30% : Participation
+- 30% : Travaux Pratiques
+- 40% : Rapport de recherche
 
 ### Participation
 - Présentations par groupes
@@ -70,11 +70,11 @@ Trois parties:
     - Activités
     - Discussions
 
-### Premier semestre : Méthodes Qualitatives
+## Premier semestre : Méthodes Qualitatives
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
-#### Partie 1 | Devis de recherche
-##### Séance 1 - Introduction
+### Partie 1 | Devis de recherche
+#### Séance 1 - Introduction
     Thèmes:
         - Présentation du plan de cours
     Lectures:
@@ -83,42 +83,22 @@ Le première partie du cours introduit à la démarche scientifique et se focali
         - Création des groupes
         - Pratique: RStudio et Markdown
 
-##### Séance 2 - L'objet de recherche
+#### Séance 2 - L'objet de recherche
     Thèmes:
         - La démarche scientifique
         - Niveau d'analyse
         - Problématique et hypothèses
     Lecture obligatoire:
         - Giovanni Sartori, « Concept Misformation in Comparative Politics », American Political Science Review 64 (4), décembre 1970: 1033-53.
-        %% - Freedman, David (2008) “On types of scientific enquiry: the role of qualitative reasoning”, Oxford Handbook of
-Political Methodology , Chapter 12
-        %% - Berman, Sheri (2001). “Review: Ideas, norms and culture in political analysis”, Comparative Politics , Vol. 33, No. 2.
-
     Activités:
         - Formulation d'une question recherche
         - Préparation à GitHub
 
-#### Partie 2 | Collecte de données
+### Partie 2 | Collecte de données
 Séance 3 - Considérations éthiques et collecte de données (TP1!)
 Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
 
-#### Partie 3 | Analyse et rapport de recherche
+### Partie 3 | Analyse et rapport de recherche
 Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
 Séance 6 - Séance d'aide à la recherche
 
-### Deuxième semestre : Méthodes Quantitatives
-
-#### Devis de recherche
-Séance 1 -
-Séance 2 -
-
-#### Collecte de données
-Séance 3 -
-Séance 4 -
-
-#### Analyse et rapport de recherche
-Séance 5 -
-Séance 6 -
-
-## Ressources
-TODO: ADD Forum
