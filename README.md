@@ -86,13 +86,14 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 - Pratique: RStudio et Markdown
 
 #### Séance 2 - L'objet de recherche
-Thèmes:
-    - La démarche scientifique
-    - Niveau d'analyse
-    - Problématique et hypothèses
+##### Thèmes:
+- La démarche scientifique
+- Niveau d'analyse
+- Problématique et hypothèses
+##### Lecture(s):
 Lecture obligatoire:
-    - Giovanni Sartori, « Concept Misformation in Comparative Politics », American Political Science Review 64 (4), décembre 1970: 1033-53.
-Activités:
+    - Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
+##### Activité(s):
     - Formulation d'une question recherche
     - Préparation à GitHub
 
