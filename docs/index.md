@@ -9,7 +9,9 @@ Mis à jour le *14/09/2020* | Mickael Temporão | [m.temporao@sciencespobordeaux
   * [Évaluation](#-valuation)
   * [Premier semestre : méthodes qualitatives](#premier-semestre---m-thodes-qualitatives)
   * [[Séances](seances.md)](#séances)
-  * [Informations utiles](#informations-utiles)## Présentation
+  * [Informations utiles](#informations-utiles)
+
+## Présentation
 
 Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisé en trois sections dont le but est d'amener les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche en disponibles accès libre. Ces outils seront introduits et utilisés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est sera atout dans monde professionnel.
 
