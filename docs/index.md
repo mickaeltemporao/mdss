@@ -2,22 +2,23 @@
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 Dernière mise à à jour le 14/09/2020.
 
-## Détails
-
-| Enseignant                                  | Contact                                                                     | Autre                                                   |
-| [Mickael Temporão](www.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao) |
-
-## Horaire
-
-| Cours           | Vendredi | 09h45-11h15 | A.138 |
-| Heure de bureau | Vendredi | 11h30-12h00 | A.138 |
-
 ## Sommaire
   * [Contenu du cours](#contenu-du-cours)
   * [Objectifs](#objectifs)
   * [Évaluation](#-valuation)
   * [Déroulement des séances](#d-roulement-des-s-ances)
   * [Premier semestre : Méthodes Qualitatives](#premier-semestre---m-thodes-qualitatives)
+
+## Informations utiles
+
+| **Enseignant**                              | **Contact**                                                                 | **Réseaux**                                             |
+| [Mickael Temporão](www.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao) |
+
+### Horaire
+
+| Conférences     | Vendredi | 09h45-11h15 | A.138 |
+| Heure de bureau | Vendredi | 11h30-12h00 | B.139 |
+
 
 ## Contenu du cours
 Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
