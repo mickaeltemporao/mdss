@@ -100,8 +100,6 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 
 ### Séances
 
-#### Partie 1 : Devis de recherche
-
 | Groupe A   | Groupe B   | Section  | Description de la séance                                  | Travail       |
 | -          | -          | -        | -                                                         | -             |
 | 2020/09/18 | 2020/09/25 | Devis    | 1. Introduction générale                                  | Syllabus      |
@@ -110,31 +108,4 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 | 2020/11/06 | 2020/11/13 | Collecte | 4. Données digitales, textuelles et visuelles             | À venir       |
 | 2020/11/20 | 2020/11/27 | Analyse  | 5. Analyse de contenus, de discours, d'images             | **TP2**       |
 | 2020/12/04 | 2020/12/11 | Analyse  | 6. Aide à la recherche                                    | À venir       |
-
-### Partie 1 | Devis de recherche
-#### Séance 1 - Introduction
-
-##### Thèmes:
-- Présentation du plan de cours
-
-##### Lecture(s):
-- Le plan du cours (si vous lisez ceci, c'est bien parti!)
-
-##### Activité(s):
-- Création des groupes et ordre de passage
-- Introduction à RStudio et Markdown
-
-#### Séance 2 - L'objet de recherche
-##### Thèmes:
-- La démarche scientifique
-- Niveau d'analyse
-- Problématique et hypothèses
-
-##### Lecture(s):
-- Lecture obligatoire:
-    - Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
-
-##### Activité(s):
-- Formulation d'une question recherche
-- Introduction à GitHub
 
