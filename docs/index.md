@@ -1,12 +1,12 @@
 # Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 
-Mis à jour le *14/09/2020*
+Mis à jour le *14/09/2020*.
 
 
 ## Informations utiles
 
-**Enseignant :** Mickael Temporão | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao)
+**Enseignant :** Mickael Temporão <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>  [@mickaeltemporao](https://twitter.com/mickaeltemporao)
 
 | Horaire         | Jour          | Heure       | Local |
 | -------------   | ------------- | -           | -     |
