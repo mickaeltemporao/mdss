@@ -97,11 +97,12 @@ Activités:
 
 ### Partie 2 | Collecte de données
 
-Séance 3 - Considérations éthiques et collecte de données (TP1!)
-Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
+#### Séance 3 - Considérations éthiques et collecte de données (TP1!)
+
+#### Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
 
 ### Partie 3 | Analyse et rapport de recherche
 
-Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
-Séance 6 - Séance d'aide à la recherche
+#### Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
+#### Séance 6 - Séance d'aide à la recherche
 
