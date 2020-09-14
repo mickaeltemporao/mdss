@@ -20,8 +20,9 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 
 ### Horaire
 
-| Conférences     | Vendredi | 09h45-11h15 | A.138 |
-| Heure de bureau | Vendredi | 11h30-12h00 | B.139 |
+| Horaire         | Jour     | Heure       | Local |
+| Conférence      | Vendredi | 09h45-11h15 | A.138 |
+| Heure de bureau | Vendredi | 11h30-12h30 | B.139 |
 
 ## Objectifs
 - Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
