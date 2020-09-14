@@ -1,7 +1,22 @@
 # Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
+Dernière mise à à jour le 14/09/2020.
 
-Mickael Temporão <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+## Enseignant
+
+| [Mickael Temporão](mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [mickaeltemporao](https://twitter.com/mickaeltemporao) |
+
+## Horaire
+
+| Cours | Vendredi | 09h45-11h15 | A.138 |
+
+## Table des matières
+- [Méthodes des sciences sociales](#m-thodes-des-sciences-sociales)
+  * [Contenu du cours](#contenu-du-cours)
+  * [Objectifs](#objectifs)
+  * [Évaluation](#-valuation)
+  * [Déroulement des séances](#d-roulement-des-s-ances)
+  * [Premier semestre : Méthodes Qualitatives](#premier-semestre---m-thodes-qualitatives)
 
 ## Contenu du cours
 Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
@@ -27,9 +42,9 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
         - Présentation de 20 minutes, 5 minutes de questions
         - Rapport de lecture d'une page à remettre 24h à l'avance
         - Slides: fortement conseillés
-    - Remise du rapport:
+    - Remise du rapport de lecture:
         - Dépôt 24h à l'avance
-        - Lieu: À déterminer mais probablement moodle
+        - Lieu: À déterminer (probablement Moodle)
 - Participation
     - Commentaire de 5 minutes effectué par un autre groupe tiré au hasard sur le rapport et la présentation
     - Note pour le groupe!
@@ -79,8 +94,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 ## Premier semestre : Méthodes Qualitatives
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
-## Séances
-
+### Séances
 | Date       | Séance                          | Travail  |
 | -----------| :------------------------------ | :------- |
 | 2020/09/18 | Séance 1A: Introduction générale| Syllabus |
@@ -95,8 +109,6 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 | 2020/XX/XX | Séance 5B: Introduction générale| à venir  |
 | 2020/XX/XX | Séance 6A: Introduction générale| à venir  |
 | 2020/XX/XX | Séance 6B: Introduction générale| à venir  |
-
-
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
