@@ -43,7 +43,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
         - Attentes
     - Format:
         - 2 pages
-        - 5 références (style: Chicago)
+        - 5 références (style: Harvard)
     - Remise: **avant la Séance 3**.
 - TP2: Collecte et présentation des données
     - Objectif:
