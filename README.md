@@ -52,6 +52,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
     - Remise: Avant la Séance 5.
 
 ### Rapport de recherche
+
     - Contrainte d'analyse:
         - La question de recherche doit pouvoir être explorée à l'aide de données en provenance de quotidiens (textes, images, ou les deux).
     - Objectifs:
@@ -65,7 +66,8 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
         - lundi 11 janvier 2021
 
 ## Déroulement des séances
-Trois parties:
+
+### Trois parties:
     - Présentation(s)
     - Activités
     - Discussions
@@ -75,6 +77,7 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
+
     Thèmes:
         - Présentation du plan de cours
     Lectures:
