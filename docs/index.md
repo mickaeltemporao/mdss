@@ -2,16 +2,17 @@
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 Dernière mise à à jour le 14/09/2020.
 
-## Enseignant
+## Détails
 
-| [Mickael Temporão](mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [mickaeltemporao](https://twitter.com/mickaeltemporao) |
+| Enseignant                                  | Contact                                                                     | Autre                                                   |
+| [Mickael Temporão](www.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao) |
 
 ## Horaire
 
-| Cours | Vendredi | 09h45-11h15 | A.138 |
+| Cours           | Vendredi | 09h45-11h15 | A.138 |
+| Heure de bureau | Vendredi | 11h30-12h00 | A.138 |
 
-## Table des matières
-- [Méthodes des sciences sociales](#m-thodes-des-sciences-sociales)
+## Sommaire
   * [Contenu du cours](#contenu-du-cours)
   * [Objectifs](#objectifs)
   * [Évaluation](#-valuation)
