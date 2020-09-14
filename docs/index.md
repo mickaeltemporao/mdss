@@ -4,11 +4,10 @@ Bienvenue dans le cours de Méthodes des Sciences Sociales.
 Mis à jour le *14/09/2020* | Mickael Temporão | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao)
 
 ## Sommaire
-  * [Présentation](#pr-sentation)
+  * [Présentation](#présentation)
   * [Objectifs](#objectifs)
-  * [Évaluation](#-valuation)
-  * [Premier semestre : méthodes qualitatives](#premier-semestre---m-thodes-qualitatives)
-  * [[Séances](seances.md)](#séances)
+  * [Évaluation](#Évaluation)
+  * [Séances](#Séances)
   * [Informations utiles](#informations-utiles)
 
 ## Présentation
@@ -26,7 +25,6 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 - 40% : [Rapport de recherche](rapport.md)
 
 ## Séances
-
 
 | Groupe A   | Groupe B   | Catégorie | Description de la séance                          | Travail       |
 | -          | -          | -         | -                                                 | -             |
