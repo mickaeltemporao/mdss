@@ -97,6 +97,7 @@ Lecture obligatoire:
 - Formulation d'une question recherche
 - Introduction à GitHub
 
+## À venir
 ### Partie 2 | Collecte de données
 
 #### Séance 3 - Considérations éthiques et collecte de données (TP1!)
