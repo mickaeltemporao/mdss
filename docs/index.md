@@ -101,12 +101,14 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 ### Séances
 
 #### Partie 1 : Devis de recherche**                        |               |
+
 | Groupe A   | Groupe B   | Description de la séance                                  | Travail       |
 | -          | -          | -                                                         | -             |
 | 2020/09/18 | 2020/09/25 | Séance 1A: Introduction générale                          | Syllabus      |
 | 2020/10/02 | 2020/10/09 | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
 
 #### Partie 2 : Collecte de données**                        |               |
+
 | Groupe A   | Groupe B   | Description de la séance                                  | Travail       |
 | -          | -          | -                                                         | -             |
 | 2020/10/16 | 2020/10/23 | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
