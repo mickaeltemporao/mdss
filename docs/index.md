@@ -8,7 +8,7 @@ Mis à jour : 14/09/2020.
   * [Objectifs](#objectifs)
   * [Évaluation](#Évaluation)
   * [Déroulement des séances](#déroulement-des-séances)
-  * [Premier semestre : Méthodes Qualitatives](#premier-semestre---méthodes-qualitatives)
+  * [Premier semestre : méthodes qualitatives](#premier-semestre---méthodes-qualitatives)
 
 ## Contenu du cours
 Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
@@ -91,15 +91,15 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 
 ### Trois parties:
 - Présentation(s)
-- Activités
-- Discussions
+- Activité(s)
+- Discussion
 
-## Premier semestre : Méthodes Qualitatives
+## Premier semestre : méthodes qualitatives
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
 ### Séances
+
 | **Groupe A** | **Groupe B** | **Description de la séance**                              | **Travail**   |
-| -----------  | -----------  | ------------------------------                            | -------       |
 | 2020/09/18   | 2020/09/25   | Séance 1A: Introduction générale                          | Syllabus      |
 | 2020/10/02   | 2020/10/09   | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
 | 2020/10/16   | 2020/10/23   | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
