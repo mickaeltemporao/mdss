@@ -52,56 +52,56 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
     - Remise: Avant la Séance 5.
 
 ### Rapport de recherche
-
-    - Contrainte d'analyse:
-        - La question de recherche doit pouvoir être explorée à l'aide de données en provenance de quotidiens (textes, images, ou les deux).
-    - Objectifs:
-        - Introduction
-        - Données et méthode
-        - Résultats
-        - Conclusion et Discussion
-    - Format:
-        - De 5 pages sans images à 8 pages avec 2 illustrations
-    - Remise:
-        - lundi 11 janvier 2021
+- Contrainte d'analyse:
+    - La question de recherche doit pouvoir être explorée à l'aide de données en provenance de quotidiens (textes, images, ou les deux).
+- Objectifs:
+    - Introduction
+    - Données et méthode
+    - Résultats
+    - Conclusion et Discussion
+- Format:
+    - De 5 pages sans images à 8 pages avec 2 illustrations
+- Remise:
+    - lundi 11 janvier 2021
 
 ## Déroulement des séances
 
 ### Trois parties:
-    - Présentation(s)
-    - Activités
-    - Discussions
+- Présentation(s)
+- Activités
+- Discussions
 
 ## Premier semestre : Méthodes Qualitatives
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
-
-    Thèmes:
-        - Présentation du plan de cours
-    Lectures:
-        - Le plan du cours (si vous lisez ceci, c'est bien parti!)
-    Activité:
-        - Création des groupes
-        - Pratique: RStudio et Markdown
+Thèmes:
+    - Présentation du plan de cours
+Lectures:
+    - Le plan du cours (si vous lisez ceci, c'est bien parti!)
+Activité:
+    - Création des groupes
+    - Pratique: RStudio et Markdown
 
 #### Séance 2 - L'objet de recherche
-    Thèmes:
-        - La démarche scientifique
-        - Niveau d'analyse
-        - Problématique et hypothèses
-    Lecture obligatoire:
-        - Giovanni Sartori, « Concept Misformation in Comparative Politics », American Political Science Review 64 (4), décembre 1970: 1033-53.
-    Activités:
-        - Formulation d'une question recherche
-        - Préparation à GitHub
+Thèmes:
+    - La démarche scientifique
+    - Niveau d'analyse
+    - Problématique et hypothèses
+Lecture obligatoire:
+    - Giovanni Sartori, « Concept Misformation in Comparative Politics », American Political Science Review 64 (4), décembre 1970: 1033-53.
+Activités:
+    - Formulation d'une question recherche
+    - Préparation à GitHub
 
 ### Partie 2 | Collecte de données
+
 Séance 3 - Considérations éthiques et collecte de données (TP1!)
 Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
 
 ### Partie 3 | Analyse et rapport de recherche
+
 Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
 Séance 6 - Séance d'aide à la recherche
 
