@@ -100,14 +100,17 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 
 ### Séances
 
-| **Groupe A**     | **Groupe B**                    | **Description de la séance**                              | **Travail**   |
-| 2020/09/18       | 2020/09/25                      | Séance 1A: Introduction générale                          | Syllabus      |
-| 2020/10/02       | 2020/10/09                      | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
-| TEST             séance 2A: L'objet de recherche | Sartori, 1970                                             |               |
-| 2020/10/16       | 2020/10/23                      | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
-| 2020/11/06       | 2020/11/13                      | Séance 4A: Données digitales, textuelles et visuelles.    | À venir       |
-| 2020/11/20       | 2020/11/27                      | Séance 5A: Analyse de contenus, de discours, d'images     | **TP2**       |
-| 2020/12/04       | 2020/12/11                      | Séance 6A: Séance d'aide à la recherche                   | À venir       |
+| Groupe A   | Groupe B   | Description de la séance                                  | Travail       |
+| -          | -          | -                                                         | -             |
+|            |            | **Partie 1 : Devis de recherche**                        |               |
+| 2020/09/18 | 2020/09/25 | Séance 1A: Introduction générale                          | Syllabus      |
+| 2020/10/02 | 2020/10/09 | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
+|            |            | **Partie 2 : Collecte de données**                        |               |
+| 2020/10/16 | 2020/10/23 | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
+| 2020/11/06 | 2020/11/13 | Séance 4A: Données digitales, textuelles et visuelles.    | À venir       |
+|            |            | **Partie 3 : Analyse et rapport de recherches**           |               |
+| 2020/11/20 | 2020/11/27 | Séance 5A: Analyse de contenus, de discours, d'images     | **TP2**       |
+| 2020/12/04 | 2020/12/11 | Séance 6A: Séance d'aide à la recherche                   | À venir       |
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
