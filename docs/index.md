@@ -107,13 +107,14 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 | 2020/09/18 | 2020/09/25 | Séance 1A: Introduction générale                          | Syllabus      |
 | 2020/10/02 | 2020/10/09 | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
 
-#### Partie 2 : Collecte de données**                        |               |
+#### Partie 2 : Collecte de données**
 
 | Groupe A   | Groupe B   | Description de la séance                                  | Travail       |
 | -          | -          | -                                                         | -             |
 | 2020/10/16 | 2020/10/23 | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
 | 2020/11/06 | 2020/11/13 | Séance 4A: Données digitales, textuelles et visuelles.    | À venir       |
-#### Partie 3 : Analyse et rapport de recherches**           |               |
+
+#### Partie 3 : Analyse et rapport de recherches**
 
 | Groupe A   | Groupe B   | Description de la séance                                  | Travail       |
 | -          | -          | -                                                         | -             |
@@ -146,16 +147,4 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 ##### Activité(s):
 - Formulation d'une question recherche
 - Introduction à GitHub
-
-## À venir
-### Partie 2 | Collecte de données
-
-#### Séance 3 - Considérations éthiques et collecte de données (**TP1!**)
-
-#### Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
-
-### Partie 3 | Analyse et rapport de recherche
-
-#### Séance 5 - Analyse de contenus, de discours, d'images (**TP2!**)
-#### Séance 6 - Séance d'aide à la recherche
 
