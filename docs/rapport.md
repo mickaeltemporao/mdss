@@ -1,0 +1,12 @@
+# Rapport de recherche
+- Contrainte d'analyse:
+    - La question de recherche doit pouvoir être explorée à l'aide de données en provenance de quotidiens (textes, images, ou les deux).
+- Objectifs:
+    - Introduction
+    - Données et méthode
+    - Résultats
+    - Conclusion et Discussion
+- Format:
+    - De 5 pages sans images à 8 pages avec 2 illustrations
+- Remise:
+    - **lundi 11 janvier 2021**
