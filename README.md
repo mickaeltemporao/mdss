@@ -62,7 +62,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 - Format:
     - De 5 pages sans images à 8 pages avec 2 illustrations
 - Remise:
-    - lundi 11 janvier 2021
+    - **lundi 11 janvier 2021**
 
 ## Déroulement des séances
 
@@ -100,12 +100,12 @@ Lecture obligatoire:
 ## À venir
 ### Partie 2 | Collecte de données
 
-#### Séance 3 - Considérations éthiques et collecte de données (TP1!)
+#### Séance 3 - Considérations éthiques et collecte de données (**TP1!**)
 
 #### Séance 4 - Nouveaux médias: Données digitales, textuelles et visuelles.
 
 ### Partie 3 | Analyse et rapport de recherche
 
-#### Séance 5 - Analyse de contenus, de discours, d'images (TP2!)
+#### Séance 5 - Analyse de contenus, de discours, d'images (**TP2!**)
 #### Séance 6 - Séance d'aide à la recherche
 
