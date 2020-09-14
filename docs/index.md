@@ -1,6 +1,10 @@
 # Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
-Dernière mise à à jour le 14/09/2020.
+
+Dernière mise à jour le 14/09/2020.
+
+## Contenu du cours
+Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
 
 ## Sommaire
   * [Contenu du cours](#contenu-du-cours)
@@ -11,17 +15,13 @@ Dernière mise à à jour le 14/09/2020.
 
 ## Informations utiles
 
-| **Enseignant**                              | **Contact**                                                                 | **Réseaux**                                             |
-| [Mickael Temporão](www.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao) |
+| **Enseignant**                                  | **Contact**                                                                 | **Réseaux**                                             |
+| [Mickael Temporão](http://.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao) |
 
 ### Horaire
 
 | Conférences     | Vendredi | 09h45-11h15 | A.138 |
 | Heure de bureau | Vendredi | 11h30-12h00 | B.139 |
-
-
-## Contenu du cours
-Cette conférence de méthodes des sciences sociales à pour objectif d'introduire aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie amène les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et rapporter les résultats. Notez que le cours mettra également l'accent sur des nouveaux outils de recherche en accès libre. Ces outils seront présentés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils modernes vous aidera dans la réalisation de vos travaux de recherche et est un atout fort demandé dans le monde professionnel.
 
 ## Objectifs
 - Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
@@ -97,20 +97,14 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 Le première partie du cours introduit à la démarche scientifique et se focalise sur les méthodes qualitatives. Le semestre est divisé en trois parties: devis de recherche, collecte de données et analyse.
 
 ### Séances
-| Date       | Séance                          | Travail  |
-| -----------| :------------------------------ | :------- |
-| 2020/09/18 | Séance 1A: Introduction générale| Syllabus |
-| 2020/09/XX | Séance 1B: Introduction générale| Syllabus |
-| 2020/XX/XX | Séance 2A: Introduction générale| Lecture  |
-| 2020/XX/XX | Séance 2B: Introduction générale| Lecture  |
-| 2020/XX/XX | Séance 3A: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 3B: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 4A: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 4B: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 5A: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 5B: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 6A: Introduction générale| à venir  |
-| 2020/XX/XX | Séance 6B: Introduction générale| à venir  |
+| **Groupe A** | **Groupe B** | **Description de la séance**                              | **Travail**   |
+| -----------  | -----------  | ------------------------------                            | -------       |
+| 2020/09/18   | 2020/09/25   | Séance 1A: Introduction générale                          | Syllabus      |
+| 2020/10/02   | 2020/10/09   | Séance 2A: L'objet de recherche                           | Sartori, 1970 |
+| 2020/10/16   | 2020/10/23   | Séance 3A: Considérations éthiques et collecte de données | **TP1**       |
+| 2020/11/06   | 2020/11/13   | Séance 4A: Données digitales, textuelles et visuelles.    | À venir       |
+| 2020/11/20   | 2020/11/27   | Séance 5A: Analyse de contenus, de discours, d'images     | **TP2**       |
+| 2020/12/04   | 2020/12/11   | Séance 6A: Séance d'aide à la recherche                   | À venir       |
 
 ### Partie 1 | Devis de recherche
 #### Séance 1 - Introduction
