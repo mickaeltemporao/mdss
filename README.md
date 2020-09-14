@@ -16,19 +16,22 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 
 ### Participation
 - Présentations par groupes
-    - Rapport de lecture à remettre 24h à l'avance
-        - Objectif:
-            - Présentation du thème et résumé
-            - Retour critique sur les points forts et limites
-            - Considérations
-        - Format:
-            - Présentation: 20 minutes, 10 min de questions
-            - Slides: fortement conseillé
-            - Hand-out: 1 page
-        - Remise:
-            - Dépôt 24h à l'avance
-    - Présence et participation
-        - Commentaire d'une présentation
+    - Objectif:
+        - Rédaction d'un rapport de lecture à remettre 24h à l'avance
+        - Présentation d'un thème
+        - Retour critique sur les forces, faiblesses et autres considérations
+    - Format:
+        - Groupe de 3 étudiants
+        - Présentation de 20 minutes, 5 minutes de questions
+        - Rapport de lecture d'une page à remettre 24h à l'avance
+        - Slides: fortement conseillés
+    - Remise du rapport:
+        - Dépôt 24h à l'avance
+        - Lieu: À déterminer mais probablement moodle
+- Participation
+    - Commentaire de 5 minutes effectué par un autre groupe tiré au hasard sur le rapport et la présentation
+    - Note pour le groupe!
+- Présences
 
 ### Travaux Pratiques
 - TP1: Devis de recherche:
@@ -82,7 +85,7 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 ##### Lecture(s):
 - Le plan du cours (si vous lisez ceci, c'est bien parti!)
 ##### Activité(s):
-- Création des groupes
+- Création des groupes et ordre de passage
 - Pratique: RStudio et Markdown
 
 #### Séance 2 - L'objet de recherche
