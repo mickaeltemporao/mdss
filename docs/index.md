@@ -1,7 +1,7 @@
 # Méthodes des sciences sociales
 Bienvenue dans le cours de Méthodes des Sciences Sociales.
 
-Mis à jour le *14/09/2020* | [Mickael Temporão](https://mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao)
+Mis à jour le *14/09/2020* | [Mickael Temporão](https://www.mickaeltemporao.com) | [m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr) | [@mickaeltemporao](https://twitter.com/mickaeltemporao)
 
 ## Sommaire
   * [Présentation](#pr-sentation)
