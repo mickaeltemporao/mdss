@@ -14,6 +14,16 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
 - 30% : Travaux Pratiques
 - 40% : Rapport de recherche
 
+## Séances
+
+| Date          | Séance          | Travail  |
+| ------------- | :-------------- | :-----   |
+| col 3 is      | right-aligned   | test     |
+| col 2 is      | centered        | test     |
+| zebra stripes | are neat        | ewrewr   |
+|               |                 |          |
+
+
 ### Participation
 - Présentations par groupes
     - Objectif:
