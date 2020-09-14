@@ -92,10 +92,10 @@ Le première partie du cours introduit à la démarche scientifique et se focali
 - Problématique et hypothèses
 ##### Lecture(s):
 Lecture obligatoire:
-    - Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
+- Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.
 ##### Activité(s):
-    - Formulation d'une question recherche
-    - Préparation à GitHub
+- Formulation d'une question recherche
+- Introduction à GitHub
 
 ### Partie 2 | Collecte de données
 
