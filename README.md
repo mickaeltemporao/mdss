@@ -41,7 +41,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
     - Format:
         - 2 pages
         - 5 références (style: Chicago)
-    - Remise: Avant la Séance 3.
+    - Remise: **avant la Séance 3**.
 - TP2: Collecte et présentation des données
     - Objectif:
         - Collecte de données terminée
@@ -49,7 +49,7 @@ Cette conférence de méthodes des sciences sociales à pour objectif d'introdui
         - Présentation des problèmes liés à la collecte
     - Format:
         - 1 page
-    - Remise: Avant la Séance 5.
+    - Remise: **avant la Séance 5**.
 
 ### Rapport de recherche
 - Contrainte d'analyse:
