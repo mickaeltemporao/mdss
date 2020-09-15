@@ -14,6 +14,13 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 - Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
 - Introduire les étudiant.e.s à une nouvelle boîte d'outils de recherche empirique.
 
+### Évaluation
+
+- 30% : [Participation](part.md)
+- 30% : [Travaux Pratiques](tp.md)
+- 40% : [Rapport de recherche](rapport.md)
+
+
 ## Séances
 
 | Groupe A   | Groupe B   | Catégorie | Description de la séance                          | À préparer             |
@@ -24,10 +31,4 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | 2020/11/06 | 2020/11/13 | Collecte  | 4. Données digitales, textuelles et visuelles     | Lecture, 3;            |
 | 2020/11/20 | 2020/11/27 | Analyse   | 5. Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](TP2)**    |
 | 2020/12/04 | 2020/12/11 | Analyse   | 6. Aide à la recherche                            | Avancement rapport     |
-
-### Évaluation
-
-- 30% : [Participation](part.md)
-- 30% : [Travaux Pratiques](tp.md)
-- 40% : [Rapport de recherche](rapport.md)
 
