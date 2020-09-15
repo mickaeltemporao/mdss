@@ -9,7 +9,7 @@ Science should be open, and this course builds up other open licensed material, 
 Parts of the contents found of this repository are inspired by many others who have shared their materials or who have publicly released their materials.
 I try to always give credit to the original but if I forgot anyone, please feel free to reach out.
 
-Thanks to:
+Special thanks to:
 - Jeffrey Arnold
 - Pablo Barbera 
 - Anja Durovic 
