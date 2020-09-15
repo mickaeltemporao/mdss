@@ -10,11 +10,11 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | Heure de bureau | Vendredi      | 11h30-12h30 | B.139 |
 
 ## Objectifs
-- Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
-- Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
-- Introduire les étudiant.e.s à une nouvelle boîte d'outils de recherche empirique.
+1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
+2. Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
+3. Introduire les étudiant.e.s à une nouvelle boîte d'outils de recherche empirique.
 
-### Évaluation
+#### Évaluation
 
 - 30% : [Participation](part.md)
 - 30% : [Travaux Pratiques](tp.md)
