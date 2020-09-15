@@ -34,5 +34,5 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 ## Source
 
-Le code source de ce site web se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
+Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
 
