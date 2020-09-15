@@ -6,8 +6,8 @@ The website can be found at: https://mickaeltemporao.github.io/CMT3A-MSS/
 # LICENSE AND CREDIT
 Science should be open, and this course builds up other open licensed material, so unless otherwise noted, all materials for this class are licensed under a [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
 
-Parts of the contents found of this repository are inspired by many others who have shared their materials or who have publicly released their materials.
-I try to always give credit to the original but if I forgot anyone, please feel free to reach out.
+Parts of the contents found of this repository are inspired by many others who have publicly released their materials.
+I try to always give credit but if I forgot anyone, please feel free to reach out.
 
 Special thanks to:
 - Jeffrey Arnold
