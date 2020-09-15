@@ -10,7 +10,7 @@
 
 ### Activité(s) prévues:
 - Création des groupes et ordre de passage
-- Introduction à RStudio et Markdown
+- Introduction à [RStudio](https://rstudio.com/products/rstudio/) et [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Support
 - À venir

@@ -32,3 +32,7 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | 2020/11/20 | 2020/11/27 | Analyse   | 5. Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](TP2)**    |
 | 2020/12/04 | 2020/12/11 | Analyse   | 6. Aide à la recherche                            | Avancement rapport     |
 
+## Source
+
+Le code source de ce site web se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
+
