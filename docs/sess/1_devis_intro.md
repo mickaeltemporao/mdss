@@ -2,9 +2,10 @@
 ## Section | Devis de recherche
 
 ### Ordre du jour:
-- Présentations
-- Le plan de cours
-- Groupes et ordre de passage
+- [ ] Présentations
+- [ ] Le plan de cours
+- [ ] Groupes et ordre de passage
+- [ ] Activité: science ouverte avec GitHub
 
 ### Préparation(s):
 - Se familiariser avec le plan du cours (si vous lisez ceci, c'est bien parti!)
@@ -16,4 +17,6 @@
 
 ### Support
 - À venir
+
+#### **Mots clés: introduction, science ouverte**
 
