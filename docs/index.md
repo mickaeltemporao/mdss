@@ -37,3 +37,5 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
 
+## Licence
+La science doit être ouverte et ce cours construit à partir d'autres supports en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
