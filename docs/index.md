@@ -1,9 +1,9 @@
-*Mis à jour le 16/09/2020 14:40:52* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+*Mis à jour le 16/09/2020 17:36* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
 
 
 # Méthodes des sciences sociales
 
-Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisé en trois sections dont le but est d'amener les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche en disponibles accès libre. Ces outils seront introduits et utilisés tout au long de l'année afin d'éviter un courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est sera atout dans monde professionnel.
+Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections dont le but est d'amener les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche disponibles en accès libre. Ces outils seront introduits et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est sera atout dans monde professionnel.
 
 | Horaire         | Jour          | Heure       | Local |
 | -------------   | ------------- | -           | -     |
@@ -25,7 +25,7 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 ## Séances
 
-La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est réparti en 2x6 séances afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le *Groupe A* débute sa première séance le 2020/09/18, tandis que le *Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupes.
+La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est répartie en 2x6 séances afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le *Groupe A* débute sa première séance le 2020/09/18, tandis que le *Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupe.
 
 
 | Groupe A   | Groupe B   | Section  | Séance | Description de la séance                       | À préparer                         |
@@ -39,7 +39,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 
 ## Communication
-Si vous avez des questions posez-les et répondez directement sur un canal public du [Slack](methodesss.slack.com) du cours approprié. Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
+Si vous avez des questions, posez-les et répondez directement sur un canal public du [Slack](methodesss.slack.com) du cours approprié. Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
 ## Source
