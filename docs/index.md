@@ -1,4 +1,4 @@
-*Mis à jour le 16/09/2020 17:36* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+*Mis à jour le 16/09/2020 22:55* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
 
 
 # Méthodes des sciences sociales
@@ -39,7 +39,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 
 ## Communication
-Si vous avez des questions, posez-les et répondez directement sur un canal public du [Slack](methodesss.slack.com) du cours approprié. Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
+Si vous avez des questions, posez-les et répondez directement sur [Slack](methodesss.slack.com). Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
 ## Source
