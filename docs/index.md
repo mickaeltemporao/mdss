@@ -30,7 +30,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 | Groupe A   | Groupe B   | Section  | Séance | Description de la séance                       | À préparer                         |
 | -          | -          | -        | :-:    | -                                              | :-:                                |
-| 2020/09/18 | 2020/09/25 | Devis    | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Slack, Github            |
+| 2020/09/18 | 2020/09/25 | Devis    | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Slack
 | 2020/10/02 | 2020/10/09 | Devis    | 2      | [L'objet de recherche](2_devis_objet.md)       | Sartori, 1970                      |
 | 2020/10/16 | 2020/10/23 | Collecte | 3      | Considérations éthiques et collecte de données | Lecture, 2; **[TP1](ql_lab_1.md)** |
 | 2020/11/06 | 2020/11/13 | Collecte | 4      | Données digitales, textuelles et visuelles     | Lecture, 3;                        |
