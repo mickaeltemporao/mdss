@@ -10,12 +10,13 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | Conférence      | Vendredi      | 09h45-11h15 | A.138 |
 | Heure de bureau | Vendredi      | 11h30-12h30 | B.139 |
 
+
 ## Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
 2. Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
 3. Introduire les étudiant.e.s à une nouvelle boîte d'outils de recherche empirique.
 
-#### Évaluation
+### Évaluation
 
 - 30% : [Participation](part.md)
 - 30% : [Travaux Pratiques](tp.md)
@@ -23,6 +24,8 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 
 ## Séances
+
+La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est réparti en 2x6 séances afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le **Groupe A** débute sa première séance le 2020/09/18, tandis que le **Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupes.
 
 | Groupe A   | Groupe B   | Catégorie | Description de la séance                          | À préparer                                                                             |
 | -          | -          | -         | -                                                 | -                                                                                      |
@@ -33,9 +36,11 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | 2020/11/20 | 2020/11/27 | Analyse   | 5. Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](ql_lab_2.md)**                                                     |
 | 2020/12/04 | 2020/12/11 | Analyse   | 6. Aide à la recherche                            | Avancement rapport                                                                     |
 
+
 ## Source
 
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
+
 
 ## Licence
 La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
