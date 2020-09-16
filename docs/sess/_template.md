@@ -1,7 +1,7 @@
 # Séance 1 - Intro ...
 ## Section | ...
 
-### Thème:
+### Ordre du jour:
 - ...
 
 ### Préparation(s):
@@ -13,4 +13,6 @@
 
 ### Support
 - ...
+
+#### **Mots clés:**
 
