@@ -1,9 +1,9 @@
-*Mis à jour le 16/09/2020 22:55* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+*Mis à jour le 17/09/2020 11:04* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
 
 
 # Méthodes des sciences sociales
 
-Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections dont le but est d'amener les élèves à utiliser mettre en place un devis de recherche, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche disponibles en accès libre. Ces outils seront introduits et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est sera atout dans monde professionnel.
+Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: design, collecte et analyse. Le but est, tout au long du semestre, d'amener les élèves mettre en place un *research design*, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats dans un *paper*. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche disponibles en accès libre. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
 
 | Horaire         | Jour          | Heure       | Local |
 | -------------   | ------------- | -           | -     |
@@ -14,7 +14,7 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 ## Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
 2. Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
-3. Introduire les étudiant.e.s à une nouvelle boîte d'outils de recherche empirique.
+3. Introduire les étudiant.e.s à une boîte d'outils de recherche modernes en accès libre.
 
 ### Évaluation
 
@@ -28,14 +28,14 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est répartie en 2x6 séances afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le *Groupe A* débute sa première séance le 2020/09/18, tandis que le *Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupe.
 
 
-| Groupe A   | Groupe B   | Section  | Séance | Description de la séance                       | À préparer                         |
-| -          | -          | -        | :-:    | -                                              | :-:                                |
-| 2020/09/18 | 2020/09/25 | Devis    | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Slack
-| 2020/10/02 | 2020/10/09 | Devis    | 2      | [L'objet de recherche](2_devis_objet.md)       | Sartori, 1970                      |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | Considérations éthiques et collecte de données | Lecture, 2; **[TP1](ql_lab_1.md)** |
-| 2020/11/06 | 2020/11/13 | Collecte | 4      | Données digitales, textuelles et visuelles     | Lecture, 3;                        |
-| 2020/11/20 | 2020/11/27 | Analyse  | 5      | Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](ql_lab_2.md)** |
-| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Aide à la recherche                            | Avancement rapport                 |
+| Groupe A   | Groupe B   | Section    | Séance | Description de la séance                       | À préparer                         |
+| -          | -          | -          | :-:    | -                                              | :-:                                |
+| 2020/09/18 | 2020/09/25 | Design     | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Slack                    |
+| 2020/10/02 | 2020/10/09 | Design     | 2      | [L'objet de recherche](2_devis_objet.md)       | Sartori, 1970                      |
+| 2020/10/16 | 2020/10/23 | Collection | 3      | Considérations éthiques et collecte de données | Lecture, 2; **[TP1](ql_lab_1.md)** |
+| 2020/11/06 | 2020/11/13 | Collection | 4      | Données digitales, textuelles et visuelles     | Lecture, 3;                        |
+| 2020/11/20 | 2020/11/27 | Analysis   | 5      | Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](ql_lab_2.md)** |
+| 2020/12/04 | 2020/12/11 | Analysis   | 6      | Aide à la recherche                            | Avancement rapport                 |
 
 
 ## Communication
