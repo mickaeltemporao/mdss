@@ -7,7 +7,7 @@
     - Format:
         - Groupe de 3 étudiants
         - Rapport de lecture d'**une page**
-        - Présentation de 20 minutes, 5 minutes de questions
+        - Présentation de 20 minutes, commentaire de 5 minutes, 5 minutes de questions
         - Slides: fortement conseillés
     - Remise du rapport de lecture:
         - Dépôt 24h à l'avance
