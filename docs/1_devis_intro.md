@@ -5,7 +5,6 @@
 -  Présentations
 -  Le syllabus
 -  Groupes et ordre de passage
--  Activité: Slack, GitHub & Markdown
 
 ### Prérequis:
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
@@ -19,5 +18,5 @@
 ### Support
 - À venir
 
-#### **Mots clés: introduction, science ouverte**
+**Mots clés:** *introduction, science ouverte*
 
