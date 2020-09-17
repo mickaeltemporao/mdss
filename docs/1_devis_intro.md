@@ -1,15 +1,15 @@
-# Séance 1 - Introduction générale
-## Section | Devis de recherche
+# Section | Research Design
+## Séance 1 : Introduction générale
 
 ### Ordre du jour:
-- [ ] Présentations
-- [ ] Le syllabus
-- [ ] Groupes et ordre de passage
-- [ ] Activité: Slack, GitHub & Markdown
+-  Présentations
+-  Le syllabus
+-  Groupes et ordre de passage
+-  Activité: Slack, GitHub & Markdown
 
 ### Prérequis:
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
-- Préparer vos questions liées au syllabus
+- Rejoindre [Slack](methodesss.slack.com)
 
 ### Technique et outils:
 - [Slack](methodesss.slack.com)
