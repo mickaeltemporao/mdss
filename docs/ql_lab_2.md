@@ -1,11 +1,13 @@
 # TP2: Collecte et présentation des données
 
-## Objectif:
+## Objectif
     - Collecte de données terminée
     - Présentation des données collectées
     - Présentation des problèmes liés à la collecte
-## Format:
+
+## Format
     - 1 page
-## Remise:
+
+## Remise
     - **Avant la Séance 5!**.
 
