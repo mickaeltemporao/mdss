@@ -1,4 +1,4 @@
-*Mis à jour le 17/09/2020 11:04* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+*Mis à jour le 18/09/2020 16:36* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
 
 
 # Méthodes des sciences sociales
