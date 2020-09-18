@@ -39,7 +39,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 
 ## Communication
-Si vous avez des questions, posez-les et répondez directement sur [Slack](methodesss.slack.com). Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
+Si vous avez des questions, posez-les et répondez directement sur [Slack](https://methodesss.slack.com). Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
 ## Source
