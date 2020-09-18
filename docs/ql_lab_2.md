@@ -9,5 +9,5 @@
 - 1 page
 
 ## Remise
-- **Avant la Séance 5!**.
+- **Avant la Séance 5!**
 
