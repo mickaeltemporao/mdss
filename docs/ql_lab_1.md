@@ -1,11 +1,15 @@
-### TP1: Devis de recherche:
-    - Objectif:
-        - Ancrage théorique
-        - Problématique
-        - Hypothèse(s)
-        - Données et méthode d'analyse*
-        - Attentes
-    - Format:
-        - 2 pages
-        - 5 références (style: Harvard)
-    - Remise: **avant la Séance 3**.
+# TP1: Devis de recherche:
+
+## Objectif:
+    - Ancrage théorique
+    - Problématique
+    - Hypothèse(s)
+    - Données et méthode d'analyse*
+    - Attentes
+
+## Format:
+    - 2 pages
+    - 5 références (style: Harvard)
+
+## Remise:
+    - **avant la Séance 3**.
