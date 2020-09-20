@@ -1,7 +1,7 @@
 ### Participation
 - Présentations par groupes
     - Objectif:
-        - Rédaction d'un rapport de lecture à remettre 24h à l'avance
+        - Rédaction d'un [rapport de lecture](https://github.com/mickaeltemporao/CMT3A-MSS-template/blob/master/README.md) à remettre 24h à l'avance
         - Présentation d'un thème
         - Retour critique sur les forces, faiblesses et autres considérations
     - Format:
