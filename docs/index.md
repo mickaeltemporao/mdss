@@ -42,6 +42,10 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 Si vous avez des questions, posez-les et répondez directement sur [Slack](https://methodesss.slack.com). Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
+## Pré-requis
+Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les actvitées de chaque session.
+
+
 ## Source
 
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
