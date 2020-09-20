@@ -1,6 +1,7 @@
 # Rapport de recherche
+
 - Contrainte d'analyse:
-    - La question de recherche doit pouvoir être explorée à l'aide de données existantes que ce soient des textes, images, ou vidées (par examples: articles de presse, données de réseaux sociaux, ...)
+    - La question de recherche doit pouvoir être explorée à l'aide de données existantes que ce soient des textes, images, ou vidéos (par examples: articles de presse, données de réseaux sociaux, ...)
 - Objectifs:
     - Introduction
     - Données et méthode

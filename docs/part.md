@@ -11,7 +11,7 @@
     - Remise du rapport de lecture:
         - Dépôt 24h à l'avance
         - Lieu: [GitHub Classrooms](https://classroom.github.com/classrooms/71120711-methode-des-sciences-sociales)
-2. Commentaire des étudiants (5 minutes)
+2. Commentaire des étudiants
     - Commentaire de 5 minutes effectué par un étudiant d'un autre groupe tiré au hasard sur le rapport et la présentation
     - **Note pour le groupe!**
 3. Présences
