@@ -8,7 +8,7 @@
 
 ### Prérequis:
 - Lecture :
-    - King, G., Keohane, R.O. and Verba, S., 1994. "Chapter 1: The Science in Social Science." in *Designing Social Inquiry: Scientific inference in qualitative research.* Princeton university press
+    - King, G., Keohane, R.O. and Verba, S., 1994. "Chapter 1: The Science in Social Science." in *Designing Social Inquiry: Scientific inference in qualitative research.* Princeton University Press.
 - Réfléchir à une problématique pouvant être explorée avec des données existantes
 
 ### Technique et outils:
