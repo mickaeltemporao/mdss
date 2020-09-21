@@ -8,7 +8,7 @@
 
 ### Prérequis:
 - Lecture :
-    - [Sartori, G., 1970. Concept misformation in comparative politics. *The American political science review*, 64(4), pp.1033-1053.](http://us.corwin.com/sites/default/files/upm-binaries/24809_Ch_02.pdf)
+    - [King, G., Keohane, R.O. and Verba, S., 1994. Designing social inquiry: Scientific inference in qualitative research. Princeton university press]()
 - Réfléchir à une problématique pouvant être explorée avec des données existantes
 
 ### Technique et outils:
