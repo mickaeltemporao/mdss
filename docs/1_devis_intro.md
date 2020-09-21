@@ -13,7 +13,6 @@
 ### Technique et outils:
 - [Slack](methodesss.slack.com)
 - [GitHub](https://github.com/)
-- [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Support
 - À venir
