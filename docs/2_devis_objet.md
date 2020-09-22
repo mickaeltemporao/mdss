@@ -12,7 +12,7 @@
 - Réfléchir à une problématique pouvant être explorée avec des données existantes
 
 ### Technique et outils:
-- [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [RStudio](https://rstudio.com/products/rstudio/)
 
 ### Support
