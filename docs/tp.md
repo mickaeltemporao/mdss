@@ -14,7 +14,7 @@
 
 #### Format:
 - 2 pages
-- 5 références (style: Harvard)
+- 5 références (style: [Harvard](https://www.mendeley.com/guides/harvard-citation-guide))
 
 #### Remise:
 - **avant la Séance 3**.
