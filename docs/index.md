@@ -1,9 +1,9 @@
-*Mis à jour le 21/09/2020 09:40* - **Mickael Temporão** <[m.temporao@sciencespobordeaux.fr](mailto:m.temporao@sciencespobordeaux.fr)>
+**Mickael Temporão**
 
 
 # Méthodes des sciences sociales
 
-Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: design, collecte et analyse. Le but est, tout au long du semestre, d'amener les élèves mettre en place un *research design*, effectuer une collecte des données, à les analyser et enfin à rapporter les résultats dans un *paper*. Notez que le cours mettra également l'accent sur les nouveaux outils de recherche disponibles en accès libre. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
+Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: projet, collecte et analyse. Le but est d'amener les étudiant.e.s, à travers ces trois sections, à réaliser un rapport de recherche empirique. Pour ce faire, les étudiant.e.s vont mettre en place un projet de recherche, effectuer une collecte des données, analyser celles-ci et enfin rapporter l'ensemble de la démarche. Notez que le cours mets également l'accent sur les nouveaux outils de recherche *open source*. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
 
 | Horaire         | Jour          | Heure       | Local |
 | -------------   | ------------- | -           | -     |
@@ -13,8 +13,8 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 ## Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
-2. Fournir une compréhension conceptuelle des débats académiques actuels sur les méthodes qualitatives et quantitatives.
-3. Introduire les étudiant.e.s à une boîte d'outils de recherche modernes en accès libre.
+2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
+3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
 
 ### Évaluation
 
@@ -30,20 +30,22 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 | Groupe A   | Groupe B   | Section    | Séance | Description de la séance                       | À préparer                         |
 | -          | -          | -          | :-:    | -                                              | :-:                                |
-| 2020/09/18 | 2020/09/25 | Design     | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Slack                    |
-| 2020/10/02 | 2020/10/09 | Design     | 2      | [L'objet de recherche](2_devis_objet.md)       | King, Keohane, et Verba, 1994     |
+| 2020/09/18 | 2020/09/25 | Projet     | 1      | [Introduction générale](1_devis_intro.md)      | Syllabus, Inscription Slack        |
+| 2020/10/02 | 2020/10/09 | Projet     | 2      | [L'objet de recherche](2_devis_objet.md)       | King, Keohane, et Verba, 1994      |
 | 2020/10/16 | 2020/10/23 | Collecte   | 3      | Considérations éthiques et collecte de données | Lecture, 2; **[TP1](ql_lab_1.md)** |
 | 2020/11/06 | 2020/11/13 | Collecte   | 4      | Données digitales, textuelles et visuelles     | Lecture, 3;                        |
 | 2020/11/20 | 2020/11/27 | Analyse    | 5      | Analyse de contenus, de discours, d'images     | Lecture, 4; **[TP2](ql_lab_2.md)** |
-| 2020/12/04 | 2020/12/11 | Analyse    | 6      | Aide à la recherche                            | Avancement rapport                 |
+| 2020/12/04 | 2020/12/11 | Analyse    | 6      | Le rapport de recherche                        | Brouillon du rapport               |
 
 
 ## Communication
-Si vous avez des questions, posez-les et répondez directement sur [Slack](https://methodesss.slack.com). Si vous avez une question sur un sujet particulier, il est probable que quelqu'un d'autre ait posé la même question. Publier publiquement ces questions/réponses nous permet à tous d'apprendre de manière dynamique.
+Le moyen de communication privilégié pour le cours est #[SLACK](https://methodesss.slack.com). Vous devriez avoir crée votre compte avant la première séance.
+Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://methodesss.slack.com) dans le *channel* approprié.
+Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
 ## Pré-requis
-Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les actvitées de chaque session.
+Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les activés de chaque session.
 
 
 ## Source
