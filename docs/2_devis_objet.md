@@ -13,6 +13,7 @@
 
 ### Technique et outils:
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [RStudio](https://rstudio.com/products/rstudio/)
 
 ### Support
 - À venir
