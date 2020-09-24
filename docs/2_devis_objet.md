@@ -1,5 +1,5 @@
-# Séance 2 - L'objet de recherche
-## Section | Design
+# Section | Projet (2/2)
+## Séance 2 - L'objet de recherche
 
 ### Ordre du jour:
 - La démarche scientifique
@@ -13,7 +13,7 @@
 
 ### Technique et outils:
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [RStudio](https://rstudio.com/products/rstudio/)
 
 ### Support
 - À venir
+
