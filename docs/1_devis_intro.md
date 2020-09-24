@@ -1,4 +1,4 @@
-# Section | Research Design
+# Section | Projet (1/2)
 ## Séance 1 : Introduction générale
 
 ### Ordre du jour:
@@ -8,7 +8,7 @@
 
 ### Prérequis:
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
-- Rejoindre [Slack](methodesss.slack.com)
+- Créer un compte et installer [Slack](methodesss.slack.com)
 
 ### Technique et outils:
 - [Slack](methodesss.slack.com)
@@ -16,6 +16,4 @@
 
 ### Support
 - À venir
-
-**Mots clés:** *introduction, science ouverte*
 
