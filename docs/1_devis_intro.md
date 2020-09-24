@@ -12,7 +12,7 @@
 
 ### Technique et outils:
 - [Slack](methodesss.slack.com)
-- [GitHub](https://github.com/)
+- [GitHub](https://github.com/) (1/2)
 
 ### Support
 - À venir
