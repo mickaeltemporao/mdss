@@ -36,13 +36,13 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 
 ## Communication
-Le moyen de communication privilégié pour le cours est #[SLACK](https://methodesss.slack.com). Vous devriez avoir crée votre compte avant la première séance.
+Le moyen de communication privilégié pour le cours est **[Slack](https://methodesss.slack.com)**. Pour la première séance, vous devez avoir crée votre compte.
 Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://methodesss.slack.com) dans le *channel* approprié.
 Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
 ## Pré-requis
-Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les activés de chaque session.
+Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les activés de chaque séance.
 
 
 ## Source
