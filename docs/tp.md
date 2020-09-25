@@ -2,7 +2,7 @@
 
 ## Partie 1: Méthodes qualitatives
 
-### TP1: Devis de recherche:
+### TP1: Projet de recherche:
 
 #### Objectif:
 
