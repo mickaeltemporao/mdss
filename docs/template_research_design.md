@@ -34,24 +34,27 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
 ## Données et méthode (3 à 5 paragraphes)
 
 ### Population et échantillon d'étude
-    - Comment allez-vous sélectionner les cas pour votre étude? Pourquoi?
-    - Quels critères utiliserez-vous pour sélectionner les cas qui constituerons votre échantillon?
-    - Quelle sera la taille de l'échantillon pour votre étude?
+
+- Comment allez-vous sélectionner les cas pour votre étude? Pourquoi?
+- Quels critères utiliserez-vous pour sélectionner les cas qui constituerons votre échantillon?
+- Quelle sera la taille de l'échantillon pour votre étude?
 
 ### Méthodologie de la recherche
-    - Quel type d'étude allez-vous effectuer? (une étude de cas, une exploration d'un thème, ...)?
-    - Pourquoi est-ce que la méthode qualitative est pertinente pour répondre à cette question (aidez-vous de l'introduction)?
-    - Quelles seront vos sources de données?
-    - Comment allez-vous collecter les données? Sur quelle période?
-    - Comment allez-vous analyser les données
-    - Comment allez-vous coder?
+
+- Quel type d'étude allez-vous effectuer? (une étude de cas, une exploration d'un thème, ...)?
+- Pourquoi est-ce que la méthode qualitative est pertinente pour répondre à cette question (aidez-vous de l'introduction)?
+- Quelles seront vos sources de données?
+- Comment allez-vous collecter les données? Sur quelle période?
+- Comment allez-vous analyser les données
+- Comment allez-vous coder?
 
 ### Biais, éthique et gestion des données
-    - Comment allez-vous gérer les biais et contrôler la qualité de l'étude?
-        - Quels biais prévoyez-vous?
-        - Comment allez-vous gérer ce(s) biais?
-    - Où vous vous situez en tant que chercheur par rapport au sujet étudié?
-    - Comment allez-vous gérer et stocker les données que vous collectez (sécuriser les données)?
+
+- Comment allez-vous gérer les biais et contrôler la qualité de l'étude?
+    - Quels biais prévoyez-vous?
+    - Comment allez-vous gérer ce(s) biais?
+- Où vous vous situez en tant que chercheur par rapport au sujet étudié?
+- Comment allez-vous gérer et stocker les données que vous collectez (sécuriser les données)?
 
 ## Discussion (1-2 paragraphes)
 
