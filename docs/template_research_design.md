@@ -1,5 +1,4 @@
 # Le projet de recherche
-## (à supprimer par l'étudiant)
 
 ## Consignes :
 - Le projet porte sur une **problématique en sciences sociales**.
@@ -7,12 +6,13 @@
 - Le projet contient **5 références d'articles scientifiques** pertinentes ou plus.
 - Les références sont **citées adéquatement** et mises en perspectives dans le projet.
 - Le projet de recherche complet doit faire **2 pages**.
+- Tout ce qui se trouve au-dessus du titre du projet est **à supprimer*.
 
 #### À titre informatif:
 - 1 page = ~ 5 paragraphes
 - 1 paragraphe = ~ 5 phrases
 - 1 phrase = ~ 20 mots
-- Utilisation du style [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les citations
+- Utilisation du style [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les références bibliographiques
 
 ---
 
