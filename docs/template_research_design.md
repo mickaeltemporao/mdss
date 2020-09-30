@@ -35,7 +35,7 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
 
 ### Population et échantillon d'étude
     - Comment allez-vous sélectionner les cas pour votre étude? Pourquoi?
-    - Quels critères utiliserez-vous pour sélectionner les cas qui constitueronos votre échantillon?
+    - Quels critères utiliserez-vous pour sélectionner les cas qui constituerons votre échantillon?
     - Quelle sera la taille de l'échantillon pour votre étude?
 
 ### Méthodologie de la recherche
@@ -55,12 +55,12 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
 
 ## Discussion (1-2 paragraphes)
 
-- Présentez vos attentes en termes de résultatas (aides vous de vos hypothèses).
+- Présentez vos attentes en termes de résultats (aides vous de vos hypothèses).
 - Quelles sont les inconnues et risques à ce stades?
 - Quelles sont les limites de votre projet de recherche?
 - Comment pourrait l'améliorer davantage?
 - Que pourrait-on changer ou faire différemment?
 
 ## Bibliographie
-Listez toutes les sources auxquelles vous faites référence dans votre projet au toujours au format [APA](https://www.mendeley.com/guides/apa-citation-guide).
+- Listez TOUTES les sources auxquelles vous faites référence directement ou indirectement dans votre projet (format [APA](https://www.mendeley.com/guides/apa-citation-guide)).
 
