@@ -1,11 +1,9 @@
-# TP1: Devis de recherche:
+# TP1: Projet de recherche:
 
-## Objectif:
-- Ancrage théorique
-- Problématique
-- Hypothèse(s)
-- Données et méthode d'analyse*
-- Attentes
+## Objectifs d'apprentissage:
+- Apprendre à concevoir et planifier un projet de recherche
+- Apprendre à formuler des questions de recherche pertinentes pour étudier des phénomènes sociaux
+- Apprendre à ancrer un projet dans une littérature scientifique approprié
 
 ## Format:
 - 2 pages
@@ -13,3 +11,4 @@
 
 ## Remise:
 - **avant la Séance 3**.
+
