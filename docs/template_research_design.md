@@ -33,12 +33,12 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
 
 ## Données et méthode (3 à 5 paragraphes)
 
-1. Population et échantillon d'étude
+### Population et échantillon d'étude
     - Comment allez-vous sélectionner les cas pour votre étude? Pourquoi?
     - Quels critères utiliserez-vous pour sélectionner les cas qui constitueronos votre échantillon?
     - Quelle sera la taille de l'échantillon pour votre étude?
 
-2. Méthodologie de la recherche
+### Méthodologie de la recherche
     - Quel type d'étude allez-vous effectuer? (une étude de cas, une exploration d'un thème, ...)?
     - Pourquoi est-ce que la méthode qualitative est pertinente pour répondre à cette question (aidez-vous de l'introduction)?
     - Quelles seront vos sources de données?
@@ -46,7 +46,7 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
     - Comment allez-vous analyser les données
     - Comment allez-vous coder?
 
-3. Biais, éthique et gestion des données
+### Biais, éthique et gestion des données
     - Comment allez-vous gérer les biais et contrôler la qualité de l'étude?
         - Quels biais prévoyez-vous?
         - Comment allez-vous gérer ce(s) biais?
