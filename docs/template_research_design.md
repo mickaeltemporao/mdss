@@ -19,7 +19,9 @@
 # TITRE DU PROJET
 
 ## Introduction (3 à 5 paragraphes)
+
 Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
+
     - Ancrage théorique et travaux existants sur le sujet.
         - Vous n'avez pas le temps d'effectuer une revue exhaustive de la littérature.
         - Présentez quelques articles sur votre sujet pour constituer une base théorique.
@@ -45,20 +47,20 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
     - Comment allez-vous coder?
 
 3. Biais, éthique et gestion des données
-    - Comment allez-vous gérer les biais et contrôler la qualité de l’étude?
-        - Que prévoyez-vous comme biais?
-        - Comment allez-vous gérer ce biais?
+    - Comment allez-vous gérer les biais et contrôler la qualité de l'étude?
+        - Quels biais prévoyez-vous?
+        - Comment allez-vous gérer ce(s) biais?
     - Où vous vous situez en tant que chercheur par rapport au sujet étudié?
     - Comment allez-vous gérer et stocker les données que vous collectez (sécuriser les données)?
 
 ## Discussion
 
-Présentez vos attentes en termes de résultatas (aides vous de vos hypothèses).
-Quelles sont les inconnues et risques à ce stades?
-Quelles sont les limites de votre projet de recherche?
-Comment pourrait l'améliorer davantage?
-Que pourrait-on changer ou faire différemment?
+- Présentez vos attentes en termes de résultatas (aides vous de vos hypothèses).
+- Quelles sont les inconnues et risques à ce stades?
+- Quelles sont les limites de votre projet de recherche?
+- Comment pourrait l'améliorer davantage?
+- Que pourrait-on changer ou faire différemment?
 
 ## Bibliographie
-Vous listerez toutes les sources auxquelles vous faites référence n'importe où dans votre étude (revue de la littérature, discussion, introduction
+Listez toutes les sources auxquelles vous faites référence dans votre projet au toujours au format [APA](https://www.mendeley.com/guides/apa-citation-guide).
 
