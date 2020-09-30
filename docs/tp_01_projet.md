@@ -9,7 +9,9 @@
 - Voir [modèle](template_research_design)
 - 2 pages
 - 5 références (style: [APA](https://www.mendeley.com/guides/apa-citation-guide))
+- Fichier [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Remise:
 - **avant la Séance 3**.
+- GitHub Classroom
 
