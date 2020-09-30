@@ -6,8 +6,9 @@
 - Apprendre à ancrer un projet dans une littérature scientifique approprié
 
 ## Format:
+- Voir [modèle](template_research_design)
 - 2 pages
-- 5 références (style: Harvard)
+- 5 références (style: [APA](https://www.mendeley.com/guides/apa-citation-guide))
 
 ## Remise:
 - **avant la Séance 3**.

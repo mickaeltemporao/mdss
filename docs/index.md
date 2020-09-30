@@ -15,8 +15,8 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 ### Évaluation
 
-- 30% : [Participation](part.md)
-- 30% : [Travaux Pratiques](tp.md)
+- 30% : [Participation](participation.md)
+- 30% : [Travaux Pratiques](travaux_pratiques.md)
 - 40% : [Rapport de recherche](rapport.md)
 
 
