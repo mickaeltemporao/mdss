@@ -1,0 +1,116 @@
+\documentclass[10pt]{beamer}
+\usetheme{metropolis}
+
+\usepackage{amsmath, booktabs, fontawesome5, natbib, subfigure, xcolor}
+
+\usepackage[font=small,skip=0pt]{caption}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\usepackage{graphicx}
+\graphicspath{{../imgs/}}
+
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+\usepackage{appendixnumberbeamer}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+\tikzstyle{rect} = [rectangle, rounded corners, minimum width=2cm, minimum height=1.5cm, text centered, draw=black, fill=black!30]
+\tikzstyle{squa} = [square, rounded corners, minimum width=1.25cm, minimum height=1.25cm, text centered, draw=black, fill=black!30]
+\tikzstyle{elli} = [ellipse, minimum width=1.25cm, minimum height=1cm, text centered, draw=black, fill=black!30]
+\tikzstyle{circ} = [circle, minimum width=1cm, minimum height=1cm, text centered, draw=black, fill=black!30]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{drrow} = [thick,<->,>=stealth]
+\tikzstyle{dline} = [dashed, ->, >=stealth]
+\tikzstyle{dotted} = [densely dotted, ->, >=stealth]
+
+\def\firstcircle{(90:1.75cm) circle (2.5cm)}
+\def\secondcircle{(210:1.75cm) circle (2.5cm)}
+\def\thirdcircle{(330:1.75cm) circle (2.5cm)}
+\tikzset{fontscale/.style = {font=\relsize{#1}}}
+
+\titlegraphic{\hfill\includegraphics[height=1.25cm]{~/Documents/scpobx/logo.pdf}}
+\title{Méthodes des sciences sociales}
+\subtitle{Séance 2: L'objet de recherche}
+\author{Mickael Temporão}
+% \institute{Sciences Po Bordeaux}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Méthodes des sciences sociales}
+    \onslide<1->{
+        \begin{block}{Ordre du jour}
+            \begin{itemize}
+                \item<2-> Discussion : \textit{KKV} Chapitre 1
+                \item<3-> Composantes d'un projet de recherche
+% TODO: Plan du travail à remettre
+                \item<4-> Objet, sources et problématique
+                    % Caractéristiques d'une bonne questions
+                    % Identifier un objet, sources et problématiques
+            \end{itemize}
+        \end{block}
+    }
+    \vspace{24pt}
+    \onslide<6->{
+        \begin{block}{\faTrophy~BONUS}
+        \begin{itemize}
+            \item[] \faGithubSquare~Github
+            \item[] \faRProject~R
+            \item[] \faPollH~Rétrospective
+        \end{itemize}
+        \end{block}
+    }
+\end{frame}
+
+\begin{frame}{Fonctionnement du cours}
+
+    \onslide<2->{
+    \begin{block}{Déroulement d'une séance}
+    \begin{center}
+        \begin{tikzpicture}[node distance=1.5cm]
+        \onslide<3->{
+            \node (pres) [rect, xshift=-8cm] {Présentation};
+        }
+        \onslide<4->{
+            \node (acti) [rect, xshift=2cm, right of=pres] {Activité(s)};
+            \draw [arrow] (pres) -- (acti);
+        }
+        \onslide<5->{
+            \node (disc) [rect, xshift=2cm, right of=acti] {Discussion};
+            \draw [arrow] (acti) -- (disc);
+        }
+        \end{tikzpicture}
+    \end{center}
+    \end{block}
+    }
+
+
+\end{frame}
+
+\section{Bonus}
+
+\begin{frame}{Bonus...}
+        \begin{itemize}
+            \item[] \faSlack ~Slack
+            \item[] \faGithubSquare~Github
+        \end{itemize}
+\end{frame}
+
+
+\begin{frame}[standout]
+    \begin{flushright}
+        \vspace{100pt}
+        \small\faTwitter~$@$mickaeltemporao
+    \end{flushright}
+\end{frame}
+
+\end{document}

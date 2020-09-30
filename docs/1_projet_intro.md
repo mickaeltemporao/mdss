@@ -15,5 +15,5 @@
 - [GitHub](https://github.com/) (1/2)
 
 ### Support
-- [Slides](slides/semestre_01_séance_01.pdf)
+- [Slides](slides/semestre_01_projet_séance_01.pdf)
 
