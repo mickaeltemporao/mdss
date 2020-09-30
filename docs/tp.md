@@ -1,33 +1,10 @@
-# Travaux Pratiques
+# Les travaux pratiques
 
-## Partie 1: Méthodes qualitatives
+## Partie 1 : Les Méthodes qualitatives
 
-### TP1: Projet de recherche:
+- TP1 : [Le projet de recherche](tp_01_projet)
+- TP2 : [La collecte et présentation des données](tp_02_données)
 
-#### Objectif:
+## Partie 2 : Les Méthodes quantitatives
 
-- Ancrage théorique
-- Problématique
-- Hypothèse(s)
-- Données et méthode d'analyse*
-- Attentes
-
-#### Format:
-- 2 pages
-- 5 références (style: [Harvard](https://www.mendeley.com/guides/harvard-citation-guide))
-
-#### Remise:
-- **avant la Séance 3**.
-
-### TP2: Collecte et présentation des données
-
-#### Objectif:
-- Collecte de données terminée
-- Présentation des données collectées
-- Présentation des problèmes liés à la collecte
-
-#### Format:
-- 1 page
-
-#### Remise:
-- **avant la Séance 5**.
+- À venir...
