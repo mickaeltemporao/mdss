@@ -12,7 +12,8 @@
 - 1 page = ~ 5 paragraphes
 - 1 paragraphe = ~ 5 phrases
 - 1 phrase = ~ 20 mots
-- Utilisation du style APA pour les citations
+- Utilisation du style [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les citations
+
 ---
 
 # TITRE DU PROJET
