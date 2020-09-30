@@ -33,6 +33,8 @@ Paragraphes d'introduction ou vous présentez un aperçu de votre projet.
 
 ## Données et méthode (3 à 5 paragraphes)
 
+Présentez vos données et votre méthodologie. Similaire à une recette de cuisine: vous avez besoin d'ingrédients et d'étatpes de préparation.
+
 #### Population et échantillon d'étude
 
 - Comment allez-vous sélectionner les cas pour votre étude? Pourquoi?
