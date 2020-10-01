@@ -8,7 +8,7 @@
 
 ### Prérequis:
 - Lecture :
-    - King, G., Keohane, R.O. and Verba, S., 1994. "Chapter 2: Descriptive Inference." in *Designing Social Inquiry: Scientific inference in Qualitative Research.* Princeton University Press.
+    - À venir
 
 
 ### Technique et outils:
