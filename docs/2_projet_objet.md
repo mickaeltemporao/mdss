@@ -2,26 +2,19 @@
 ## Séance 2 - L'objet de recherche
 
 ### Ordre du jour:
-- La démarche scientifique
-- Les composantes d'un projet de recherche
-- Identifier son objet de recherche
+- La science en sciences sociales
+- La démarche empirique et alternatives
+- Le projet de recherche
 
 ### Prérequis:
 - Lecture :
     - King, G., Keohane, R.O. and Verba, S., 1994. "Chapter 1: The Science in Social Science." in *Designing Social Inquiry: Scientific inference in Qualitative Research.* Princeton University Press.
-- Réfléchir à un objet de recherche pouvant être étudié avec des données secondaires
+- Réfléchir à un objet de recherche pouvant être étudié avec des données existantes.
 
 ### Technique et outils:
-- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub](https://github.com/) (2/2)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Support
 - À venir
-
-
-Exercices
-Theme
-- Litérature
-- Collecte de données
-- DAG Exercise
 
