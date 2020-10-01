@@ -2,6 +2,7 @@
 ## Séance 2 - L'objet de recherche
 
 ### Ordre du jour:
+- Présentation et discussion : Chapitre 1 **KKV**
 - La science en sciences sociales
 - La démarche empirique et alternatives
 - Le projet de recherche
