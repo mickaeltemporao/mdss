@@ -1,5 +1,5 @@
 # Section | Projet (2/2)
-## Séance 2 - L'objet de recherche
+## Séance 2 - Le projet de recherche
 
 ### Ordre du jour:
 - Présentation discussion

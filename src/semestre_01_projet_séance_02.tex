@@ -50,12 +50,9 @@
     \onslide<1->{
         \begin{block}{Ordre du jour}
             \begin{itemize}
-                \item<2-> Discussion : \textit{KKV} Chapitre 1
-                \item<3-> Composantes d'un projet de recherche
-% TODO: Plan du travail à remettre
-                \item<4-> Objet, sources et problématique
-                    % Caractéristiques d'une bonne questions
-                    % Identifier un objet, sources et problématiques
+                \item<2-> Présentation et discussion
+                \item<3-> La methode scientifique et ses alternatives
+                \item<5-> Le projet de recherche
             \end{itemize}
         \end{block}
     }
@@ -64,35 +61,214 @@
         \begin{block}{\faTrophy~BONUS}
         \begin{itemize}
             \item[] \faGithubSquare~Github
-            \item[] \faRProject~R
+            \item[] \faMarkdown~R
             \item[] \faPollH~Rétrospective
         \end{itemize}
         \end{block}
     }
 \end{frame}
 
-\begin{frame}{Fonctionnement du cours}
+\section{Présentation et discussion}
+\section{La méthode scientifique}
 
-    \onslide<2->{
-    \begin{block}{Déroulement d'une séance}
-    \begin{center}
-        \begin{tikzpicture}[node distance=1.5cm]
-        \onslide<3->{
-            \node (pres) [rect, xshift=-8cm] {Présentation};
-        }
-        \onslide<4->{
-            \node (acti) [rect, xshift=2cm, right of=pres] {Activité(s)};
-            \draw [arrow] (pres) -- (acti);
-        }
-        \onslide<5->{
-            \node (disc) [rect, xshift=2cm, right of=acti] {Discussion};
-            \draw [arrow] (acti) -- (disc);
-        }
-        \end{tikzpicture}
-    \end{center}
-    \end{block}
+
+\begin{frame}{La méthode scientifique}
+    \onslide<1-> {
+        \begin{block}{Qu'est-ce que la science?}
+            \begin{itemize}
+                \item <2-> Un pratique utilisant une méthode systématique d'observation de phénomènes dans le but d'accroitre notre connaissance sur un sujet.
+                \item <3-> La méthode systématique = la méthode scientifique.
+            \end{itemize}
+        \end{block}
     }
+    \onslide<4-> {
+        \begin{block}{Trois étapes}
+            \begin{enumerate}
+                \item <5-> Question initiale sur un phénomène
+                \item <5-> Développement d'une théorie proposant une réponse à la question
+                \item <5-> Collecte des données empiriques pour tester la théorie
+                    \begin{itemize}
+                        \item Les données sont collectés de manière systématique!
+                    \end{itemize}
+            \end{enumerate}
+        \end{block}
+    }
+    \onslide<6-> La méthode scientifique s'ancre dans le courant \textbf{positiviste}!
+\end{frame}
 
+\begin{frame}{Le positivisme}
+    \onslide<1-> {
+        \begin{columns}
+            \begin{column}{.7\textwidth}
+                \begin{itemize}
+                    \item Introduit par Auguste Compte
+                    \item Les phénomènes peuvent être étudiés en les observant.
+                    \item Ces observations peuvent être regroupées afin d'obtenir des faits et créer théories qui peuvent nous aider à comprendre le monde.
+                \end{itemize}
+            \end{column}
+            \begin{column}{.3\textwidth}
+            \includegraphics[width=\textwidth]{comte}
+            \end{column}
+        \end{columns}
+    }
+\end{frame}
+
+
+\begin{frame}{C'est quoi le positivisme?}
+        \begin{columns}
+            \begin{column}{.7\textwidth}
+                \onslide<2-> {
+                \begin{block}{Positif?}
+                    \onslide<3-> {
+                    Une théorie positiviste est une théorie qui est objective et basée sur des faits.
+                }
+                \end{block}
+            }
+                \onslide<4-> {
+                \begin{block}{Normatif}
+                \onslide<4-> {
+                    Une théorie normative est une théorie qui est basée sur des jugements de valeurs et des interprétations.
+                }
+                \end{block}
+        }
+            \end{column}
+            \begin{column}{.3\textwidth}
+            \includegraphics[width=\textwidth]{glass}
+            \end{column}
+        \end{columns}
+\end{frame}
+
+
+\begin{frame}{La sociologie positiviste}
+
+    L'étude de la société basé sur l'observation systématique de comportements sociaux.
+    \begin{itemize}
+        \item Importance de l'objectivité!
+        \item Mettre de côté ses valeurs et croyances
+        \item Approcher son objet d'étude comme un observateur neutre
+        \item Se baser sur des preuves empiriques pour répondre à des questions sur le fonctionnement du monde social.
+    \end{itemize}
+
+    \begin{block}{Quel types de preuves empiriques?}
+    \begin{itemize}
+        \item Données quantitatives
+        \item Données qualitatives
+    \end{itemize}
+    \end{block}
+\end{frame}
+
+\begin{frame}{La sociologie positiviste}
+    \begin{block}{La recherche quantitative}
+        La recherche quantitative se concentre sur l'étude de phénomènes sociaux observables dans le monde en utilisant généralement des données quantifiables et des modèles statistiques.
+    \begin{itemize}
+        \item L'objectif est de mesurer
+        \item Données sous forme numérique
+        \item Les informations peuvent être comptées \\(âge, revenu, ... mais aussi sexe, département...)
+    \end{itemize}
+    \end{block}
+
+    On s'intéresse à mesurer l'effet d'une variable sur une autre:
+    \begin{itemize}
+        \item $Y = \alpha + \beta*x_i + \epsilon$
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{La sociologie positiviste}
+    \begin{block}{La recherche qualitative}
+        La recherche qualitative est l'étude de phénomènes sociaux observables plus difficilement quantifiables en se basant généralement sur des entretiens, questionnaires ou de l'observation participante ou non.
+    \begin{itemize}
+        \item L'objectif est d'illustrer ou de caractériser
+        \item Données ne sont pas sous forme numérique
+        \item L'information dont on a besoin ne peut être ou ne devrait pas être simplifié a un nombre dans un tableau
+    \end{itemize}
+    \end{block}
+
+    On s'intéresse aux opinions et au valeurs latentes:
+    \begin{itemize}
+        \item Pourquoi certains citoyens refusent d'aller voter?
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{La sociologie positiviste}
+    \begin{block}{Limites}
+    Les études scientifiques impliquant des sujets humains et leur comportements viennent avec de nombreux défis.
+    \begin{itemize}
+        \item Ce qui nous intéresse n'est pas toujours observable
+        \item Les humains ne sont pas toujours prévisibles
+        \item Expériences difficilement contrôlables
+        \item Implications éthiques
+        \item On ne veut pas forcément modifier les conditions réelles
+    \end{itemize}
+    \end{block}
+\end{frame}
+
+\begin{frame}{La sociologie positiviste}
+    \begin{columns}
+        \begin{column}{0.7\textwidth}
+    \begin{block}{Hawtorne Effect}
+    \begin{itemize}
+        \item Elton Mayo,
+        \item Objectif : améliorer la productivité des travailleurs.
+        \item Groupe contrôle : mêmes conditions
+        \item Groupe test : ajustement de l'éclairage, heures de travail, pauses, ...
+    \end{itemize}
+    \end{block}
+        \end{column}
+        \begin{column}{0.3\textwidth}
+            \includegraphics[width=\textwidth]{light}
+        \end{column}
+    \end{columns}
+    \only<2>{Les travailleurs du groupe test sont devenus plus productifs et les taux d'absentéisme ont diminué!}
+    \only<3>{La croissance de productivité observée n'est pas due aux facteurs expérimentaux testés!}
+    \only<4>{Les chercheurs ont pris conscience que leur présence affecte les résultats de l'expérience (biais dans la collecte de données).\\ -> \textbf{Hawtorne effect} et illustre l'importance des entretiens!}
+\end{frame}
+
+
+\begin{frame}{La sociologie positiviste}
+    \begin{columns}
+        \begin{column}{0.8\textwidth}
+    \begin{itemize}
+        \item Tous les phénomènes sociaux ne sont applicables à tous les individus à toutes les périodes.
+    \onslide<2->{
+        \item La vérité n'est pas toujours objective!
+    }
+    \end{itemize}
+        \end{column}
+    \onslide<3->{
+        \begin{column}{0.4\textwidth}
+            \includegraphics[width=\textwidth]{ramen}
+        \end{column}
+    }
+    \end{columns}
+\end{frame}
+
+\begin{frame}{La sociologie positiviste}
+    \begin{block}{Autres considérations}
+    \end{block}
+    \begin{itemize}
+        \item Les expériences subjectives sont également valides, importantes et peuvent aussi être étudiés.
+        \item Nous ne pouvons pas généraliser cela à l'ensemble des individus et trouver la vérité avec un grand V.
+        \item Mais nous pouvons nous intéresser à comment différentes tendances émergeant des différentes expériences subjectives individuelles pour former les structures qui composent notre monde social.
+    \end{itemize}
+
+\textbf{La subjectivité} c'est la signification que les individus donnent à leur expériences vécues.
+
+\end{frame}
+
+\section{Le projet de recherche}
+
+\begin{frame}{Le projet de recherche}
+    \begin{block}{Exercice préparatoire}
+    \end{block}
+    \begin{enumerate}
+        \item Identifiez un thème
+        \item Recherchez des articles scientifiques
+        \item Identifier une problématique à partir des articles
+        \item Identifier quel types de données pourraient vous aider
+        \item Tentez de collecter quelques données
+    \end{enumerate}
+
+\textbf{Présentez!}
 
 \end{frame}
 
