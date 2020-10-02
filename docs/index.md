@@ -29,9 +29,9 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 | -          | -          | -        | :-:    | -                                          | :-:                                                                                                         |
 | 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction générale](1_projet_intro.md) | [Syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/), Inscription [Slack](https://methodesss.slack.com) |
 | 2020/10/02 | 2020/10/09 | Projet   | 2      | [L'objet de recherche](2_projet_objet.md)  | (KKV, 1994, chap. 1)                                                                                        |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)          | Lecture 2; **[TP1](ql_lab_1.md)**                                                                           |
+| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)          | Lecture 2; **[TP1](tp_01_projet)**                                                                          |
 | 2020/11/06 | 2020/11/13 | Collecte | 4      | Biais et inférence                         | (KKV, 1994, chap. 2);                                                                                       |
-| 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                       | Lecture, 4; **[TP2](ql_lab_2.md)**                                                                          |
+| 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                       | Lecture, 4; **[TP2](tp_02_données)**                                                                        |
 | 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                    | Brouillon du rapport                                                                                        |
 
 
