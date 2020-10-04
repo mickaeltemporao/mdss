@@ -19,9 +19,8 @@
 - Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
 
 #### [Lecture](Lecture)
-- King, G., Keohane, R. O., & Verba, S. (1994). "Chapter 1: The Science in Social Science." in *Designing social inquiry: Scientific inference in qualitative research*. Princeton university press. 3-33.
+- [King, G., Keohane, R. O., & Verba, S. (1994). "Chapter 1: The Science in Social Science." in *Designing social inquiry: Scientific inference in qualitative research*. Princeton university press. 3-33.](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
 
 ### Support
 - [Slides](slides/semestre_01_projet_séance_02.pdf)
 
-https://books.google.fr/books/about/Designing_Social_Inquiry.html?id=A7VFF-JR3b8C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
