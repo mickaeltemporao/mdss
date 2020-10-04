@@ -1,9 +1,11 @@
 # Section | Projet (1/2)
 ## Séance 1 : Introduction générale
 
+
 ### Ordre du jour:
+
 #### Théorie
--  Le syllabus
+-  Le [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
 
 #### Application
 -  Groupes et ordre de passage
