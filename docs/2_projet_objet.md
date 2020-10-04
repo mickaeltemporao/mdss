@@ -18,7 +18,7 @@
 - Réfléchir à un objet de recherche pouvant être étudié avec des données existantes.
 - Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
 
-#### [Lecture](Lecture)
+#### Lecture
 - [King, G., Keohane, R. O., & Verba, S. (1994). "Chapter 1: The Science in Social Science." in *Designing social inquiry: Scientific inference in qualitative research*. Princeton university press. 3-33.](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
 
 ### Support
