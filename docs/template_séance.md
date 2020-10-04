@@ -1,17 +1,22 @@
-## Section | Collecte
-# Séance 1 - Intro ...
+# Section : ...
+## Séance ... - ...
 
-### Ordre du jour:
+
+### Ordre du jour
+#### Théorie
 - ...
 
-### Préparation(s):
+#### Application
 - ...
 
-### Activité(s) prévues:
+#### Technique
 - ...
+
+
+### À préparer avant cette séance
 - ...
+
 
 ### Support
 - ...
-
 
