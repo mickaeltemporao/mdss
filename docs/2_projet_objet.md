@@ -7,7 +7,8 @@
 - La méthode scientifique
 
 #### Application
-- Thème, ancrage et problématique
+- Thème, ancrage théorique et problématique
+- Citations et bibliographie
 
 #### Technique
 - [GitHub Classrooms](https://classroom.github.com/classrooms/71120711-methode-des-sciences-sociales)
@@ -15,10 +16,12 @@
 
 ### À préparer avant cette séance
 - Réfléchir à un objet de recherche pouvant être étudié avec des données existantes.
-#### Lecture
-- [King, G., Keohane, R.O. and Verba, S., 1994. "Chapter 1: The Science in Social Science." in *Designing Social Inquiry: Scientific inference in Qualitative Research.* Princeton University Press.](https://books.google.fr/books/about/Designing_Social_Inquiry.html?id=A7VFF-JR3b8C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 - Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
+
+#### [Lecture](Lecture)
+- King, G., Keohane, R. O., & Verba, S. (1994). "Chapter 1: The Science in Social Science." in *Designing social inquiry: Scientific inference in qualitative research*. Princeton university press. 3-33.
 
 ### Support
 - [Slides](slides/semestre_01_projet_séance_02.pdf)
 
+https://books.google.fr/books/about/Designing_Social_Inquiry.html?id=A7VFF-JR3b8C&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false
