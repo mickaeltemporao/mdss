@@ -8,6 +8,11 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 | Heure de bureau | Vendredi      | 11h30-12h30 | B.139 |
 
 
+### Pré-requis
+Un ordinateur est nécessaire lors de chaque séance afin de pouvoir suivre les différentes activés.
+- Avant la première séance, vous devez avoir crée votre compte sur **[Slack](https://methodesss.slack.com)**.
+
+
 ## Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
 2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
@@ -27,22 +32,18 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 | Groupe A   | Groupe B   | Section  | Séance | Thème                                       | À préparer                                                                                                  |
 | -          | -          | -        | :-:    | -                                           | :-:                                                                                                         |
-| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction générale](1_projet_intro.md)  | [Syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/), Inscription [Slack](https://methodesss.slack.com) |
+| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction générale](1_projet_intro.md)  | [Syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)                                                    |
 | 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | (KKV, 1994, chap. 1)                                                                                        |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)           | Lecture 2; **[TP1](tp_01_projet)**                                                                          |
+| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)           | (Gerring, 2017) **[TP1](tp_01_projet)**                                                                     |
 | 2020/11/06 | 2020/11/13 | Collecte | 4      | Biais et inférence                          | Lecture 3;                                                                                                  |
 | 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                        | Lecture 4; **[TP2](tp_02_données)**                                                                         |
 | 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | Brouillon du rapport                                                                                        |
 
 
 ## Communication
-Le moyen de communication privilégié pour le cours est **[Slack](https://methodesss.slack.com)**. Pour la première séance, vous devez avoir crée votre compte.
+Le moyen de communication privilégié pour le cours est **[Slack](https://methodesss.slack.com)**.
 Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://methodesss.slack.com) dans le *channel* approprié.
 Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
-
-
-## Pré-requis
-Il est nécessaire d'apporter un ordinateur portable afin de pouvoir suivre les activés de chaque séance.
 
 
 ## Source
