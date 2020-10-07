@@ -11,9 +11,11 @@ I try to always give credit but if I forgot anyone, please feel free to reach ou
 
 Special thanks to:
 - Jeffrey Arnold
-- Pablo Barbera 
+- Pablo Barberá
+- Yannick Dufresne
 - Anja Durovic 
-- Viviane Le Hay 
+- Viviane Le Hay
+
 
 # Bugs & Feedback
 If you have any feedback on the course or find any typos or errors in this website go to issues, click on the “New Issue” button to create a new issue, and add your suggestion or describe the problem.
