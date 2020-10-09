@@ -1,11 +1,10 @@
 # Méthodes des sciences sociales
-
 Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: projet, collecte et analyse. Le but est d'amener les étudiant.e.s, à travers ces trois sections, à réaliser un rapport de recherche empirique. Pour ce faire, les étudiant.e.s vont mettre en place un projet de recherche, effectuer une collecte des données, analyser celles-ci et enfin rapporter l'ensemble de la démarche. Notez que le cours mets également l'accent sur les nouveaux outils de recherche *open source*. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
 
 | Horaire         | Jour          | Heure       | Local |
 | -------------   | ------------- | -           | -     |
 | Conférence      | Vendredi      | 09h45-11h15 | A.138 |
-| Heure de bureau | Vendredi      | 11h30-12h30 | B.139 |
+| Heure de bureau | Vendredi      | 11h30-12h30 | B.140 |
 
 
 ### Pré-requis
@@ -19,25 +18,24 @@ Un ordinateur est nécessaire lors de chaque séance afin de pouvoir suivre les 
 3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
 
 ### Évaluation
-
 - 30% : [Participation](participation.md)
 - 30% : [Travaux Pratiques](travaux_pratiques.md)
 - 40% : [Rapport de recherche](rapport.md)
 
 
 ## Séances
-
 La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est répartie en 2x6 [séances](seance.md) afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le *Groupe A* débute sa première séance le 2020/09/18, tandis que le *Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupe.
 
 
-| Groupe A   | Groupe B   | Section  | Séance | Thème                                       | À préparer                                                                                                  |
-| -          | -          | -        | :-:    | -                                           | :-:                                                                                                         |
-| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction générale](1_projet_intro.md)  | [Syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)                                                    |
-| 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | (KKV, 1994, chap. 1)                                                                                        |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)           | (Gerring, 2017) **[TP1](tp_01_projet)**                                                                     |
-| 2020/11/06 | 2020/11/13 | Collecte | 4      | Biais et inférence                          | Lecture 3;                                                                                                  |
-| 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                        | Lecture 4; **[TP2](tp_02_données)**                                                                         |
-| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | Brouillon du rapport                                                                                        |
+| Groupe A   | Groupe B   | Section  | Séance | Thème                                       | Lecture préparer                                         | Remise                   |
+| -          | -          | -        | :-:    | -                                           | :-:                                                      |                          |
+| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction générale](1_projet_intro.md)  | [Syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/) |                          |
+| 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | King, Kehoanne and Verba, 1994, chap. 1                  |                          |
+| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Types de données](3_collecte.md)           | Gerring, 2017                                            | **[TP1](tp_01_projet)**  |
+| 2020/11/06 | 2020/11/13 | Collecte | 4      | Biais et inférence                          | Lecture 3                                                |                          |
+| 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                        | Lecture 4                                                | **[TP2](tp_02_données)** |
+| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | Brouillon du rapport                                     |                          |
+| 2021/01/11 | 2021/01/18 | -        | -      | -                                           | -                                                        | Rapport Final            |
 
 
 ## Communication
@@ -47,7 +45,6 @@ Publier publiquement ses questions/réponses nous permet à tous d'apprendre de 
 
 
 ## Source
-
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
 
 
