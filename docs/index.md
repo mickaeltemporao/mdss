@@ -29,12 +29,12 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 | Groupe A   | Groupe B   | Section  | Séance | Thème                                       | Lecture                     | Remise                       |
 | -          | -          | -        | :-:    | -                                           | :-:                         | :-:                          |
-| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction](1_projet_intro.md)           | [Syllabus](index)           |                              |
-| 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | [Lecture 1](2_projet_objet) |                              |
+| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction](1_projet_intro.md)           | [Syllabus](index)           | -                            |
+| 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | [Lecture 1](2_projet_objet) | -                            |
 | 2020/10/16 | 2020/10/23 | Collecte | 3      | [Les types de données](3_collecte.md)       | [Lecture 2](3_collecte)     | **[TP1](tp_01_projet)**      |
-| 2020/11/06 | 2020/11/13 | Collecte | 4      | Les biais et l'inférence                    | [Lecture 3](Lecture 3)      |                              |
+| 2020/11/06 | 2020/11/13 | Collecte | 4      | Les biais et l'inférence                    | [Lecture 3](Lecture 3)      | -                            |
 | 2020/11/20 | 2020/11/27 | Analyse  | 5      | L'analyse de contenu                        | [Lecture 4](Lecture 4)      | **[TP2](tp_02_données)**     |
-| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | Brouillon du rapport        |                              |
+| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | Brouillon du rapport        | -                            |
 | 2021/01/11 | 2021/01/18 | -        | -      | -                                           | -                           | **[Rapport Final](rapport)** |
 
 
