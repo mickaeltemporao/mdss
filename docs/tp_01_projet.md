@@ -6,7 +6,7 @@
 - Apprendre à ancrer un projet dans une littérature scientifique approprié
 
 ## Consignes:
-- Voir [template](https://github.com/mickaeltemporao/template-research-design-fr/blob/main/README.md)
+- Voir [template](https://github.com/mickaeltemporao/template-research-design-fr)
 - Fichier [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (*.md*)
 
 ## Remise:
