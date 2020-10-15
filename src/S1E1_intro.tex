@@ -37,9 +37,9 @@
 
 \titlegraphic{\hfill\includegraphics[height=1.25cm]{~/Documents/scpobx/logo.pdf}}
 \title{Méthodes des sciences sociales}
-\subtitle{Séance 1: Introduction générale}
+\subtitle{Séance 1 : Introduction générale}
 \author{Mickael Temporão}
-\institute{\faTwitter~$@$mickaeltemporao}
+\institute{\faEnvelope~$m.temporao@sciencespobordeaux.fr$\\\faTwitter~$@mickaeltemporao$}
 \date{}
 
 
@@ -48,31 +48,16 @@
 \maketitle
 
 \begin{frame}{Méthodes des sciences sociales}
-    \onslide<2->{
-        \begin{block}{Ordre du jour}
-            \begin{itemize}
-                \item<3-> Présentations
-                \item<4-> Fonctionnement du cours
-                \item<5-> Groupes et ordre de passage
-            \end{itemize}
-        \end{block}
-    }
-    \vspace{24pt}
-    \onslide<6->{
-        \begin{block}{\faTrophy~BONUS}
+    \begin{block}{Ordre du jour}
         \begin{itemize}
-            \item[] \faSlack ~Slack
-            \item[] \faGithubSquare~Github
+            \item[\faBook] Théorie : Fonctionnement du cours
+            \item[\faFlask] Pratique : Groupes et ordre de passage
+            \item[\faLaptopCode] Technique : Github \faGithubSquare
         \end{itemize}
-        \end{block}
-    }
+    \end{block}
 \end{frame}
 
-\section{Présentations}
-\section{Fonctionnement du cours}
-
-\begin{frame}{Fonctionnement du cours}
-\end{frame}
+\section{\faBook~Théorie }
 
 \begin{frame}{Fonctionnement du cours}
     \begin{center}
@@ -193,38 +178,42 @@
 }
 
 \end{block}
-
     \onslide<2->{
     \begin{block}{Déroulement d'une séance}
     \begin{center}
         \begin{tikzpicture}[node distance=1.5cm]
         \onslide<3->{
-            \node (pres) [rect, xshift=-8cm] {Présentation};
+            \node (pres) [rect, xshift=-8cm] {\faBook~Théorie};
         }
         \onslide<4->{
-            \node (acti) [rect, xshift=2cm, right of=pres] {Activité(s)};
+            \node (acti) [rect, xshift=2cm, right of=pres] {\faFlask~Pratique};
             \draw [arrow] (pres) -- (acti);
         }
         \onslide<5->{
-            \node (disc) [rect, xshift=2cm, right of=acti] {Discussion};
+            \node (disc) [rect, xshift=2cm, right of=acti] {\faLaptopCode~Technique};
             \draw [arrow] (acti) -- (disc);
         }
         \end{tikzpicture}
     \end{center}
     \end{block}
     }
-
-
 \end{frame}
 
 
-\section{Groupes et ordre de passage}
-\section{Bonus}
-
-\begin{frame}{Bonus...}
+\section{\faFlask~Pratique}
+\begin{frame}{\faFlask~Groupes et ordre}
         \begin{itemize}
-            \item[] \faSlack ~Slack
-            \item[] \faGithubSquare~Github
+            \item Création des groupes
+            \item Définition de l'ordre de passage
+        \end{itemize}
+\end{frame}
+
+\section{\faLaptopCode~Technique}
+
+\begin{frame}{\faLaptopCode~Premiers pas sur Github}
+        \begin{itemize}
+            \item Création d'un compte Github \faGithubSquare
+            \item Création de son premier "repo"
         \end{itemize}
 \end{frame}
 
