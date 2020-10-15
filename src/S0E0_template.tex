@@ -1,0 +1,66 @@
+\documentclass[10pt]{beamer}
+\usetheme{metropolis}
+
+\usepackage{amsmath, booktabs, fontawesome5, natbib, subfigure, xcolor}
+
+\usepackage[font=small,skip=0pt]{caption}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\usepackage{graphicx}
+\graphicspath{{../imgs/}}
+
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+\usepackage{appendixnumberbeamer}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+\tikzstyle{rect} = [rectangle, rounded corners, minimum width=2cm, minimum height=1.5cm, text centered, draw=black, fill=black!30]
+\tikzstyle{squa} = [square, rounded corners, minimum width=1.25cm, minimum height=1.25cm, text centered, draw=black, fill=black!30]
+\tikzstyle{elli} = [ellipse, minimum width=1.25cm, minimum height=1cm, text centered, draw=black, fill=black!30]
+\tikzstyle{circ} = [circle, minimum width=1cm, minimum height=1cm, text centered, draw=black, fill=black!30]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+\tikzstyle{drrow} = [thick,<->,>=stealth]
+\tikzstyle{dline} = [dashed, ->, >=stealth]
+\tikzstyle{dotted} = [densely dotted, ->, >=stealth]
+
+\def\firstcircle{(90:1.75cm) circle (2.5cm)}
+\def\secondcircle{(210:1.75cm) circle (2.5cm)}
+\def\thirdcircle{(330:1.75cm) circle (2.5cm)}
+\tikzset{fontscale/.style = {font=\relsize{#1}}}
+
+\titlegraphic{\hfill\includegraphics[height=1.25cm]{~/Documents/scpobx/logo.pdf}}
+\title{Nom du cours}
+\subtitle{Séance 0 :  ...}
+\author{Mickael Temporão}
+\institute{\faEnvelope~$m.temporao@sciencespobordeaux.fr$\\\faTwitter~$@mickaeltemporao$}
+\date{}
+
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Nom du cours}
+    \begin{block}{Ordre du jour}
+        \begin{itemize}
+            \item[\faBook] Théorie : ...
+            \item[\faFlask] Pratique : ...
+            \item[\faLaptopCode] Technique : ...
+        \end{itemize}
+    \end{block}
+\end{frame}
+
+\section{Théorie : }
+\section{Pratique : }
+\section{Technique : }
+
+\maketitle
+
+\end{document}
