@@ -15,4 +15,4 @@
 2. Commentaire des étudiants
     - Commentaire de 5 minutes effectué par un étudiant d'un autre groupe tiré au hasard sur le rapport et la présentation
     - **Note pour le groupe!**
-3. Présences et participation en classe et sur **[Slack](https://methodesss.slack.com)**.
+3. Présences et participation lors des séances et sur **[Slack](https://methodesss.slack.com)**.
