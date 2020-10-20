@@ -21,5 +21,5 @@
 
 
 ### Support
-- [Slides](slides/semestre_01_projet_séance_01.pdf)
+- [Slides](slides/S1E1_intro.pdf)
 
