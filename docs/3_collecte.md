@@ -18,7 +18,7 @@
 - Télécharger et installer les logiciels suivants dans l'ordre :
     1. [R](https://cran.biotools.fr/) version de base 4.0.3
     2. [LaTeX](https://miktex.org/download)
-    3. [RStudio](https://rstudio.com/products/rstudio/)
+    3. [RStudio](https://rstudio.com/products/rstudio/download/#download)
 
 - Lecture
     - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
