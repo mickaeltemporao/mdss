@@ -15,7 +15,10 @@
 ### À préparer avant cette séance
 - Identifier des données existantes permettant d'explorer votre question de recherche/problématique.
 
-- Installer [RStudio](https://rstudio.com/products/rstudio/)
+- Téléchargez et installez, dans l'ordre, les logiciels suivants :
+    - [R](https://cran.biotools.fr/) version de base 4.0.3
+    - [LaTeX](https://miktex.org/download)
+    - [RStudio](https://rstudio.com/products/rstudio/)
 
 #### Lecture
 - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
