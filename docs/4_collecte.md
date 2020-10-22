@@ -1,10 +1,10 @@
 # Section | Collecte (2/2)
-## Séance 4 - Cas et observations
+## Séance 4 - Collecte de données
 
 ### Ordre du jour
 #### Théorie
 - Présentation de la lecture
-- Les types de données
+- Quoi observer?
 
 #### Application
 - Population, échantillon, données et biais
@@ -19,4 +19,3 @@
 
 ### Support
 - à venir.
-
