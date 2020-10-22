@@ -1,5 +1,5 @@
 # Section | Collecte (2/2)
-## Séance 4 - Collecte de données
+## Séance 4 - La collecte de données
 
 ### Ordre du jour
 #### Théorie
