@@ -77,7 +77,7 @@
 
 \section{\faBook~Théorie}
 
-\begin{frame}{La sociologie positiviste}
+\begin{frame}{La sociologie positiviste (rappel)}
     \begin{block}{L'étude de la société basé sur l'observation systématique de comportements sociaux}
     \end{block}
     \begin{itemize}
@@ -148,42 +148,48 @@
 
 \begin{frame}{La sociologie positiviste}
     \begin{columns}
-        \begin{column}{0.7\textwidth}
-    \begin{block}{Hawtorne Effect}
-    \begin{itemize}
-        \item Elton Mayo,
-        \item Objectif : améliorer la productivité des travailleurs.
-        \item Groupe contrôle : mêmes conditions
-        \item Groupe test : ajustement de l'éclairage, heures de travail, pauses, ...
-    \end{itemize}
-    \end{block}
+        \begin{column}{0.5\textwidth}
+            \begin{block}{Hawthorne Effect}
+                \begin{itemize}
+                    \item[\faBullseye] Améliorer la productivité des travailleurs
+                    \item[\faVials] Expérience (Groupe contrôle/test)
+                            \begin{itemize}
+                                \item ajustement de l'éclairage
+                                \item heures de travail
+                                \item pauses
+                            \end{itemize}
+                \end{itemize}
+            \end{block}
         \end{column}
-        \begin{column}{0.3\textwidth}
-            \includegraphics[width=\textwidth]{light}
-        \end{column}
+    \begin{column}{0.5\textwidth}
+        \includegraphics[width=\textwidth]{hawthorne}
+        \begin{flushright}
+            \small~Elton Mayo, 1920s
+        \end{flushright}
+    \end{column}
     \end{columns}
-    \only<2>{Les travailleurs du groupe test sont devenus plus productifs et les taux d'absentéisme ont diminué!}
-    \only<3>{La croissance de productivité observée n'est pas due aux facteurs expérimentaux testés!}
-    \only<4>{Les chercheurs ont pris conscience que leur présence affecte les résultats de l'expérience (biais dans la collecte de données).\\ -> \textbf{Hawtorne effect} et illustre l'importance des entretiens!}
 \end{frame}
 
+\begin{frame}{Hawthorne Works}
+
+        \center\includegraphics[width=.3\textwidth]{light}
+        \begin{itemize}
+            \item<2->{Les travailleurs du groupe test sont devenus plus productifs et les taux d'absentéisme ont diminué.}
+            \item<3->{La croissance de productivité observée n'est pas due aux facteurs expérimentaux testés.}
+            \item<4->{Les chercheurs ont pris conscience que leur présence affecte les résultats de l'expérience (biais dans la collecte de données).}
+            \item<5->[\faLightbulb]\alert{\textbf{Hawthorne effect} met en lumière l'importance des entretiens!}
+        \end{itemize}
+\end{frame}
 
 \begin{frame}{La sociologie positiviste}
-    \begin{columns}
-        \begin{column}{0.8\textwidth}
-    \begin{itemize}
-        \item Tous les phénomènes sociaux ne sont applicables à tous les individus à toutes les périodes.
     \onslide<2->{
-        \item La vérité n'est pas toujours objective!
+        \center
+        \includegraphics[width=0.5\textwidth]{ramen}
     }
+    \begin{itemize}
+        \item<3-> Tous les phénomènes sociaux ne sont applicables à tous les individus à toutes les périodes.
+        \item<4-> La vérité n'est pas toujours objective!
     \end{itemize}
-        \end{column}
-    \onslide<3->{
-        \begin{column}{0.4\textwidth}
-            \includegraphics[width=\textwidth]{ramen}
-        \end{column}
-    }
-    \end{columns}
 \end{frame}
 
 \begin{frame}{La sociologie positiviste}
@@ -197,58 +203,28 @@
 \onslide<2>\textbf{La subjectivité} c'est la signification que les individus donnent à leur expériences vécues.
 \end{frame}
 
-
-\begin{frame}{Les donnés}
-\begin{block}{Les types de collecte de donnés}
-    \begin{enumerate}[<+->]
-        \item[\faFlask] Expériences
-        \item[\faUserFriends] Entretiens
-        \item[\faPeopleArrows] Observations
-        \item[\faDatabase] Données existantes
-    \end{itemize}
-\end{block}
-\end{frame}
-
-
-
+% \begin{frame}{Les donnés}
+% \begin{block}{Les types de collecte de donnés}
+%     \begin{itemize}[<+->]
+%         \item[\faVials] Expériences
+%         \item[\faUserFriends] Entretiens
+%         \item[\faPeopleArrows] Observations
+%         \item[\faDatabase] Données existantes
+%     \end{itemize}
+% \end{block}
+% \end{frame}
+% Exercice données
+% types de données -> identifier population/échantillon
 
 \section{\faFlask~Pratique}
-
-
-
-% \begin{frame}{Le diagramme causal}
-%     \begin{block}{Directed Acyclic Graph (DAG) ou Causal Diagrams}
-%     Exemple: Le vote (Le modèle de Michigan)
-%     \begin{center}
-%         \begin{tikzpicture}[node distance=1.5cm]
-%             \tiny
-%             \node (vote) [elli, xshift-8cm] {Vote};
-%             \node (cand) [elli, left of=vote] {Candidats};
-%             \draw [arrow] (cand) -- (vote);
-%             \node (issu) [elli, left of=vote] {Enjeux};
-%             \draw [arrow] (issu) -- (vote);
-%             \node (part) [elli, left of=vote] {Identification partisanne};
-%             \draw [arrow] (part) -- (cand);
-%             \draw [arrow] (part) -- (issu);
-%             \node (soci) [elli, left of=part] {Sociodémographique};
-%             \draw [arrow] (soci) -- (part);
-%             \draw [arrow] (soci) -- (cand);
-%             \node (stat) [elli, above of=soci] {Milieu social};
-%             \draw [arrow] (stat) -- (part);
-%             \node (parn) [elli, below of=stat] {Parents};
-%             \draw [arrow] (parn) -- (part);
-%             \draw [arrow] (parn) -- (issu);
-%         \end{tikzpicture}
-%     \end{center}
-%     \end{block}
-% \end{frame}
 
 \begin{frame}{Questions, méthode et données}
     \begin{block}{Exercice préparatoire}
     \begin{enumerate}[<+->]
-        \item Identifiez les concept importants liés à votre projet
-        \item Dessinez un diagramme causal des relations entre concepts
-        \item Identifiez des types de données permettant de mesurer vos concepts
+        \item[\faBrain] Identifiez les concept importants liés à votre projet
+        \item[\faProjectDiagram] Dessinez un diagramme causal des relations entre les concepts
+        \item[\faChalkboardTeacher] Présentez!
+        % \item Identifiez des types de données permettant de mesurer vos concepts
     \end{enumerate}
     \end{block}
 \end{frame}
@@ -257,13 +233,14 @@
 
 \begin{frame}{\faLaptopCode~Technique}
     \begin{block}{Let's play!}
-    \begin{enumerate}[<+->]
+    \begin{enumerate}
         \item Téléchargez et installez \faRProject
         \item Téléchargez et installez RStudio
         \item Téléchargez et installez \LaTeX
         \item Lancez RStudio
         \item Let the fun begin ... \faMagic
     \end{enumerate}
+    \alert{Tous les liens sont dans le syllabus.}
     \end{block}
 \end{frame}
 
