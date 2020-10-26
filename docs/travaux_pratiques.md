@@ -2,8 +2,8 @@
 
 ## Partie 1 : Les Méthodes qualitatives
 
-- TP1 : [Le projet de recherche](tp_01_projet)
-- TP2 : [La collecte et présentation des données](tp_02_données)
+- TP1 : [Le projet de recherche](tp_01_project)
+- TP2 : [La collecte et présentation des données](tp_02_data)
 
 ## Partie 2 : Les Méthodes quantitatives
 
