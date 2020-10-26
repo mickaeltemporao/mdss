@@ -7,7 +7,7 @@
 
 ## Consignes:
 - Voir [template](https://github.com/mickaeltemporao/template-research-design-fr)
-- Fichier [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (*.md*)
+- Fichier [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (*.md*)
 
 ## Remise:
 - **avant la Séance 3**.
