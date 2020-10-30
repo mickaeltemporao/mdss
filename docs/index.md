@@ -9,7 +9,7 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 ### Pré-requis
 Un ordinateur est nécessaire lors de chaque séance afin de pouvoir suivre les différentes activés.
-- Avant la première séance, vous devez avoir crée votre compte sur **[Slack](https://methodesss.slack.com)**.
+- Avant la première séance, vous devez avoir crée votre compte sur **[Slack](https://spb-methods.slack.com)**.
 
 
 ## Objectifs
@@ -39,8 +39,8 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 
 
 ## Communication
-Le moyen de communication privilégié pour le cours est **[Slack](https://methodesss.slack.com)**.
-Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://methodesss.slack.com) dans le *channel* approprié.
+Le moyen de communication privilégié pour le cours est **[Slack](https://spb-methods.slack.com)**.
+Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://spb-methods.slack.com) dans le *channel* approprié.
 Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
