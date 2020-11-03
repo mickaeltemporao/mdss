@@ -21,5 +21,5 @@
 ## Remise:
 [GitHub Classroom](https://classroom.github.com/classrooms)
 - *Groupe A* : **lundi 11 janvier 2021**
-- *Groupe B* : **lundi 11 janvier 2021**
+- *Groupe B* : **lundi 18 janvier 2021**
 
