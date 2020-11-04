@@ -31,7 +31,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 | -          | -          | -        | :-:    | -                                           | :-:                             |
 | 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction](1_projet_intro.md)           | -                               |
 | 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.md) | -                               |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Les types de données](3_types.md)          | **[TP1](tp_01_projet)**         |
+| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Les types de données](3_types.md)          | **[TP1](tp_01_project)**         |
 | 2020/11/06 | 2020/11/13 | Collecte | 4      | [La collecte de données](4_collecte.md)     | -                               |
 | 2020/11/20 | 2020/11/27 | Analyse  | 5      | Biais et inférence                          | **[TP2](tp_02_data)**        |
 | 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | -                               |
