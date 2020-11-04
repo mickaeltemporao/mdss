@@ -36,7 +36,7 @@ La conférence de méthodes se donne en présentiel. Dans les circonstances actu
 | 2020/11/06 | 2020/11/13 | Collecte | 4      | [La collecte de données](4_collecte.md)     | -                               |
 | 2020/11/20 | 2020/11/27 | Analyse  | 5      | Biais et inférence                          | **[TP2](tp_02_data)**           |
 | 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                     | -                               |
-| 2021/01/11 | 2021/01/18 | -        | -      | -                                           | **[Rapport Final](le_rapport)** |
+| 2021/01/11 | 2021/01/18 | -        | -      | -                                           | **[Rapport Final](rapport)**    |
 
 
 ## Communication
