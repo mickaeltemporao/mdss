@@ -2,13 +2,16 @@
 
 ## Objectif
 - Finalisation de la collecte de données
-- Se familiariser avec les données collectées
-- Mettre en avant la pertinence des données
+- Familiarisation avec les données collectées
+- Mise en avant la pertinence des données
 
 ## Consignes
-- Travailler à partir d'un fichier ".Rmd" sur RStudio.
+- Créez un fichier RMarkdown sur RStudio.
+- Voir la section ci-dessous pour le contenu du fichier ".Rmd".
 - Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
-- Le ".pdf" compilé doit également être déposé sur [GitHub Classroom](https://classroom.github.com/classrooms).
+- Acceptez le TP en cliquant [ICI](https://classroom.github.com/a/gxVkB--t)
+- Déposer les deux fichiers dans le dossier généré par GitHub
+- Ajouter un message avant d'appuyer et apuuyer sur "Commit changes"
 
 ### Contenu du fichier ".Rmd" :
 - 1 titre
@@ -18,9 +21,7 @@
     - Vous présentez et décrivez les données que vous avez collectées.
     - Vous expliquez pourquoi elles vous permettent de tester vos hypothèses.
     - Vous présentez les problèmes/enjeux liées à votre collecte de données.
-- Le fichier ".Rmd" doit être déposé sur [GitHub Classroom](https://classroom.github.com/classrooms)
 
 ## Remise
 - **Avant la Séance 5!**
-- [GitHub Classroom](https://classroom.github.com/classrooms)
 
