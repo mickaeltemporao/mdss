@@ -48,6 +48,9 @@ Publier publiquement ses questions/réponses nous permet à tous d'apprendre de 
 ## Source
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
 
+## Bugs et Feedback
+Si vous avez des suggestions ou voyez une erreur vous pouvez me le faire savoir [ICI](https://github.com/mickaeltemporao/CMT3A-MSS/issues) en cliquant sur "New Issue". Décrivez ensuite le problème. Merci pour votre feedback!
+
 
 ## Licence
 La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
