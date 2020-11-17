@@ -19,7 +19,3 @@
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
 - Créer un compte sur [Slack](methodesss.slack.com)
 
-
-### Support
-- [Slides](slides/S1E1_intro.pdf)
-

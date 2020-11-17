@@ -21,7 +21,5 @@
     2. [LaTeX](https://miktex.org/download)
     3. [RStudio](https://rstudio.com/products/rstudio/download/#download)
 
-Votre ordinateur pourrait vous informer que ces logiciels peuvent être dangereux pour votre ordinateur. C'est tout à fait normal, ce sont là des langages de programmation avec lesquels nous pouvons absolument TOUT faire. Vous pouvez ignorer ces messages et télécharger ces fichiers car nous savons exactement ce que nous allons faire avec ceux-ci. Dans un contexte autre que ce cours et avec des fichiers dont vous ignorez l'utilité, n'acceptez jamais ce genre de programes! 
+Votre ordinateur pourrait vous informer que ces logiciels peuvent être dangereux pour votre ordinateur. C'est tout à fait normal, ce sont là des langages de programmation avec lesquels nous pouvons absolument TOUT faire. Vous pouvez ignorer ces messages et télécharger ces fichiers car nous savons exactement ce que nous allons faire avec ceux-ci. Dans un contexte autre que ce cours et avec des fichiers dont vous ignorez l'utilité, n'acceptez jamais ce genre de programes!
 
-### Support
-- à venir.

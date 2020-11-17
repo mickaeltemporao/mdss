@@ -21,6 +21,3 @@
 #### Lecture
 - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
 
-### Support
-- [Slides](slides/S1E2_projet.pdf)
-
