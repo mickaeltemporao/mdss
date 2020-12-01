@@ -8,9 +8,12 @@ Cette conférence de méthodes des sciences sociales introduit aux méthodes de 
 
 
 ### Pré-requis
-Un ordinateur est nécessaire lors de chaque séance afin de pouvoir suivre les différentes activés.
-- Avant la première séance, vous devez avoir crée votre compte sur **[Slack](https://spb-methods.slack.com)**.
 
+Un ordinateur est nécessaire lors de chaque séance afin de pouvoir effectuer les différentes activités.
+
+Afin de lutter contre la précarité numérique parmi les étudiants, Sciences Po Bordeaux met en place un dispositif d'aide sous certaines conditions (présentation d'une facture d'achat; avis d'imposition N-1 de votre foyer fiscal de référence; notification de bourse CROUS; certificat de scolarité de l'année en cours ).
+
+Pour toutes questions relatives à ce dispositif et afin de soumettre votre demande, merci de bien vouloir écrire uniquement à l'adresse suivante en précisant votre besoin et en fournissant les justificatifs nécessaires : aidesnumeriques@sciencespobordeaux.fr.
 
 ## Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
