@@ -1,6 +1,10 @@
 # TP2: Collecte et présentation des données
 
-## Objectif
+1. Acceptez le TP en cliquant **[ICI](https://classroom.github.com/g/FpbxUcQe)**.
+2. Créez ou rejoignez votre groupe en suivant le format :
+    - TP2-A1, TP2-A2, ... TP2-B1, TP2-B2, ...
+
+## Objectifs
 - Finalisation de la collecte de données
 - Familiarisation avec les données collectées
 - Mise en avant la pertinence des données
@@ -9,9 +13,6 @@
 - Créez un fichier RMarkdown sur RStudio.
 - Le fichier `.Rmd` doit contenir les éléments de la section, ci-dessous, "Contenu du fichier .Rmd".
 - Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
-- Acceptez le TP en cliquant **[ICI](https://classroom.github.com/g/FpbxUcQe)**.
-- Créez ou rejoignez votre groupe :
-    - Nommez le groupe en suivant le format TP2-A1, TP2-A2, ... TP2-B1, TP2-B2, ...
 - Déposer les deux (`.Rmd` et `.pdf`) fichiers dans le dossier généré par GitHub.
 - Ajouter un message avant d'appuyer et appuyer sur "Commit changes".
 

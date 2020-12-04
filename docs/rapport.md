@@ -1,5 +1,8 @@
 # Rapport de recherche
 
+1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
+2. Créez ou rejoignez votre groupe en suivant le format :
+    - A1, A2, A3, A4, B1, B2, B3, B4.
 
 ## Objectifs d'apprentissage:
 
@@ -8,10 +11,6 @@
 - Savoir utiliser RStudio pour générer un rapport de recherche
 
 ## Consignes
-
-1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
-2. Créez ou rejoignez votre groupe en suivant le format :
-    - A1, A2, A3, A4, B1, B2, B3, B4.
 
 - Le rapport doit faire 8 à 10 pages
     - Sans compter les annexes et la bibliographie.
