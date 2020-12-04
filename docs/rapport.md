@@ -1,8 +1,5 @@
 # Rapport de recherche
 
-1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
-2. Créez ou rejoignez votre groupe en suivant le format :
-    - A1, A2, A3, A4, B1, B2, B3, B4.
 
 ## Objectifs d'apprentissage:
 
@@ -12,8 +9,14 @@
 
 ## Consignes
 
-- Le rapport doit faire 8 à 10 pages (sans compter les annexes et bibliographies).
-    - Vous pouvez mettre d'autres documents en annexe.
+1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
+2. Créez ou rejoignez votre groupe en suivant le format :
+    - A1, A2, A3, A4, B1, B2, B3, B4.
+
+- Le rapport doit faire 8 à 10 pages
+    - Sans compter les annexes et la bibliographie.
+    - Vous également ajouter mettre d'autres documents en annexe.
+    - N'oubliez pas d'y répondre à votre question de départ!
 - En plus d'un titre et des auteurs, le rapport contient 4 sections :
     - Introduction
     - Données et Méthode
@@ -33,8 +36,8 @@
         - Le fichier `.pdf`
         - Le fichier `.Rmd`
         - Le fichier `.bib`
-        - Les annexes
-    - Ajouter un message avant d'appuyer et appuyer sur "Commit changes".
+        - Les annexes ou autre fichiers pertinents
+    - Ajouter un message mentionnant l'envoie final lors de votre dernier "Commit changes".
 
 ## Remise:
 - *Groupe A* : **lundi 11 janvier 2021**
