@@ -1,0 +1,122 @@
+---
+title: "Activités"
+---
+
+# Présentations d'articles scientifique
+
+1. Présentation d'un article scientifique
+    - Objectif:
+        - Capacité à présenter un article scientifique
+        - Capacité de vulgarisation scientifique
+        - Capacité à résumer et situer un article dans la littérature
+    - Format:
+        - Groupe de 3 étudiants
+        - Rédaction d'un [rapport de lecture](https://github.com/mickaeltemporao/CMT3A-MSS-template/blob/master/README.md)
+        - Présentation de 20 minutes
+        - Format de citations: [APA](https://www.mendeley.com/guides/apa-citation-guide)
+    - Remise du rapport de lecture:
+        - Dépôt 24h à l'avance
+        - Lieu: [GitHub Classrooms]()
+
+# Travaux Pratiques
+
+## Partie 1 : Les Méthodes qualitatives
+
+- TP1 : [Le projet de recherche](tp_01_project)
+- TP2 : [La collecte et présentation des données](tp_02_data)
+
+## Partie 2 : Les Méthodes quantitatives
+
+- À venir...
+
+# Rapports de recherche
+
+1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
+2. Créez ou rejoignez votre groupe en suivant le format :
+    - A1, A2, A3, A4, B1, B2, B3, B4.
+
+## Objectifs d'apprentissage:
+
+- Savoir préparer, analyser et interpréter les données
+- Savoir déterminer les contributions et les limites du rapport
+- Savoir utiliser RStudio pour générer un rapport de recherche
+
+## Consignes
+
+- Le rapport doit faire 8 à 10 pages
+    - Sans compter les annexes et la bibliographie.
+    - Vous également ajouter mettre d'autres documents en annexe.
+    - N'oubliez pas d'y répondre à votre question de départ!
+- En plus d'un titre et des auteurs, le rapport contient 4 sections :
+    - Introduction
+    - Données et Méthode
+    - Résultats
+    - Conclusion et Discussion
+- Maximum 2 images dans les 8 à 10 pages.
+    - Vous pouvez mettre d'autres images en annexe.
+    - Une image fait maximum 1/3 de page.
+- Détails techniques du rapport:
+    - Un fichier RMarkdown (`.Rmd`) permettant de générer le `.pdf` du rapport.
+    - Un fichier BibTeX (`.bib`) contenant toutes les références bibliographiques.
+    - Les citations sont automatisés dans le rapport en utilisant les clés du fichier BibTex.
+    - Le rapport contient une section Bibliographie générée automatiquement.
+- Pour le dépôt :
+    - Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
+    - Déposer les fichiers dans le dossier généré par GitHub :
+        - Le fichier `.pdf`
+        - Le fichier `.Rmd`
+        - Le fichier `.bib`
+        - Les annexes ou autre fichiers pertinents
+    - Ajouter un message mentionnant l'envoie final lors de votre dernier "Commit changes".
+
+## Remise:
+- *Groupe A* : **lundi 11 janvier 2021**
+- *Groupe B* : **lundi 18 janvier 2021**
+
+
+
+
+# Rapport de recherche
+
+1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
+2. Créez ou rejoignez votre groupe en suivant le format :
+    - A1, A2, A3, A4, B1, B2, B3, B4.
+
+## Objectifs d'apprentissage:
+
+- Savoir préparer, analyser et interpréter les données
+- Savoir déterminer les contributions et les limites du rapport
+- Savoir utiliser RStudio pour générer un rapport de recherche
+
+## Consignes
+
+- Le rapport doit faire 8 à 10 pages
+    - Sans compter les annexes et la bibliographie.
+    - Vous également ajouter mettre d'autres documents en annexe.
+    - N'oubliez pas d'y répondre à votre question de départ!
+- En plus d'un titre et des auteurs, le rapport contient 4 sections :
+    - Introduction
+    - Données et Méthode
+    - Résultats
+    - Conclusion et Discussion
+- Maximum 2 images dans les 8 à 10 pages.
+    - Vous pouvez mettre d'autres images en annexe.
+    - Une image fait maximum 1/3 de page.
+- Détails techniques du rapport:
+    - Un fichier RMarkdown (`.Rmd`) permettant de générer le `.pdf` du rapport.
+    - Un fichier BibTeX (`.bib`) contenant toutes les références bibliographiques.
+    - Les citations sont automatisés dans le rapport en utilisant les clés du fichier BibTex.
+    - Le rapport contient une section Bibliographie générée automatiquement.
+- Pour le dépôt :
+    - Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
+    - Déposer les fichiers dans le dossier généré par GitHub :
+        - Le fichier `.pdf`
+        - Le fichier `.Rmd`
+        - Le fichier `.bib`
+        - Les annexes ou autre fichiers pertinents
+    - Ajouter un message mentionnant l'envoie final lors de votre dernier "Commit changes".
+
+## Remise:
+- *Groupe A* : **lundi 11 janvier 2021**
+- *Groupe B* : **lundi 18 janvier 2021**
+
