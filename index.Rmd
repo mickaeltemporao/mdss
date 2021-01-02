@@ -4,15 +4,32 @@ subtitle: "Sciences Po Bordeaux"
 author: "Mickael Temporão"
 ---
 
-Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: projet, collecte et analyse. Le but est d'amener les étudiant.e.s, à travers ces trois sections, à réaliser un rapport de recherche empirique. Pour ce faire, les étudiant.e.s vont mettre en place un projet de recherche, effectuer une collecte des données, analyser celles-ci et enfin rapporter l'ensemble de la démarche. Notez que le cours mets également l'accent sur les nouveaux outils de recherche *open source*. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
-
 | Horaire          | Jour          | Heure       | Local |
 | -------------    | ------------- | -           | -     |
 | Conférence       | Vendredi      | 09h45-11h15 | A.138 |
 | Heures de bureau | Vendredi      | 11h30-12h30 | B.140 |
 
+# Aperçu
 
-### Pré-requis
+Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: projet, collecte et analyse. Le but est d'amener les étudiant.e.s, à travers ces trois sections, à réaliser un rapport de recherche empirique. Pour ce faire, les étudiant.e.s vont mettre en place un projet de recherche, effectuer une collecte des données, analyser celles-ci et enfin rapporter l'ensemble de la démarche. Notez que le cours mets également l'accent sur les nouveaux outils de recherche *open source*. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
+
+## Objectifs
+1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
+2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
+3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
+
+## Déroulement des séances
+
+Chaque séance de cours est divisée en trois parties:
+
+**1. Théorie :** Un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+
+**2. Application :** Dans cette partie, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
+
+**3. Technique : **Dans cette troisième et dernière partie, les étudiants ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
+
+
+## Pré-requis
 
 Un ordinateur est nécessaire lors de chaque séance afin de pouvoir effectuer les différentes activités.
 
@@ -20,45 +37,42 @@ Afin de lutter contre la précarité numérique parmi les étudiants, Sciences P
 
 Pour toutes questions relatives à ce dispositif et afin de soumettre votre demande, merci de bien vouloir écrire uniquement à l'adresse suivante en précisant votre besoin et en fournissant les justificatifs nécessaires : aidesnumeriques@sciencespobordeaux.fr.
 
-## Objectifs
-1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
-2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
-3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
 
-### Évaluation
-- 30% : [Participation](participation.html)
-- 30% : [Travaux Pratiques](travaux_pratiques.html)
-- 40% : [Rapport de recherche](rapport.html)
+# Évaluation
 
+L'évaluation s'effectue à travers l'expression, les travaux pratiques et les rapports de recherche. Ces trois activités s'effectuent à chaque fois par groupe de trois étudiants.
 
-## Séances
-La conférence de méthodes se donne en présentiel. Dans les circonstances actuelles, la conférence est répartie en 2x6 [séances](seance.html) afin de respecter les règles sanitaires en vigueur. Chaque groupe bénéficie de 6 séances à des dates qui leur sont spécifiques. Le *Groupe A* débute sa première séance le 2020/09/18, tandis que le *Groupe B* débute la semaine suivante soit le 2020/09/25. Les dates de remise des différents travaux sont directement liées aux séances spécifiques de chaque groupe.
+## Expression - 30%
 
+La note d'expression est également divisée en trois parties:
 
-| Groupe A   | Groupe B   | Section  | Séance | Thème                                            | Remise                       |
-| -          | -          | -        | :-:    | -                                                | :-:                          |
-| 2020/09/18 | 2020/09/25 | Projet   | 1      | [Introduction](1_projet_intro.html)                | -                            |
-| 2020/10/02 | 2020/10/09 | Projet   | 2      | [Le projet de recherche](2_projet_objet.html)      | -                            |
-| 2020/10/16 | 2020/10/23 | Collecte | 3      | [Les types de données](3_types.html)               | **[TP1](tp_01_project)**     |
-| 2020/11/06 | 2020/11/13 | Collecte | 4      | [La collecte de données](4_collecte.html)          | -                            |
-| 2020/11/20 | 2020/11/27 | Analyse  | 5      | [L'analyse de contenu qualitative](5_analyse.html) | **[TP2](tp_02_data)**        |
-| 2020/12/04 | 2020/12/11 | Analyse  | 6      | Le rapport de recherche                          | -                            |
-| 2021/01/11 | 2021/01/18 | -        | -      | -                                                | **[Rapport Final](rapport)** |
+**Présentations :** Lors de chaque séance un groupe d'étudiants présente un article scientifique. Un rapport de lecture réalisé par le groupe qui présente est remis 24h à l'avance à l'ensemble de la classe. Des détails supplémentaires se trouvent dans la partie [Activités](assignments.html).
+
+**Commentaires :** Lors de chaque séance un étudiant est tiré au hasard pour effectuer un commentaire de 5 minutes sur l'article, le rapport et la présentation. Dans ce commentaire, l'étudiant apporte sa perspective sur l'article et le sujet présenté. La note pour chaque commentaire individuel est appliqué au groupe de l'étudiant.
+
+**Participation:** Il est attendu que les étudiants soient présents et engagés lors des séances synchrones, que ce soit en présentiel ou à distance. De même, il est attendu que les étudiants soient engagés et actifs de manière asynchrone en participant et contribuant aux discussions ayant lieu sur la plateforme de communication sur **[Slack](https://methodesss.slack.com)**.
+
+## Travaux pratiques - 30%
+
+Différents travaux pratiques travaux pratiques (TP) sont mis en place pour permettre aux étudiants d'apprendre de manière incrémentale et de les amener petit à petit à réaliser un projet de recherche empirique abouti. Les détails concernant les différents travaux pratiques se trouvent dans la partie [Activités](assignments.html).
+
+## Rapport de recherche - 40%
 
 
-## Communication
+
+# Communication
+
 Le moyen de communication privilégié pour le cours est **[Slack](https://spb-methods.slack.com)**.
 Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://spb-methods.slack.com) dans le *channel* approprié.
 Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
 
 
-## Source
+# License
+
+La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
+
 Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
 
-## Bugs et Feedback
+## Bugs et feedback
 Si vous avez des suggestions ou voyez une erreur vous pouvez me le faire savoir [ICI](https://github.com/mickaeltemporao/CMT3A-MSS/issues) en cliquant sur "New Issue". Décrivez ensuite le problème. Merci pour votre feedback!
-
-
-## Licence
-La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [GNU Affero General Public License v3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html).
 
