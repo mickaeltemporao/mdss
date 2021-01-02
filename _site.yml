@@ -1,18 +1,18 @@
 name: "CMT3A-MSS"
-exclude: [ "LICENSE", "README.md", "assignments", "resources"]
+exclude: [ "LICENSE", "README.md", "imgs", "readings", "slides"]
 navbar:
-  title: "CMT3A-MSS"
+  title: "Méthodes des sciences sociales"
   type: default
   left:
-    - text: "Home"
+    - text: ""
       href: index.html
       icon: fa-home fa-lg
-    - text: "Horaire"
+    - text: "Séances"
       href: schedule.html
       icon: fa-calendar-alt fa-lg
-    - text: "Projet"
-      href: projects.html
-      icon: fa-trophy fa-lg
+    - text: "Activités"
+      href: activities.html
+      icon: fa-tasks fa-lg
     - text: "Ressources"
       href: resources.html
       icon: fa-toolbox fa-lg
