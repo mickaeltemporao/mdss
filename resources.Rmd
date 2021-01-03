@@ -1,0 +1,16 @@
+
+Le rapport de lecture doit faire **1 page**.
+
+- 1 page = ~ 5 paragraphes
+- 1 paragraphe = ~ 5 phrases
+- 1 phrase = ~ 20 mots
+
+##### À titre informatif:
+- 1 page = ~ 5 paragraphes
+- 1 paragraphe = ~ 5 phrases
+- 1 phrase = ~ 20 mots
+
+- Utilisation du style [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les références dans le texte et la bibliographie.
+
+- Fichier [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (*.md*)
+

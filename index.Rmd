@@ -13,23 +13,14 @@ author: "Mickael Temporão"
 
 Cette conférence de méthodes des sciences sociales introduit aux méthodes de recherche qualitatives et quantitatives. Le cours est divisé en deux parties. La première partie du cours se focalise sur les méthodes qualitatives. La deuxième partie se focalise sur les méthodes quantitatives. Chaque partie est divisée en trois sections: projet, collecte et analyse. Le but est d'amener les étudiant.e.s, à travers ces trois sections, à réaliser un rapport de recherche empirique. Pour ce faire, les étudiant.e.s vont mettre en place un projet de recherche, effectuer une collecte des données, analyser celles-ci et enfin rapporter l'ensemble de la démarche. Ce cours mets également l'accent sur les nouveaux outils de recherche *open source*. Ces outils seront introduits petit à petit et utilisés tout au long de l'année afin d'éviter une courbe d'apprentissage trop abrupte. Cette boîte d'outils moderne vous accompagnera dans la réalisation de vos travaux de recherche et est un atout dans monde professionnel.
 
-## Objectifs
+
+# Objectifs
 1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
 2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
 3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
 
-## Déroulement des séances
 
-Chaque séance de cours est divisée en trois parties:
-
-**1. Théorie :** Un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
-
-**2. Application :** Dans cette partie, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
-
-**3. Technique : **Dans cette troisième et dernière partie, les étudiants ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
-
-
-## Pré-requis
+# Pré-requis
 
 Un ordinateur est nécessaire lors de chaque séance afin de pouvoir effectuer les différentes activités.
 
@@ -38,32 +29,29 @@ Afin de lutter contre la précarité numérique parmi les étudiants, Sciences P
 Pour toutes questions relatives à ce dispositif et afin de soumettre votre demande, merci de bien vouloir écrire uniquement à l'adresse suivante en précisant votre besoin et en fournissant les justificatifs nécessaires : aidesnumeriques@sciencespobordeaux.fr.
 
 
+# Structure
+
+Le cours est divisé en 12 sessions synchrones et 12 sessions asynchrones. Chaque session synchrone introduit des activités pour la session asynchrone. Ses activités mettent en application la matière et permettent de l'assimiler petit à petit pour, au final, mener à la réalisation de rapports de recherche scientifiques. Les échéances des différentes activités sont toujours liées aux sessions respectives de chacun des groupe. Les 6 premières sessions synchrones portent davantage les méthodes qualitatives et les 6 dernières sessions synchrones portent davantage sur les méthodes quantitatives.
+
+Chaque séance synchrone est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique aux derniers de outils de recherche.
+
+Dans la partie théorique, un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+
+Dans la partie application, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
+
+Dans la partie technique, les étudiants ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
+
+
 # Évaluation
 
-Ce cours est évalué sur deux semestres. L'évaluation porte sur l'expression, les travaux pratiques et les rapports de recherche. Lors de chaque semestre, les étudiants ont l'opportunité d'effectuer différentes activités pour améliorer leur capacité à réaliser des recherches empiriques.
+Ce cours est évalué sur deux semestres à travers différentes activités permettant aux étudiants d'améliorer leur capacité de mener une recherche empirique. Cette capacité est démontrée à travers deux rapports de recherche. Le premier rapport, lors du premier semestre, mettant en avant des méthodes qualitatives. Le deuxième rapport, lors du second semestre, mettant en avant des méthodes quantitatives. L'ensemble des activités amènent petit à petit les étudiants à réaliser leurs rapport de recherche. Les détails concernant les différentes activités se trouvent dans la page [Activités](activities.html).
 
-## Expression - 30%
+| Activité              | Coefficient |
+| -                     | -:          |
+| Rapports de recherche | 40%         |
+| Travaux pratiques     | 30%         |
+| Expression            | 30%         |
 
-La note d'expression est également divisée en trois parties:
-
-**Présentations :** Lors de chaque séance un groupe d'étudiants présente un article scientifique. Un rapport de lecture réalisé par le groupe qui présente est remis 24h à l'avance à l'ensemble de la classe. Des détails supplémentaires se trouvent dans la partie [Activités](assignments.html).
-
-**Commentaires :** Lors de chaque séance un étudiant est tiré au hasard pour effectuer un commentaire de 5 minutes sur l'article, le rapport et la présentation. Dans ce commentaire, l'étudiant apporte sa perspective sur l'article et le sujet présenté. La note pour chaque commentaire individuel est appliqué au groupe de l'étudiant.
-
-**Participation:** Il est attendu que les étudiants soient présents et engagés lors des séances synchrones, qu'elles soient en présentiel ou à distance. De même, il est attendu que les étudiants soient engagés et actifs de manière asynchrone en participant et contribuant aux discussions ayant lieu sur la plateforme de communication (voir la section **[Communication](#Communication)**.
-
-## Travaux pratiques - 30%
-
-Différents travaux pratiques travaux pratiques (TP) sont mis en place pour permettre aux étudiants d'apprendre de manière incrémentale et de les amener petit à petit à réaliser un projet de recherche empirique abouti. Les détails concernant les différents travaux pratiques se trouvent dans la partie [Activités](assignments.html).
-
-## Rapport de recherche - 40%
-
-Les étudiants
-
-Le premier semestre porte davantage sur les méthodes qualitatives. Le second semestre porte davantage sur les méthodes quantitatives.
-
-
-Ces trois activités s'effectuent par groupe de trois étudiants.
 
 
 # Communication
