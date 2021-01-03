@@ -2,21 +2,26 @@
 title: "Activités"
 ---
 
-Cliques sur le lien suivants pour générer les dossier et document pour réaliser les différentes activités nécessaires.
+Cliques sur les liens suivants pour générer les dossier et document pour réaliser les différentes activités nécessaires.
+
+Pour chacune des activités, cliquez sur le lien respectif à cette activité, dans la section [Liens](#Liens), pour accéder à l'espace réservé à cette activité.
+- Créez ou rejoignez votre groupe.
 
 **Semestre 1: Les Méthodes qualitatives**
 
 1. [Rapport de lecture 1](https://classroom.github.com/g/-adrpVep)
-2. [Projet de recherche 1]()
-3. [Rapport de collecte 1]()
+2. [Rapport de projet 1](https://classroom.github.com/g/loguXLuR)
+3. [Rapport de données 1](https://classroom.github.com/g/AAzabTq2)
 
 **Semestre 2 : Les Méthodes quantitatives**
 
 1. [Rapport de lecture 2](https://classroom.github.com/g/pqJfnGTz)
-2. [Projet de recherche 2]()
-3. [Rapport de collecte 2]()
+2. [Rapport de projet 2](https://classroom.github.com/g/d81WBT72)
+3. [Rapport de données 2](https://classroom.github.com/g/WnERz_-V)
 
-# Présentations (15%) - Expression
+# Expression (30%)
+
+## Présentations (15%) - Expression
 Lors de chaque séance un groupe de trois étudiants présente un article scientifique. Un rapport de lecture d'une page, en suivant le modèle partagé, est également remis 24h à l'avance à l'ensemble de la classe, par le groupe d'étudiants effectuant la présentation.
 
 ### Objectifs:
@@ -25,7 +30,7 @@ Lors de chaque séance un groupe de trois étudiants présente un article scient
 - Capacité de vulgarisation scientifique
 
 ### Consignes:
-- Cliquez sur le lien respectif à cette activité, dans la section [Liens](#Liens), pour accéder à l'espace réservé à cette activité.
+- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
 - Le rapport est à réaliser à partir du fichier `rapport_de_lecture.Rmd`.
 - Le rapport de lecture doit faire maximum 500 mots (~1 page).
 - Le rapport utilise le format [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les citations et la bibliographie.
@@ -34,10 +39,10 @@ Lors de chaque séance un groupe de trois étudiants présente un article scient
 ### Remise
 - Le rapport est déposé 24h à l'avance dans le dossier généré sur GitHub.
 
-# Participation (10%) - Expression
+## Participation (10%) - Expression
 La présence et l'engagement est attendu des étudiants lors des séances synchrones, qu'elles soient en présentiel ou à distance. De même, il est attendu que les étudiants soient actifs de manière asynchrone en participant et contribuant aux discussions ayant lieu sur la plateforme de communication (voir la section **[Communication](index.html#Communication)**.
 
-# Commentaire (05%) - Expression
+## Commentaire (05%) - Expression
 Lors de chaque séance un étudiant est tiré au hasard pour effectuer un commentaire de 5 minutes sur l'article, le rapport de lecture et la présentation. Dans ce commentaire, l'étudiant apporte sa perspective sur l'article et le sujet présenté. La note pour chaque commentaire individuel est appliquée au groupe de l'étudiant.
 
 
@@ -52,103 +57,81 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 - Ancrer un projet dans une littérature scientifique approprié
 
 ### Consignes:
-- Cliquez sur le lien respectif à cette activité, dans la section [Liens](#Liens), pour accéder à l'espace réservé à cette activité.
-    - Créez ou rejoignez votre groupe en suivant le format :
+- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
+    - Créez ou rejoignez votre groupe.
 - Le rapport est à réaliser à partir du fichier `projet_de_recherche_TP1.Rmd`.
 - Le projet de recherche doit faire maximum 1000 mots (~2 pages).
-- Identifiez une problématique ou question de recherche en opinion publique et/ou comportement politique.
-    - La problématique peut être étudiée à partir de données de l'["American National Election Studies" (ANES)](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Dans celui-ci, vous devez identifier une problématique ou question de recherche en opinion publique et/ou comportement politique.
+    - La problématique peut être étudiée à partir de données de l"American National Election Studies" (ANES) de 2016.
+    - Servez vous du "codebook" de l'[ANES 2016](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
 - Le projet contient **5 références d'articles scientifiques** pertinentes ou plus.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
     - Les références sont citées adéquatement et mises en perspectives dans le projet.
     - Les références sont répertoriés dans une bibliographie.
-    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+- Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
+- Déposez les deux (`.Rmd` et `.pdf`) fichiers dans le dossier crée par GitHub.
 
-## Remise:
-- Avant la séance 3
 
-## TP2: Le rapport de collecte
-    - TP2 : [La collecte et présentation des données](tp_02_data)
+### Remise:
+- **Avant la séance 3**
 
-## Objectifs
-- Finalisation de la collecte de données
-- Se familiariser avec les données collectées
+## TP2: Le rapport de données
+
+### Objectifs
+- Se familiariser avec les données
+- Identifier et préparer les données
 - Identifier la pertinence des données
 
+### Consignes
+- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
+    - Créez ou rejoignez votre groupe.
+- Le rapport est à réaliser à partir du fichier `rapport_de_donnees_TP2.Rmd`.
+- Le rapport de données doit faire maximum 1000 mots (~2 pages).
+- Dans celui-ci vous devez identifier vos variables dépendantes, indépendantes et contrôles.
+    - Identifiez ces variables en vous basant sur le codebook de l'["American National Election Studies" (ANES) 2016](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Vous pouvez vous aider de références scientifiques pour justifier vos choix.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+    - Les références sont citées adéquatement et mises en perspectives dans le projet.
+    - Les références sont répertoriés dans une bibliographie.
+- Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
+- Déposez les deux (`.Rmd` et `.pdf`) fichiers dans le dossier crée par GitHub.
 
 
-## Consignes
-- Créez un fichier RMarkdown sur RStudio.
-- Le fichier `.Rmd` doit contenir les éléments de la section, ci-dessous, "Contenu du fichier .Rmd".
-- Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
-- Déposer les deux (`.Rmd` et `.pdf`) fichiers dans le dossier généré par GitHub.
-- Ajouter un message avant d'appuyer et appuyer sur "Commit changes".
-
-### Contenu du fichier ".Rmd" :
-- 1 titre
-- 1 sous-titre contenant le nom du groupe
-- 1 liste de points contenant les noms des étudiants
-- 5 paragraphes (max)
-    - Description des données collectées.
-        - Quels types de données avez-vous collectées? (articles de presse, tweets, interviews,... )
-        - Quels critères avez-vous utilisés pour décider si une observation/cas fera partie de votre échantillon de données?
-        - Comment avez-vous collecté vos données?
-        - Combien d'observations/cas avez-vous au total?
-    - Mise en avant de la pertinence des données.
-        - Pourquoi est-ce que les données que vous avez récoltées vont vous permettre de tester vos hypothèses? C'est-à-dire d'accroitre la confiance générale que votre hypothèse est vraie ou fausse.
-    - Vous présentez les problèmes/enjeux liés à votre collecte de données.
-        - Est-ce que vous avez adapté votre collecte par rapport à votre projet initial?
-        - Est-ce que vous avez rencontré des problèmes particuliers lors de votre collecte? Comment les avez surmontés?
-
-## Remise
+### Remise
 - **Avant la Séance 5!**
 
 
-
-
-# Rapport de recherche (40%)
+# Le Rapport de recherche (40%)
 L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestre. Dans celui-ci l'étudiant démontre sa capacité de répondre empiriquement à une question en sciences sociales tout en articulant les méthodes qualitatives et quantitatives.
 
-
-1. Acceptez le travail en cliquant **[ICI](https://classroom.github.com/g/gBLIj52O)**.
-2. Créez ou rejoignez votre groupe en suivant le format :
-    - A1, A2, A3, A4, B1, B2, B3, B4.
-
-## Objectifs d'apprentissage:
-
-- Savoir préparer, analyser et interpréter les données
-- Savoir déterminer les contributions et les limites du rapport
-- Savoir utiliser RStudio pour générer un rapport de recherche
+## Objectifs :
+- Analyser et interpréter les données.
+- Répondre empiriquement à une question de recherche.
+- Déterminer les contributions et les limites du rapport.
 
 ## Consignes
-
-- Le rapport doit faire 8 à 10 pages
+- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
+- Le rapport est à réaliser à partir du fichier `rapport_de_recherche.Rmd`.
+- Le rapport de lecture fait maximum 4000 mots (~8 pages).
     - Sans compter les annexes et la bibliographie.
-    - Vous également ajouter mettre d'autres documents en annexe.
-    - N'oubliez pas d'y répondre à votre question de départ!
-- En plus d'un titre et des auteurs, le rapport contient 4 sections :
-    - Introduction
-    - Données et Méthode
-    - Résultats
-    - Conclusion et Discussion
-- Maximum 2 images dans les 8 à 10 pages.
+- Dans le rapport vous devez répondre à votre question de départ!
+- Le rapport contient au maximum 2 images.
+    - Les images font au maximum 1/3 de page.
     - Vous pouvez mettre d'autres images en annexe.
-    - Une image fait maximum 1/3 de page.
-- Détails techniques du rapport:
-    - Un fichier RMarkdown (`.Rmd`) permettant de générer le `.pdf` du rapport.
-    - Un fichier BibTeX (`.bib`) contenant toutes les références bibliographiques.
-    - Les citations sont automatisés dans le rapport en utilisant les clés du fichier BibTex.
-    - Le rapport contient une section Bibliographie générée automatiquement.
-- Pour le dépôt :
-    - Compilez votre fichier ".Rmd" en ".pdf" sur RStudio.
-    - Déposer les fichiers dans le dossier généré par GitHub :
-        - Le fichier `.pdf`
-        - Le fichier `.Rmd`
-        - Le fichier `.bib`
-        - Les annexes ou autre fichiers pertinents
-    - Ajouter un message mentionnant l'envoie final lors de votre dernier "Commit changes".
+- Le projet fait s'appuie sur différentes références scientifiques.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+    - Les références sont citées adéquatement et mises en perspectives dans le projet.
+    - Les références sont répertoriés dans une bibliographie.
+    - Les références et la bibliographie utilisent les clés du fichier BibTex.
+- Vous devez  `.pdf` en utilisant RStudio.
+- Vous devez déposer les différents fichiers dans le dossier crée par GitHub :
+    - Un fichier RMarkdown (`rapport_de_recherche.Rmd`) permettant de générer le PDF du rapport.
+    - Un fichier BibTeX (`references.bib`) contenant toutes les références bibliographiques.
+    - Un fichier (`rapport_de_recherche.pdf`) généré en utilisant RStudio, le fichier `rapport_de_recherche.Rmd` et le fichier `.bib`
+    - Les annexes ou autre fichiers pertinents
+
 
 ## Remise:
 - *Groupe A* : **lundi 11 janvier 2021**
 - *Groupe B* : **lundi 18 janvier 2021**
-
 
