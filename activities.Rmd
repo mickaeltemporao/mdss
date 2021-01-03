@@ -2,35 +2,32 @@
 title: "Activités"
 ---
 
-Cliques sur les liens suivants pour générer les dossier et document pour réaliser les différentes activités nécessaires.
+Pour réaliser les activités vous devez cliquer sur son lien respectif ci-dessous. Ensuite, créez ou rejoignez votre groupe si celui-ci est déjà présent. Enfin, un espace de travail est généré. Celui-ci contient les documents requis pour réaliser l'activité et déposer votre travail. À partir de là, vous pouvez accéder à votre espace de travail réservé pour l'activité et débuter celle-ci.
 
-Pour chacune des activités, cliquez sur le lien respectif à cette activité, dans la section [Liens](#Liens), pour accéder à l'espace réservé à cette activité.
-- Créez ou rejoignez votre groupe.
+**Semestre 1**
 
-**Semestre 1: Les Méthodes qualitatives**
+- [Rapport de lecture 1](https://classroom.github.com/g/-adrpVep)
+- [Rapport de projet 1](https://classroom.github.com/g/loguXLuR)
+- [Rapport de données 1](https://classroom.github.com/g/AAzabTq2)
 
-1. [Rapport de lecture 1](https://classroom.github.com/g/-adrpVep)
-2. [Rapport de projet 1](https://classroom.github.com/g/loguXLuR)
-3. [Rapport de données 1](https://classroom.github.com/g/AAzabTq2)
+**Semestre 2**
 
-**Semestre 2 : Les Méthodes quantitatives**
-
-1. [Rapport de lecture 2](https://classroom.github.com/g/pqJfnGTz)
-2. [Rapport de projet 2](https://classroom.github.com/g/d81WBT72)
-3. [Rapport de données 2](https://classroom.github.com/g/WnERz_-V)
+- [Rapport de lecture 2](https://classroom.github.com/g/pqJfnGTz)
+- [Rapport de projet 2](https://classroom.github.com/g/d81WBT72)
+- [Rapport de données 2](https://classroom.github.com/g/WnERz_-V)
 
 # Expression (30%)
 
 ## Présentations (15%) - Expression
 Lors de chaque séance un groupe de trois étudiants présente un article scientifique. Un rapport de lecture d'une page, en suivant le modèle partagé, est également remis 24h à l'avance à l'ensemble de la classe, par le groupe d'étudiants effectuant la présentation.
 
-### Objectifs:
+### Objectifs
 - Capacité d'ancrage théorique
 - Capacité de synthèse
 - Capacité de vulgarisation scientifique
 
-### Consignes:
-- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
+### Consignes
+- Cliquez sur le lien concernant le rapport de lecture du semestre en cours.
 - Le rapport est à réaliser à partir du fichier `rapport_de_lecture.Rmd`.
 - Le rapport de lecture doit faire maximum 500 mots (~1 page).
 - Le rapport utilise le format [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les citations et la bibliographie.
@@ -51,14 +48,13 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 
 ## TP1: Le projet de recherche
 
-### Objectifs:
+### Objectifs
 - Conception et planification d'un projet de recherche
 - Formulation d'une questions de recherche en sciences sociales
 - Ancrer un projet dans une littérature scientifique approprié
 
-### Consignes:
-- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
-    - Créez ou rejoignez votre groupe.
+### Consignes
+- Cliquez sur le lien concernant le projet de recherche du semestre en cours.
 - Le rapport est à réaliser à partir du fichier `projet_de_recherche_TP1.Rmd`.
 - Le projet de recherche doit faire maximum 1000 mots (~2 pages).
 - Dans celui-ci, vous devez identifier une problématique ou question de recherche en opinion publique et/ou comportement politique.
@@ -71,9 +67,9 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 - Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
 - Déposez les deux (`.Rmd` et `.pdf`) fichiers dans le dossier crée par GitHub.
 
-
-### Remise:
+### Remise
 - **Avant la séance 3**
+
 
 ## TP2: Le rapport de données
 
@@ -83,8 +79,7 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 - Identifier la pertinence des données
 
 ### Consignes
-- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
-    - Créez ou rejoignez votre groupe.
+- Cliquez sur le lien concernant le rapport de données du semestre en cours.
 - Le rapport est à réaliser à partir du fichier `rapport_de_donnees_TP2.Rmd`.
 - Le rapport de données doit faire maximum 1000 mots (~2 pages).
 - Dans celui-ci vous devez identifier vos variables dépendantes, indépendantes et contrôles.
@@ -96,7 +91,6 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 - Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
 - Déposez les deux (`.Rmd` et `.pdf`) fichiers dans le dossier crée par GitHub.
 
-
 ### Remise
 - **Avant la Séance 5!**
 
@@ -104,13 +98,13 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 # Le Rapport de recherche (40%)
 L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestre. Dans celui-ci l'étudiant démontre sa capacité de répondre empiriquement à une question en sciences sociales tout en articulant les méthodes qualitatives et quantitatives.
 
-## Objectifs :
+## Objectifs
 - Analyser et interpréter les données.
 - Répondre empiriquement à une question de recherche.
 - Déterminer les contributions et les limites du rapport.
 
 ## Consignes
-- Cliquez sur le lien respectif à l'activité dans la section [Liens](#Liens).
+- Cliquez sur le lien concernant le rapport de recherche du semestre en cours.
 - Le rapport est à réaliser à partir du fichier `rapport_de_recherche.Rmd`.
 - Le rapport de lecture fait maximum 4000 mots (~8 pages).
     - Sans compter les annexes et la bibliographie.
@@ -130,8 +124,6 @@ L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestr
     - Un fichier (`rapport_de_recherche.pdf`) généré en utilisant RStudio, le fichier `rapport_de_recherche.Rmd` et le fichier `.bib`
     - Les annexes ou autre fichiers pertinents
 
-
-## Remise:
-- *Groupe A* : **lundi 11 janvier 2021**
-- *Groupe B* : **lundi 18 janvier 2021**
+## Remise
+- Voir la section [Horaire](schedule.html)
 
