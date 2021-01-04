@@ -27,11 +27,11 @@ title: Ressources
 - 1 paragraphe =  ~ 5 phrases
 - 1 phrase = ~ 20 mots
 
-aussi que 1 paragraphe = 1 idée (donc expliqué en 5 phrases).
+De même 1 paragraphe = 1 idée = 5 phrases.
 
-    - La première phrase introduit l'idée
-    - Suivi de trois points/arguments que l'on souhaite mettre en avant
-    - La dernière phrase conclu l'idée
+- La première phrase introduit l'idée
+- Suivi de trois points/arguments que l'on souhaite mettre en avant
+- La dernière phrase conclu l'idée
 
 ## Références et bibliographie
 - Style à utiliser : [Guide APA](https://www.mendeley.com/guides/apa-citation-guide)
