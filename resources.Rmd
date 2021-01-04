@@ -12,25 +12,27 @@ title: Ressources
 - [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 
 # Logiciels
-- [R](https://www.r-project.org/) is a free and open-source programming language primarily used for statistics and data analysis.
-- [RStudio](https://www.rstudio.com/) is a free and easy-to-use interface to program in R and other languages.
-- [git](https://git-scm.com/) is an open-source version control system that allows you to keep traces of your changes and do reproducible research.
+- [R](https://www.r-project.org/) est un langage de programmation gratuit et open-source principalement utilisé pour les statistiques et l'analyse de données.
+- [RStudio](https://www.rstudio.com/) est une interface gratuite et facile à utiliser pour programmer en R et dans d'autres langues.
+- [git](https://git-scm.com/) est un système de contrôle de version open-source qui vous permet de garder des traces de vos changements.
 
 # Tutoriels
 - [Markdown](https://commonmark.org/help/tutorial/)
 
 # Divers
 
-## Conseils d'écriture
+## Écriture
+
 - 1 page = ~ 5 paragraphes
 - 1 paragraphe =  ~ 5 phrases
 - 1 phrase = ~ 20 mots
 
-Notez aussi que 1 paragraphe = 1 idée (donc expliqué en 5 phrases).
+aussi que 1 paragraphe = 1 idée (donc expliqué en 5 phrases).
+
     - La première phrase introduit l'idée
     - Suivi de trois points/arguments que l'on souhaite mettre en avant
     - La dernière phrase conclu l'idée
 
 ## Références et bibliographie
-- Style à utilise : [Guide APA](https://www.mendeley.com/guides/apa-citation-guide)
+- Style à utiliser : [Guide APA](https://www.mendeley.com/guides/apa-citation-guide)
 
