@@ -1,16 +1,34 @@
+---
+title: Ressources
+---
 
-Le rapport de lecture doit faire **1 page**.
+# Livres
+- Wickham, H., & Grolemund, G. (2016). *[R for Data Science: import, tidy, transform, visualize, and model data](http://r4ds.had.co.nz/)*. O'Reilly Media, Inc.
 
+# Cheatsheets
+- [Graphiques](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [Transformations](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+
+# Logiciels
+- [R](https://www.r-project.org/) is a free and open-source programming language primarily used for statistics and data analysis.
+- [RStudio](https://www.rstudio.com/) is a free and easy-to-use interface to program in R and other languages.
+- [git](https://git-scm.com/) is an open-source version control system that allows you to keep traces of your changes and do reproducible research.
+
+# Tutoriels
+- [Markdown](https://commonmark.org/help/tutorial/)
+
+# Conseils d'écriture
 - 1 page = ~ 5 paragraphes
-- 1 paragraphe = ~ 5 phrases
+- 1 paragraphe =  ~ 5 phrases
 - 1 phrase = ~ 20 mots
 
-##### À titre informatif:
-- 1 page = ~ 5 paragraphes
-- 1 paragraphe = ~ 5 phrases
-- 1 phrase = ~ 20 mots
+Notez aussi que 1 paragraphe = 1 idée (donc expliqué en 5 phrases).
+    - La première phrase introduit l'idée
+    - Suivi de trois points/arguments que l'on souhaite mettre en avant
+    - La dernière phrase conclu l'idée
 
-- Utilisation du style [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les références dans le texte et la bibliographie.
-
-- Fichier [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (*.md*)
+# Références et bibliographie
+- Style à utilise : [Guide APA](https://www.mendeley.com/guides/apa-citation-guide)
 
