@@ -19,7 +19,9 @@ title: Ressources
 # Tutoriels
 - [Markdown](https://commonmark.org/help/tutorial/)
 
-# Conseils d'écriture
+# Divers
+
+## Conseils d'écriture
 - 1 page = ~ 5 paragraphes
 - 1 paragraphe =  ~ 5 phrases
 - 1 phrase = ~ 20 mots
@@ -29,6 +31,6 @@ Notez aussi que 1 paragraphe = 1 idée (donc expliqué en 5 phrases).
     - Suivi de trois points/arguments que l'on souhaite mettre en avant
     - La dernière phrase conclu l'idée
 
-# Références et bibliographie
+## Références et bibliographie
 - Style à utilise : [Guide APA](https://www.mendeley.com/guides/apa-citation-guide)
 
