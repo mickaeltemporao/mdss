@@ -7,7 +7,7 @@ navbar:
     - text: ""
       href: index.html
       icon: fa-home fa-lg
-    - text: "Séances"
+    - text: "Horaire"
       href: schedule.html
       icon: fa-calendar-alt fa-lg
     - text: "Activités"

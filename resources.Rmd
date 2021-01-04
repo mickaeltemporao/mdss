@@ -6,15 +6,16 @@ title: Ressources
 - Wickham, H., & Grolemund, G. (2016). *[R for Data Science: import, tidy, transform, visualize, and model data](http://r4ds.had.co.nz/)*. O'Reilly Media, Inc.
 
 # Cheatsheets
-- [Graphiques](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-- [Transformations](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+
+- [R Studio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 - [R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+- [Traitement](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [Visualisation](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 
 # Logiciels
-- [R](https://www.r-project.org/) est un langage de programmation gratuit et open-source principalement utilisé pour les statistiques et l'analyse de données.
-- [RStudio](https://www.rstudio.com/) est une interface gratuite et facile à utiliser pour programmer en R et dans d'autres langues.
-- [git](https://git-scm.com/) est un système de contrôle de version open-source qui vous permet de garder des traces de vos changements.
+- [R](https://www.r-project.org/) est un langage de programmation en accès libre principalement utilisé pour les statistiques et l'analyse de données.
+- [RStudio](https://www.rstudio.com/) est une logiciel de développement gratuit et facile à utiliser pour programmer en R ou d'autres langues.
+- [git](https://git-scm.com/) est un système de contrôle de version en accès libre qui vous permet de garder des traces des changements effectués dans vos fichiers.
 
 # Tutoriels
 - [Markdown](https://commonmark.org/help/tutorial/)
