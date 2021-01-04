@@ -4,10 +4,10 @@ subtitle: "Sciences Po Bordeaux"
 author: "Mickael Temporão"
 ---
 
-| Horaire          | Jour          | Heure       | Local |
-| -------------    | ------------- | -           | -     |
-| Conférence       | Vendredi      | 09h45-11h15 | A.138 |
-| Heures de bureau | Vendredi      | 11h30-12h30 | B.140 |
+| Horaire          | Jour          | Heure       | Local      |
+| -------------    | ------------- | -           | -          |
+| Conférence       | Vendredi      | 09h45-11h15 | A.138/Zoom |
+| Heures de bureau | Vendredi      | 11h30-12h30 | B.140/Zoom |
 
 # Aperçu
 

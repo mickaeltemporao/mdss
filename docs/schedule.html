@@ -37,6 +37,97 @@
     </style>
 
 
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css" data-origin="pandoc">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  { color: #cccccc; background-color: #303030; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ffcfaf; } /* Alert */
+code span.an { color: #7f9f7f; font-weight: bold; } /* Annotation */
+code span.at { } /* Attribute */
+code span.bn { color: #dca3a3; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #f0dfaf; } /* ControlFlow */
+code span.ch { color: #dca3a3; } /* Char */
+code span.cn { color: #dca3a3; font-weight: bold; } /* Constant */
+code span.co { color: #7f9f7f; } /* Comment */
+code span.cv { color: #7f9f7f; font-weight: bold; } /* CommentVar */
+code span.do { color: #7f9f7f; } /* Documentation */
+code span.dt { color: #dfdfbf; } /* DataType */
+code span.dv { color: #dcdccc; } /* DecVal */
+code span.er { color: #c3bf9f; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #c0bed1; } /* Float */
+code span.fu { color: #efef8f; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #7f9f7f; font-weight: bold; } /* Information */
+code span.kw { color: #f0dfaf; } /* Keyword */
+code span.op { color: #f0efd0; } /* Operator */
+code span.ot { color: #efef8f; } /* Other */
+code span.pp { color: #ffcfaf; font-weight: bold; } /* Preprocessor */
+code span.sc { color: #dca3a3; } /* SpecialChar */
+code span.ss { color: #cc9393; } /* SpecialString */
+code span.st { color: #cc9393; } /* String */
+code span.va { } /* Variable */
+code span.vs { color: #cc9393; } /* VerbatimString */
+code span.wa { color: #7f9f7f; font-weight: bold; } /* Warning */
+
+</style>
+<script>
+// apply pandoc div.sourceCode style to pre.sourceCode instead
+(function() {
+  var sheets = document.styleSheets;
+  for (var i = 0; i < sheets.length; i++) {
+    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
+    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
+    for (var j = 0; j < rules.length; j++) {
+      var rule = rules[j];
+      // check if there is a div.sourceCode rule
+      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") continue;
+      var style = rule.style.cssText;
+      // check if color or background-color is set
+      if (rule.style.color === '' && rule.style.backgroundColor === '') continue;
+      // replace div.sourceCode by a pre.sourceCode rule
+      sheets[i].deleteRule(j);
+      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
+    }
+  }
+})();
+</script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
 
 
 <style type="text/css">
@@ -393,6 +484,8 @@ div.tocify {
 </div>
 
 
+<div id="aperçu" class="section level1">
+<h1><strong>Aperçu</strong></h1>
 <table>
 <thead>
 <tr class="header">
@@ -410,7 +503,7 @@ div.tocify {
 <td>2020/09/25</td>
 <td>Projet</td>
 <td align="center">01</td>
-<td><a href="s01_unit_01_projet_intro.html">Introduction</a></td>
+<td><a href="#séance-01---introduction">Introduction</a></td>
 <td align="center">-</td>
 </tr>
 <tr class="even">
@@ -519,6 +612,440 @@ div.tocify {
 </tr>
 </tbody>
 </table>
+<hr />
+</div>
+<div id="s1-méthodes-qualitatives" class="section level1">
+<h1><strong>S1: Méthodes Qualitatives</strong></h1>
+<div id="séance-1---introduction" class="section level2">
+<h2>Séance 1 - Introduction</h2>
+<ul>
+<li>Présentation du <a href="https://mickaeltemporao.github.io/CMT3A-MSS/">syllabus</a></li>
+<li>Définitions des groupes et ordre de passage</li>
+</ul>
+<div id="technique" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>Déposer ses travaux sur <a href="https://github.com/">GitHub</a></li>
+</ul>
+<div id="à-préparer-avant-cette-séance" class="section level4">
+<h4>À préparer avant cette séance</h4>
+<ul>
+<li>Se familiariser avec le syllabus (si vous lisez ceci, c’est bien parti!)</li>
+<li>Créer un compte sur <a href="methodesss.slack.com">Slack</a></li>
+<li>Créer un compte sur <a href="https://github.com/">GitHub</a></li>
+</ul>
+</div>
+<div id="à-préparer-pour-la-prochaine-séance" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Identifier un objet de recherche potentiel pouvant être étudié à l’aide de …</li>
+<li>Lecture :
+<ul>
+<li><a href="https://books.google.fr/books?id=A7VFF-JR3b8C&amp;lpg=PP1&amp;pg=PA3#v=onepage&amp;q&amp;f=false">King, G., Keohane, R., &amp; Verba, S. (1994). The Science in Social Science. In <em>Designing Social Inquiry: Scientific Inference in Qualitative Research</em> (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4</a></li>
+</ul></li>
+<li>Téléchargez et installez les deux logiciels suivants :
+<ul>
+<li><a href="https://cran.biotools.fr/">R</a></li>
+<li><a href="https://rstudio.com/products/rstudio/download/#download">RStudio</a></li>
+<li>Votre ordinateur pourrait vous informer que ces logiciels peuvent être dangereux pour votre ordinateur. C’est normal, vous installez des langages de programmation avec lesquels nous pouvons absolument TOUT faire. Vous pouvez ignorer ces messages et télécharger ces fichiers car nous savons exactement ce que nous allons faire avec ceux-ci. Dans un contexte autre que ce cours et avec des fichiers dont vous ignorez l’utilité, n’acceptez jamais ce genre de messages!</li>
+</ul></li>
+<li>Tutoriel <a href="https://commonmark.org/help/tutorial/">Markdown</a></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-2---le-projet-de-recherche" class="section level2">
+<h2>Séance 2 - Le projet de recherche</h2>
+<div id="théorie" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>La méthode scientifique</li>
+<li>Lecture :
+<ul>
+<li><a href="https://books.google.fr/books?id=A7VFF-JR3b8C&amp;lpg=PP1&amp;pg=PA3#v=onepage&amp;q&amp;f=false">King, G., Keohane, R., &amp; Verba, S. (1994). The Science in Social Science. In <em>Designing Social Inquiry: Scientific Inference in Qualitative Research</em> (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="application" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Ancrage théorique, problématique et bibliographie.</li>
+</ul>
+</div>
+<div id="technique-1" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf">RStudio</a></li>
+<li><a href="https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf">RMarkdown</a></li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-1" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le TP1</li>
+<li>Identifiez les concepts principaux de votre projet de recherche</li>
+<li>Lecture :
+<ul>
+<li><a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158">Gerring, J. (2017). Qualitative methods. <em>Annual Review of Political Science</em>, 20, 15-36</a>.</li>
+</ul></li>
+<li>Exécutez les deux lignes de code suivant dans la console de RStudio:</li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">&#39;tinytex&#39;</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>tinytex<span class="sc">::</span><span class="fu">install_tinytex</span>()</span></code></pre></div>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-3---les-types-de-données" class="section level2">
+<h2>Séance 3 - Les types de données</h2>
+<div id="théorie-1" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Les types de données</li>
+<li>Lecture :
+<ul>
+<li><a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158">Gerring, J. (2017). Qualitative methods. <em>Annual Review of Political Science</em>, 20, 15-36</a>.</li>
+</ul></li>
+</ul>
+</div>
+<div id="application-1" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Conceptualisation et diagramme causal</li>
+<li>Rétrospective</li>
+</ul>
+</div>
+<div id="technique-2" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>La recherche, les projets RStudio et GitHub</li>
+<li>Création de différents documents sur RStudio</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-2" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Planifiez une rencontre de feedback pour le TP1 avec le professeur.</li>
+<li>Identifiez des manières potentielles de mesurer les concepts de votre projet</li>
+<li>Lecture:
+<ul>
+<li><a href="https://books.google.fr/books?id=A7VFF-JR3b8C&amp;lpg=PP1&amp;pg=PA115#v=onepage&amp;q&amp;f=false">King, G., Keohane, R., &amp; Verba, S. (1994). Determining What to Observe. In <em>Designing Social Inquiry: Scientific Inference in Qualitative Research</em> (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4</a></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-4---la-collecte-de-données" class="section level2">
+<h2>Séance 4 - La collecte de données</h2>
+<div id="théorie-2" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Les processus de génération de données</li>
+<li>Lecture:
+<ul>
+<li><a href="https://books.google.fr/books?id=A7VFF-JR3b8C&amp;lpg=PP1&amp;pg=PA115#v=onepage&amp;q&amp;f=false">King, G., Keohane, R., &amp; Verba, S. (1994). Determining What to Observe. In <em>Designing Social Inquiry: Scientific Inference in Qualitative Research</em> (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="application-2" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>L’opérationnalisation des concepts</li>
+<li>Population et échantillon</li>
+</ul>
+</div>
+<div id="technique-3" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>Comment citer <code>@article_key</code> vs <code>[@article_key]</code> sur RMarkdown</li>
+<li>Automatisation de la bibliographie sur <a href="https://rstudio.com/products/rstudio/">RStudio</a></li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-3" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le TP2</li>
+<li>Identifiez des critères potentiels permettant de différencier vos cas/observations.</li>
+<li>Lecture:
+<ul>
+<li><a href="https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574">Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. <em>International Journal of Qualitative Methods</em>, 15(1), 1609406915624574.</a></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-5---lanalyse-de-contenu" class="section level2">
+<h2>Séance 5 - L’analyse de contenu</h2>
+<div id="théorie-3" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>La revue systématique de littérature</li>
+<li>Lecture:
+<ul>
+<li><a href="https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574">Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. <em>International Journal of Qualitative Methods</em>, 15(1), 1609406915624574.</a></li>
+</ul></li>
+</ul>
+</div>
+<div id="application-3" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Création d’une grille d’analyse</li>
+</ul>
+</div>
+<div id="technique-4" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>Les paramètres de compilation sur RStudio</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-4" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Planifiez une rencontre de feedback pour le TP2 avec le professeur.</li>
+<li>Préparez des questions liées à votre projet de recherche.</li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-6---le-rapport-de-recherche" class="section level2">
+<h2>Séance 6 - Le rapport de recherche</h2>
+<div id="théorie-4" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Le rapport de recherche</li>
+</ul>
+</div>
+<div id="application-4" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Rétrospective</li>
+</ul>
+</div>
+<div id="technique-5" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>DataCamp</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-5" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le Rapport 1.</li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+</div>
+<div id="s2-méthodes-quantitatives" class="section level1">
+<h1><strong>S2: Méthodes Quantitatives</strong></h1>
+<div id="séance-1---introduction-1" class="section level2">
+<h2>Séance 1 - Introduction</h2>
+<div id="théorie-5" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>…</li>
+</ul>
+</div>
+<div id="application-5" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>…</li>
+<li>…</li>
+</ul>
+</div>
+<div id="technique-6" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-6" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Identifier un objet de recherche potentiel pouvant être étudié à l’aide de …</li>
+<li>Lecture :
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-2---le-projet-de-recherche-1" class="section level2">
+<h2>Séance 2 - Le projet de recherche</h2>
+<div id="théorie-6" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>…</li>
+<li>Lecture :
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+</div>
+<div id="application-6" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Ancrage théorique, problématique et bibliographie.</li>
+</ul>
+</div>
+<div id="technique-7" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-7" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le TP1</li>
+<li>Identifiez les concepts principaux de votre projet de recherche</li>
+<li>Lecture :
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-3---les-types-de-données-1" class="section level2">
+<h2>Séance 3 - Les types de données</h2>
+<div id="théorie-7" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Les types de données</li>
+<li>Lecture :
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+</div>
+<div id="application-7" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Conceptualisation et opérationnalisation</li>
+<li>Rétrospective</li>
+</ul>
+</div>
+<div id="technique-8" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-8" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Planifiez une rencontre de feedback pour le TP1 avec le professeur.</li>
+<li>Identifiez des manières potentielles de mesurer les concepts de votre projet</li>
+<li>Lecture:
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-4---la-collecte-de-données-1" class="section level2">
+<h2>Séance 4 - La collecte de données</h2>
+<div id="théorie-8" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Les processus de génération de données</li>
+<li>Lecture:
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+</div>
+<div id="application-8" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>…</li>
+</ul>
+</div>
+<div id="technique-9" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-9" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le TP2</li>
+<li>Identifiez des critères potentiels permettant de différencier vos cas/observations.</li>
+<li>Lecture:
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-5---lanalyse-de-contenu-1" class="section level2">
+<h2>Séance 5 - L’analyse de contenu</h2>
+<div id="théorie-9" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>La revue systématique de littérature</li>
+<li>Lecture:
+<ul>
+<li>…</li>
+</ul></li>
+</ul>
+</div>
+<div id="application-9" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Création d’une grille d’analyse</li>
+</ul>
+</div>
+<div id="technique-10" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-10" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Planifiez une rencontre de feedback pour le TP2 avec le professeur.</li>
+<li>Préparez des questions liées à votre projet de recherche.</li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+<div id="séance-6---le-rapport-de-recherche-1" class="section level2">
+<h2>Séance 6 - Le rapport de recherche</h2>
+<div id="théorie-10" class="section level3">
+<h3>Théorie</h3>
+<ul>
+<li>Le rapport de recherche</li>
+</ul>
+</div>
+<div id="application-10" class="section level3">
+<h3>Application</h3>
+<ul>
+<li>Rétrospective</li>
+</ul>
+</div>
+<div id="technique-11" class="section level3">
+<h3>Technique</h3>
+<ul>
+<li>…</li>
+</ul>
+<div id="à-préparer-pour-la-prochaine-séance-11" class="section level4">
+<h4>À préparer pour la prochaine séance</h4>
+<ul>
+<li>Terminez le Rapport 1.</li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+</div>
 
 
 <p style="margin-bottom:3cm;"> Copyright &copy; Mickael Temporão, 2020, <a href="https://spdx.org/licenses/AGPL-3.0-or-later.html">GNU Affero General Public License v3.0</a>. </p>
