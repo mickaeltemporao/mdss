@@ -2,20 +2,20 @@
 title: "Horaire des séances"
 ---
 
-| Groupe A       | Groupe B       | Section           | Séance | Thème                                                        | Échéance                                                     |
-| -              | -              | -                 | :-:    | -                                                            | :-:                                                          |
-| 2020/09/18     | 2020/09/25     | Projet            | 01     | [Introduction](s01_unit_01_projet_intro.html)                | -                                                            |
-| 2020/10/02     | 2020/10/09     | Projet            | 02     | [Le projet de recherche](s01_unit_02_projet_objet.html)      | -                                                            |
-| 2020/10/16     | 2020/10/23     | Collecte          | 03     | [Les types de données](s01_unit_03_types.html)               | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
-| 2020/11/06     | 2020/11/13     | Collecte          | 04     | [La collecte de données](s01_unit_04_collecte.html)          | -                                                            |
-| 2020/11/20     | 2020/11/27     | Analyse           | 05     | [L'analyse de contenu qualitative](s01_unit_05_analyse.html) | [TP2](activities.html#TP1:_Le_repport_de_donnees)            |
-| 2020/12/04     | 2020/12/11     | Analyse           | 06     | [Le rapport de recherche]()                                  | -                                                            |
-| **2021/01/11** | **2021/01/18** | -                 | -      | **Remise du premier rapport**                                | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%25)) |
-| 2021/01/08     | 2020/01/15     | Projet            | 07     | Introduction                                                 | -                                                            |
-| 2021/01/22     | 2020/01/29     | Projet            | 08     | Le projet                                                    | -                                                            |
-| 2021/02/05     | 2020/02/12     | Collecte          | 09     | L'identification                                             | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
-| 2021/02/26     | 2020/03/05     | Collecte          | 10     | La préparation                                               | -                                                            |
-| 2021/03/12     | 2020/03/19     | Analyse           | 11     | L'analyse de données de sondage                              | [TP2](activities.html#TP1:_Le_repport_de_donnees)            |
-| 2021/03/26     | 2020/04/02     | Analyse           | 12     | L'inférence                                                  | -                                                            |
-| **2021/04/09** | **2021/04/16** | -                 | -      | **Remise du second rapport**                                 | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%25)) |
+| Groupe A       | Groupe B       | Section  | Séance | Thème                                                        | Échéance                                                     |
+| -              | -              | -        | :-:    | -                                                            | :-:                                                          |
+| 2020/09/18     | 2020/09/25     | Projet   | 01     | [Introduction](s01_unit_01_projet_intro.html)                | -                                                            |
+| 2020/10/02     | 2020/10/09     | Projet   | 02     | [Le projet de recherche](s01_unit_02_projet_objet.html)      | -                                                            |
+| 2020/10/16     | 2020/10/23     | Collecte | 03     | [Les types de données](s01_unit_03_types.html)               | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
+| 2020/11/06     | 2020/11/13     | Collecte | 04     | [La collecte de données](s01_unit_04_collecte.html)          | -                                                            |
+| 2020/11/20     | 2020/11/27     | Analyse  | 05     | [L'analyse de contenu qualitative](s01_unit_05_analyse.html) | [TP2](activities.html#TP2:_Le_rapport_de_données)            |
+| 2020/12/04     | 2020/12/11     | Analyse  | 06     | [Le rapport de recherche]()                                  | -                                                            |
+| **2021/01/11** | **2021/01/18** | -        | -      | **Remise du premier rapport**                                | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%))   |
+| 2021/01/08     | 2020/01/15     | Projet   | 07     | Introduction                                                 | -                                                            |
+| 2021/01/22     | 2020/01/29     | Projet   | 08     | Le projet                                                    | -                                                            |
+| 2021/02/05     | 2020/02/12     | Collecte | 09     | L'identification des variales                                | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
+| 2021/02/26     | 2020/03/05     | Collecte | 10     | La préparation des données                                   | -                                                            |
+| 2021/03/12     | 2020/03/19     | Analyse  | 11     | L'analyse de données de sondage                              | [TP2](activities.html#TP2:_Le_rapport_de_données)            |
+| 2021/03/26     | 2020/04/02     | Analyse  | 12     | L'inférence                                                  | -                                                            |
+| **2021/04/09** | **2021/04/16** | -        | -      | **Remise du second rapport**                                 | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%))   |
 
