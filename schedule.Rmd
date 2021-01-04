@@ -21,20 +21,164 @@ title: "Horaire des séances"
 | 2021/03/26     | 2020/04/02     | Analyse  | 12     | L'inférence                                                  | -                                                            |
 | **2021/04/09** | **2021/04/16** | -        | -      | **Remise du second rapport**                                 | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%))   |
 
+---
 
-# Séance 01 - Introduction
+# **S1: Méthodes Qualitatives**
+
+## Séance 01 - Introduction
 -  Présentation du [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
 -  Définitions des groupes et ordre de passage
 
-## Technique
+### Technique
 - Déposer ses travaux sur [GitHub](https://github.com/)
 
-### À préparer avant cette séance
+#### À préparer avant cette séance
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
 - Créer un compte sur [Slack](methodesss.slack.com)
 - Créer un compte sur [GitHub](https://github.com/)
 
-### À préparer pour la prochaine séance
+#### À préparer pour la prochaine séance
+- Identifier un objet de recherche potentiel pouvant être étudié à l'aide de ...
+- Lecture :
+    - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
+- Téléchargez et installez les deux logiciels suivants :
+    - [R](https://cran.biotools.fr/)
+    - [RStudio](https://rstudio.com/products/rstudio/download/#download)
+    - Votre ordinateur pourrait vous informer que ces logiciels peuvent être dangereux pour votre ordinateur. C'est normal, vous installez des langages de programmation avec lesquels nous pouvons absolument TOUT faire. Vous pouvez ignorer ces messages et télécharger ces fichiers car nous savons exactement ce que nous allons faire avec ceux-ci. Dans un contexte autre que ce cours et avec des fichiers dont vous ignorez l'utilité, n'acceptez jamais ce genre de messages!
+- Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
+
+---
+
+
+## Séance 02 - Le projet de recherche
+
+### Théorie
+- La méthode scientifique
+- Lecture :
+    - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
+
+### Application
+- Ancrage théorique, problématique et bibliographie.
+
+### Technique
+- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- [RMarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+
+#### À préparer pour la prochaine séance
+- Terminez le TP1
+- Identifiez les concepts principaux de votre projet de recherche
+- Lecture :
+    - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
+- Exécutez les deux lignes de code suivant dans la console de RStudio:
+
+    install.packages('tinytex')
+    tinytex::install_tinytex()
+
+---
+
+
+## Séance 03 - Les types de données
+
+### Théorie
+- Les types de données
+- Lecture :
+    - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
+
+### Application
+- Conceptualisation et diagramme causal
+
+### Technique
+- La recherche, les projets RStudio et GitHub
+- Création de différents documents sur RStudio
+
+#### À préparer pour la prochaine séance
+- Identifiez des manières potentielles de mesurer les concepts de votre projet
+- Lecture:
+    - [King, G., Keohane, R., & Verba, S. (1994). Determining What to Observe. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA115#v=onepage&q&f=false)
+
+---
+
+
+## Séance 04 - La collecte de données
+
+### Théorie
+- Les processus de génération de données
+- Lecture:
+    - [King, G., Keohane, R., & Verba, S. (1994). Determining What to Observe. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA115#v=onepage&q&f=false)
+
+### Application
+- L'opérationnalisation des concepts
+- Population et échantillon
+
+### Technique
+- Comment citer `@article_key` vs `[@article_key]` sur RMarkdown
+- Automatisation de la bibliographie sur [RStudio](https://rstudio.com/products/rstudio/)
+
+#### À préparer pour la prochaine séance
+- Terminez le TP2
+- Identifiez des critères potentiels permettant de différencier vos cas/observations.
+- Lecture:
+    - [Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. *International Journal of Qualitative Methods*, 15(1), 1609406915624574.](https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574)
+
+---
+
+
+## Séance 05 - L'analyse de contenu
+
+### Théorie
+- La revue systématique de littérature
+- Lecture:
+    - [Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. *International Journal of Qualitative Methods*, 15(1), 1609406915624574.](https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574)
+
+### Application
+- Création d'une grille d'analyse
+
+### Technique
+- Les paramètres de compilation sur RStudio
+
+#### À préparer pour la prochaine séance
+- Préparez des questions liées à votre projet de recherche.
+
+---
+
+
+## Séance 06 - Le rapport de recherche
+
+### Théorie
+- Le rapport de recherche
+
+### Application
+- Rétrospective
+
+### Technique
+- DataCamp
+
+#### À préparer pour la prochaine séance
+- Terminez le Rapport 1.
+
+---
+
+
+# **S2: Méthodes Quantitatives**
+
+## - Séance 01 - Le rapport de recherche
+
+### Théorie
+- Le rapport de recherche
+-  Introduction du [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
+
+### Application
+-
+
+### Technique
+- Déposer ses travaux sur [GitHub](https://github.com/)
+
+#### À préparer avant cette séance
+- Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
+- Créer un compte sur [Slack](methodesss.slack.com)
+- Créer un compte sur [GitHub](https://github.com/)
+
+#### À préparer pour la prochaine séance
 - Identifier un objet de recherche potentiel pouvant être étudié à l'aide de ...
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
@@ -45,104 +189,13 @@ title: "Horaire des séances"
 - Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
 
 
-# Séance 02 - Le projet de recherche
-
-## Théorie
-- La méthode scientifique
-- Lecture :
-    - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
-
-## Application
-- Ancrage théorique, problématique et bibliographie.
-
-## Technique
-- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-- [RMarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-
-### À préparer pour la prochaine séance
-- Identifiez les concepts principaux de votre projet de recherche
-- Lecture :
-    - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
-- Exécutez les deux lignes de code suivant dans la console de RStudio:
-
-    install.packages('tinytex')
-    tinytex::install_tinytex()
-
-
-# Séance 03 - Les types de données
-
-## Théorie
-- Les types de données
-- Lecture :
-    - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
-
-## Application
-- Conceptualisation et diagramme causal
-
-## Technique
-- La recherche, les projets RStudio et GitHub
-- Création de différents documents sur RStudio
-
-### À préparer pour la prochaine séance
-- Identifiez des manières potentielles de mesurer les concepts de votre projet
-- Lecture:
-    - [King, G., Keohane, R., & Verba, S. (1994). Determining What to Observe. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA115#v=onepage&q&f=false)
-
-
-# Séance 04 - La collecte de données
-
-## Théorie
-- Les processus de génération de données
-- Lecture:
-    - [King, G., Keohane, R., & Verba, S. (1994). Determining What to Observe. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA115#v=onepage&q&f=false)
-
-## Application
-- L'opérationnalisation des concepts
-- Population et échantillon
-
-## Technique
-- Comment citer `@article_key` vs `[@article_key]` sur RMarkdown
-- Automatisation de la bibliographie sur [RStudio](https://rstudio.com/products/rstudio/)
-
-### À préparer pour la prochaine séance
-- Identifiez des critères potentiels permettant de différencier vos cas/observations.
-- Lecture:
-    - [Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. *International Journal of Qualitative Methods*, 15(1), 1609406915624574.](https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574)
-
-
-# Séance 05 - L'analyse de contenu
-
-## Théorie
-- La revue systématique de littérature
-- Lecture:
-    - [Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. *International Journal of Qualitative Methods*, 15(1), 1609406915624574.](https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574)
-
-## Application
-- Création d'une grille d'analyse
-
-## Technique
-- Les paramètres de compilation sur RStudio
-
-## À préparer pour la prochaine séance
-
-
-# Séance 06 - Le rapport de recherche
-
-## Théorie
-- L'analyse de contenu qualitative
-- La revue systématique de la littérature
-
-
-## Application
-- Rétrospective
-
-## Technique
-- DataCamp
-
-## À préparer
-- Terminer le rapport final.
-
-
-# Séance 7 - Introduction
-
-
+## Séance 02 - Le projet de recherche
+---
+## Séance 03 - Les types de données
+---
+## Séance 04 - La collecte de données
+---
+## Séance 05 - L'analyse de contenu
+---
+## Séance 06 - Le rapport de recherche
+---
