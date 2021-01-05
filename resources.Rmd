@@ -19,6 +19,8 @@ title: Ressources
 
 # Tutoriels
 - [Markdown](https://commonmark.org/help/tutorial/)
+- [Utiliser RMarkdown et RStudio pour générer des PDFs](https://www.youtube.com/watch?v=fFdIugKoPTM)
+- [Citations et bibliographies automatiques sur RMarkdown](https://www.youtube.com/watch?v=RiFpYIShjIM)
 
 # Divers
 
