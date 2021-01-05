@@ -2,23 +2,15 @@
 title: "Activités"
 ---
 
-Pour réaliser les activités vous devez cliquer sur son lien respectif ci-dessous. Ensuite, créez ou rejoignez votre groupe si celui-ci est déjà présent. Enfin, un espace de travail est généré. Celui-ci contient les documents requis pour réaliser l'activité et déposer votre travail. À partir de là, vous pouvez accéder à votre espace de travail réservé pour l'activité et débuter celle-ci.
+Cette page contient le détail des différentes activités à réaliser pour ce cours. Pour celles nécessitant la dépôt de documents, un lien est à chaque fois partagé dans la sous-section "Remise". Vous avez accès à un lien pour l'activité pour chaque semestre. Lorsque vous cliquez sur celui-ci, un espace de travail est généré automatiquement. Celui-ci contient un dossier avec les documents requis pour réaliser l'activité. À partir de là, vous pouvez accéder à votre espace de travail réservé pour l'activité et débuter celle-ci.
 
-**Semestre 1**
 
-- [Rapport de lecture 1](https://classroom.github.com/g/-adrpVep)
-- [Rapport de projet 1](https://classroom.github.com/g/loguXLuR)
-- [Rapport de données 1](https://classroom.github.com/g/AAzabTq2)
 
-**Semestre 2**
 
-- [Rapport de lecture 2](https://classroom.github.com/g/pqJfnGTz)
-- [Rapport de projet 2](https://classroom.github.com/g/d81WBT72)
-- [Rapport de données 2](https://classroom.github.com/g/WnERz_-V)
 
-# Expression (30%)
+# Participation (30%)
 
-## Présentations (15%) - Expression
+## Présentations (15%) - Participation
 Lors de chaque séance un groupe de trois étudiants présente un article scientifique. Un rapport de lecture d'une page, en suivant le modèle partagé, est également remis 24h à l'avance à l'ensemble de la classe, par le groupe d'étudiants effectuant la présentation.
 
 ### Objectifs
@@ -35,11 +27,13 @@ Lors de chaque séance un groupe de trois étudiants présente un article scient
 
 ### Remise
 - Le rapport est déposé 24h à l'avance dans le dossier généré sur GitHub.
+**- Semestre 1 : **[Rapport de lecture S1](https://classroom.github.com/g/-adrpVep)
+**- Semestre 2 : **[Rapport de lecture S2](https://classroom.github.com/g/pqJfnGTz)
 
-## Participation (10%) - Expression
+## Sync/Async (10%) - Participation
 La présence et l'engagement est attendu des étudiants lors des séances synchrones, qu'elles soient en présentiel ou à distance. De même, il est attendu que les étudiants soient actifs de manière asynchrone en participant et contribuant aux discussions ayant lieu sur la plateforme de communication (voir la section **[Communication](index.html#Communication)**.
 
-## Commentaire (05%) - Expression
+## Commentaire (5%) - Participation
 Lors de chaque séance un étudiant est tiré au hasard pour effectuer un commentaire de 5 minutes sur l'article, le rapport de lecture et la présentation. Dans ce commentaire, l'étudiant apporte sa perspective sur l'article et le sujet présenté. La note pour chaque commentaire individuel est appliquée au groupe de l'étudiant.
 
 
@@ -69,6 +63,8 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 
 ### Remise
 - **Avant la séance 3**
+**- Semestre 1 : **[Rapport de projet 1](https://classroom.github.com/g/loguXLuR)
+**- Semestre 2 : **[Rapport de projet 2](https://classroom.github.com/g/d81WBT72)
 
 
 ## TP2: Le rapport de données
@@ -92,7 +88,9 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
 - Déposez les deux (`.Rmd` et `.pdf`) fichiers dans le dossier crée par GitHub.
 
 ### Remise
-- **Avant la Séance 5!**
+- **Avant la Séance 5**
+**- Semestre 1 : **[Rapport de données S1](https://classroom.github.com/g/AAzabTq2)
+**- Semestre 2 : **[Rapport de données S2](https://classroom.github.com/g/WnERz_-V)
 
 
 # Le Rapport de recherche (40%)
@@ -125,5 +123,7 @@ L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestr
     - Les annexes ou autre fichiers pertinents
 
 ## Remise
-- Voir la section [Horaire](schedule.html)
-
+**- Semestre 1 : **[Rapport de Recherche 1](https://classroom.github.com/g/gBLIj52O)
+    - *Groupe A* : lundi 11 janvier 2021; *Groupe B* : lundi 18 janvier 2021
+**- Semestre 2 : **[Rapport de Recherche 2](https://classroom.github.com/g/hUyGz2Hu)
+    - *Groupe A* : lundi 9 avril 2021; *Groupe B* : lundi 16 avril 2021
