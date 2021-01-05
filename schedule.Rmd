@@ -4,29 +4,33 @@ title: "Horaire des séances"
 
 # **Aperçu**
 
-| Groupe A       | Groupe B       | Section  | Séance | Thème                                                        | Échéance                                                     |
-| -              | -              | -        | :-:    | -                                                            | :-:                                                          |
-| 2020/09/18     | 2020/09/25     | Projet   | 01     | [Introduction](#séance-01---introduction)                | -                                                            |
-| 2020/10/02     | 2020/10/09     | Projet   | 02     | [Le projet de recherche](s01_unit_02_projet_objet.html)      | -                                                            |
-| 2020/10/16     | 2020/10/23     | Collecte | 03     | [Les types de données](s01_unit_03_types.html)               | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
-| 2020/11/06     | 2020/11/13     | Collecte | 04     | [La collecte de données](s01_unit_04_collecte.html)          | -                                                            |
-| 2020/11/20     | 2020/11/27     | Analyse  | 05     | [L'analyse de contenu qualitative](s01_unit_05_analyse.html) | [TP2](activities.html#TP2:_Le_rapport_de_données)            |
-| 2020/12/04     | 2020/12/11     | Analyse  | 06     | [Le rapport de recherche]()                                  | -                                                            |
-| **2021/01/11** | **2021/01/18** | -        | -      | **Remise du premier rapport**                                | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%))   |
-| 2021/01/08     | 2020/01/15     | Projet   | 07     | Introduction                                                 | -                                                            |
-| 2021/01/22     | 2020/01/29     | Projet   | 08     | Le projet                                                    | -                                                            |
-| 2021/02/05     | 2020/02/12     | Collecte | 09     | L'identification des variales                                | [TP1](activities.html#TP1:_Le_projet_de_recherche)           |
-| 2021/02/26     | 2020/03/05     | Collecte | 10     | La préparation des données                                   | -                                                            |
-| 2021/03/12     | 2020/03/19     | Analyse  | 11     | L'analyse de données de sondage                              | [TP2](activities.html#TP2:_Le_rapport_de_données)            |
-| 2021/03/26     | 2020/04/02     | Analyse  | 12     | L'inférence                                                  | -                                                            |
-| **2021/04/09** | **2021/04/16** | -        | -      | **Remise du second rapport**                                 | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%))   |
+| Groupe A       | Groupe B       | Thème                                                        | Présentation | Échéance                                                   |
+| -              | -              | -                                                            | :-:          | :-:                                                        |
+| 2020/09/18     | 2020/09/25     | [S1 Séance 1 - Le projet (1/2)](#s1-séance-1---projet-12)    | -            | -                                                          |
+| 2020/10/02     | 2020/10/09     | [S1 Séance 2 - Le projet (2/2)](#s1-séance-2---projet-22)    | Groupe 1     | -                                                          |
+| 2020/10/16     | 2020/10/23     | [S1 Séance 3 - Les données (1/2)](#s1-séance-3---données-12) | Groupe 2     | [TP1]()                                                    |
+| 2020/11/06     | 2020/11/13     | [S1 Séance 4 - Les données (2/2)](#s1-séance-4---données-22) | Groupe 3     | -                                                          |
+| 2020/11/20     | 2020/11/27     | [S1 Séance 5 - L'analyse (1/2)](#s1-séance-5---analyse-12)   | Groupe 4     | [TP2](activities.html#TP2:_Le_rapport_de_données)          |
+| 2020/12/04     | 2020/12/11     | [S1 Séance 6 - L'analyse (2/2)](#s1-séance-6---analyse-22)   |              | -                                                          |
+| **2021/01/11** | **2021/01/18** | **Remise de rapport de recherche**                           |              | [Rapport 1](activities.html#Le_Rapport_de_recherche_(40%)) |
+| 2021/01/08     | 2020/01/15     | [S2 Séance 1 - Le projet (1/2)](#s2-séance-1---projet-12)    |              | -                                                          |
+| 2021/01/22     | 2020/01/29     | [S2 Séance 2 - Le projet (2/2)](#s2-séance-2---projet-22)    | Groupe 1     | -                                                          |
+| 2021/02/05     | 2020/02/12     | [S2 Séance 3 - Les données (1/2)](#s2-séance-3---données-12) | Groupe 2     | [TP1](activities.html#TP1:_Le_projet_de_recherche)         |
+| 2021/02/26     | 2020/03/05     | [S2 Séance 4 - Les données (2/2)](#s2-séance-4---données-22) | Groupe 3     | -                                                          |
+| 2021/03/12     | 2020/03/19     | [S2 Séance 5 - L'analyse (1/2)](#s2-séance-5---analyse-12)   | Groupe 4     | [TP2](activities.html#TP2:_Le_rapport_de_données)          |
+| 2021/03/26     | 2020/04/02     | [S2 Séance 6 - L'analyse (2/2)](#s2-séance-6---analyse-22)   |              | -                                                          |
+| **2021/04/09** | **2021/04/16** | **Remise de rapport de recherche**                           |              | [Rapport 2](activities.html#Le_Rapport_de_recherche_(40%)) |
 
 ---
 
-# **S1: Méthodes Qualitatives**
+# **S1 Méthodes Qualitatives**
 
-## Séance 1 - Introduction
+## S1 Séance 1 - Projet (1/2)
+### Théorie
+- Introduction
 -  Présentation du [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
+
+### Application
 -  Définitions des groupes et ordre de passage
 
 ### Technique
@@ -38,7 +42,12 @@ title: "Horaire des séances"
 - Créer un compte sur [GitHub](https://github.com/)
 
 #### À préparer pour la prochaine séance
-- Identifier un objet de recherche potentiel pouvant être étudié à l'aide de ...
+- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf). Vous devriez vous inspirer d'articles provenant des journaux suivants :
+    - https://ajps.org/
+    - https://www.cambridge.org/core/journals/american-political-science-review
+    - https://www.springer.com/journal/11109
+    - https://academic.oup.com/poq
+
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
 - Téléchargez et installez les deux logiciels suivants :
@@ -50,9 +59,10 @@ title: "Horaire des séances"
 ---
 
 
-## Séance 2 - Le projet de recherche
+## S1 Séance 2 - Projet (2/2)
 
 ### Théorie
+- Le projet de recherche
 - La méthode scientifique
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
@@ -79,7 +89,7 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 3 - Les types de données
+## S1 Séance 3 - Données (1/2)
 
 ### Théorie
 - Les types de données
@@ -103,10 +113,10 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 4 - La collecte de données
+## S1 Séance 4 - Données (2/2)
 
 ### Théorie
-- Les processus de génération de données
+- La collecte de données ou processus de génération de données
 - Lecture:
     - [King, G., Keohane, R., & Verba, S. (1994). Determining What to Observe. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 115-149). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA115#v=onepage&q&f=false)
 
@@ -127,9 +137,10 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 5 - L'analyse de contenu
+## S1 Séance 5 - Analyse (1/2)
 
 ### Théorie
+- L'analyse de contenu
 - La revue systématique de littérature
 - Lecture:
     - [Snelson, C. L. (2016). Qualitative and mixed methods social media research: A review of the literature. *International Journal of Qualitative Methods*, 15(1), 1609406915624574.](https://journals.sagepub.com/doi/pdf/10.1177/1609406915624574)
@@ -147,7 +158,7 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 6 - Le rapport de recherche
+## S1 Séance 6 - Analyse (2/2)
 
 ### Théorie
 - Le rapport de recherche
@@ -164,61 +175,71 @@ tinytex::install_tinytex()
 ---
 
 
-# **S2: Méthodes Quantitatives**
+# **S2 Méthodes Quantitatives**
 
-## Séance 1 - Introduction
+## S2 Séance 1 - Projet (1/2)
 
 ### Théorie
-- ...
+- Présentation du second semestre
+- The American National Election Study 2016 (ANES 2016)
 
 ### Application
-- ...
-- ...
+- Se familiariser avec le [codebook de l'ANES 2016](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf)
 
 ### Technique
-- ...
+- Installer et utiliser des "packages" sur R.
+```{r eval=FALSE}
+install.packages("tinytex")
+```
 
 #### À préparer pour la prochaine séance
-- Identifier un objet de recherche potentiel pouvant être étudié à l'aide de ...
+- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf). Vous devriez vous inspirer d'articles provenant des journaux suivants :
+    - https://ajps.org/
+    - https://www.cambridge.org/core/journals/american-political-science-review
+    - https://www.springer.com/journal/11109
+    - https://academic.oup.com/poq
+    - Et aussi https://electionstudies.org/papers-documents/anes-bibliography/
+- [Introduction Tidyverse](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)
 - Lecture :
     - ...
 
 ---
 
 
-## Séance 2 - Le projet de recherche
+## S2 Séance 2 - Projet (2/2)
 
 ### Théorie
-- ...
+- L'inférence statistique
 - Lecture :
     - ...
 
 ### Application
-- Ancrage théorique, problématique et bibliographie.
+- Le théorème central limite
 
 ### Technique
-- ...
-- ...
+- Introduction à R
 
 #### À préparer pour la prochaine séance
 - Terminez le TP1
-- Identifiez les concepts principaux de votre projet de recherche
+- Identifiez les variables pertinentes pour votre projet
 - Lecture :
     - ...
 
 ---
 
 
-## Séance 3 - Les types de données
+## S2 Séance 3 - Données (1/2)
 
 ### Théorie
-- Les types de données
+- Les types données
+- Statistiques descriptives
 - Lecture :
     - ...
 
 ### Application
-- Conceptualisation et opérationnalisation
+- Opérationnalisation
 - Rétrospective
+
 
 ### Technique
 - ...
@@ -232,18 +253,18 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 4 - La collecte de données
+## S2 Séance 4 - Données (2/2)
 
 ### Théorie
-- Les processus de génération de données
+- La régression linéaire
 - Lecture:
     - ...
 
 ### Application
-- ...
+- Interprétation de tableaux de régression
 
 ### Technique
-- ...
+...
 
 #### À préparer pour la prochaine séance
 - Terminez le TP2
@@ -254,15 +275,15 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 5 - L'analyse de contenu
+## S2 Séance 5 - Analyse (1/2)
 
 ### Théorie
-- La revue systématique de littérature
+- La régression multiple et logistique
 - Lecture:
     - ...
 
 ### Application
-- Création d'une grille d'analyse
+- Interprétation de tableaux de régression
 
 ### Technique
 - ...
@@ -274,7 +295,7 @@ tinytex::install_tinytex()
 ---
 
 
-## Séance 6 - Le rapport de recherche
+## S2 Séance 6 - Analyse (2/2)
 
 ### Théorie
 - Le rapport de recherche
