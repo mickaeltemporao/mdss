@@ -42,11 +42,12 @@ title: "Horaire des séances"
 - Créer un compte sur [GitHub](https://github.com/)
 
 #### À préparer pour la prochaine séance
-- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf). Vous devriez vous inspirer d'articles provenant des journaux suivants :
-    - https://ajps.org/
-    - https://www.cambridge.org/core/journals/american-political-science-review
-    - https://www.springer.com/journal/11109
-    - https://academic.oup.com/poq
+- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
+    - [https://ajps.org/](American Journal of Political Science)
+    - [https://www.cambridge.org/core/journals/american-political-science-review](American Political Science Review)
+    - [https://www.springer.com/journal/11109](Political Behavior)
+    - [https://academic.oup.com/poq](Public Opinion Quarterly)
 
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
@@ -193,12 +194,13 @@ install.packages("tinytex")
 ```
 
 #### À préparer pour la prochaine séance
-- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf). Vous devriez vous inspirer d'articles provenant des journaux suivants :
-    - https://ajps.org/
-    - https://www.cambridge.org/core/journals/american-political-science-review
-    - https://www.springer.com/journal/11109
-    - https://academic.oup.com/poq
-    - Et aussi https://electionstudies.org/papers-documents/anes-bibliography/
+- Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
+    - [https://ajps.org/](American Journal of Political Science)
+    - [https://www.cambridge.org/core/journals/american-political-science-review](American Political Science Review)
+    - [https://www.springer.com/journal/11109](Political Behavior)
+    - [https://academic.oup.com/poq](Public Opinion Quarterly)
+    - Et aussi [https://electionstudies.org/papers-documents/anes-bibliography/](ANES Bibliography Data Base)
 - [Introduction Tidyverse](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)
 - Lecture :
     - ...
