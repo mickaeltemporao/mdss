@@ -57,7 +57,7 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
     - Les références sont citées adéquatement et mises en perspectives dans le projet.
     - Les références sont répertoriés dans une bibliographie.
 - Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
-- Déposez les deux (`.Rmd` et `.pdf`) fichiers dans l'espace de travail.
+- Déposez les deux fichiers  (`.Rmd` et `.pdf`) dans l'espace de travail.
 
 ### Remise
 
@@ -84,7 +84,7 @@ Différents travaux pratiques travaux pratiques (TP) sont mis en place pour perm
     - Les références sont citées adéquatement et mises en perspectives dans le projet.
     - Les références sont répertoriés dans une bibliographie.
 - Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
-- Déposez les deux (`.Rmd` et `.pdf`) fichiers dans l'espace de travail.
+- Déposez les deux fichiers (`.Rmd` et `.pdf`) dans l'espace de travail.
 
 ### Remise
 
