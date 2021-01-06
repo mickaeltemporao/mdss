@@ -216,7 +216,7 @@ install.packages("tidyverse")
     - [Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 866-887.](https://academic.oup.com/poq/article/82/S1/866/4951269?login=true)
 
 ### Application
--
+- ...
 
 ### Technique
 - Introduction à R et Tidyverse
@@ -245,7 +245,7 @@ install.packages("tidyverse")
 
 
 ### Technique
--
+- ...
 
 #### À préparer pour la prochaine séance
 - Planifiez une rencontre de feedback pour le TP1 avec le professeur.
@@ -267,7 +267,7 @@ install.packages("tidyverse")
 - Interprétation de tableaux de régression
 
 ### Technique
-...
+- ...
 
 #### À préparer pour la prochaine séance
 - Terminez le TP2
@@ -286,7 +286,7 @@ install.packages("tidyverse")
     - [Barber, M., & Pope, J. C. (2019). Does party trump ideology? Disentangling party and ideology in America. American Political Science Review, 113(1), 38-54.](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3)
 
 ### Application
--
+- ...
 
 ### Technique
 - Créer des tableaux de régression
