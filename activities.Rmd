@@ -1,0 +1,130 @@
+---
+title: "Activités"
+---
+
+Cette page contient des détails concernant les activités à réaliser pour cette conférence de méthodes. Pour les activités nécessitant le dépôt de documents, un lien est à chaque fois partagé dans la sous-section "Remise" pour chaque semestre. Lorsque vous cliquez sur celui-ci, un espace de travail est généré automatiquement. Celui-ci contient un dossier avec les documents requis pour réaliser l'activité. À partir de là, vous pouvez débuter l'activité.
+
+
+# Participation (30%)
+
+## Présentations (15%) - Participation
+Lors de chaque séance un groupe de trois étudiants présente un article scientifique. Un rapport de lecture d'une page, en suivant le modèle partagé, est également remis 24h à l'avance à l'ensemble de la classe, par le groupe d'étudiants effectuant la présentation.
+
+### Objectifs
+- Capacité d'ancrage théorique
+- Capacité de synthèse
+- Capacité de vulgarisation scientifique
+
+### Consignes
+- Suivez le lien vers l'espace de travail correspondant à votre semestre dans la section "Remise".
+- Le rapport est à réaliser à partir du fichier `rapport_de_lecture.Rmd`.
+- Le rapport de lecture doit faire maximum 500 mots (~1 page).
+- Le rapport utilise le format [APA](https://www.mendeley.com/guides/apa-citation-guide) pour les citations et la bibliographie.
+- La présentation orale de l'article dure 15 minutes.
+
+### Remise
+
+- Le rapport est à déposer 24h à l'avance dans l'espace de travail.
+- **Semestre 1 : **[Lien vers l'espace de travail](https://classroom.github.com/g/-adrpVep)
+- **Semestre 2 : **[Lien vers l'espace de travail](https://classroom.github.com/g/pqJfnGTz)
+
+## Sync/Async (10%) - Participation
+La présence et l'engagement est attendu des étudiants lors des séances synchrones, qu'elles soient en présentiel ou à distance. De même, il est attendu que les étudiants soient actifs de manière asynchrone en participant et contribuant aux discussions ayant lieu sur la plateforme de communication (voir **[Communication](index.html#Communication)**).
+
+## Commentaire (5%) - Participation
+Lors de chaque séance un étudiant est tiré au hasard pour effectuer un commentaire de 5 minutes sur l'article, le rapport de lecture et la présentation. Dans ce commentaire, l'étudiant apporte sa perspective sur l'article et le sujet présenté. La note pour chaque commentaire individuel est appliquée au groupe de l'étudiant.
+
+
+# Travaux pratiques (30%)
+Différents travaux pratiques travaux pratiques (TP) sont mis en place pour permettre aux étudiants d'apprendre de manière incrémentale et de les amener petit à petit à réaliser un projet de recherche empirique abouti.
+
+## TP1: Le projet de recherche
+
+### Objectifs
+- Conception et planification d'un projet de recherche
+- Formulation d'une questions de recherche en sciences sociales
+- Ancrer un projet dans une littérature scientifique approprié
+
+### Consignes
+- Suivez le lien vers l'espace de travail correspondant à votre semestre dans la section "Remise".
+- Le rapport est à réaliser à partir du fichier `projet_de_recherche_TP1.Rmd`.
+- Le projet de recherche doit faire maximum 1000 mots (~2 pages).
+- Dans celui-ci, vous devez identifier une problématique ou question de recherche en opinion publique et/ou comportement politique.
+    - La problématique peut être étudiée à partir de données de l"American National Election Studies" (ANES) de 2016.
+    - Servez vous du "codebook" de l'[ANES 2016](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Le projet contient **5 références d'articles scientifiques** pertinentes ou plus.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+    - Les références sont citées adéquatement et mises en perspectives dans le projet.
+    - Les références sont répertoriés dans une bibliographie.
+- Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
+- Déposez les deux fichiers  (`.Rmd` et `.pdf`) dans l'espace de travail.
+
+### Remise
+
+- **Avant la séance 3**
+- **Semestre 1 : **[Lien vers l'espace de travail](https://classroom.github.com/g/loguXLuR)
+- **Semestre 2 : **[Lien vers l'espace de travail](https://classroom.github.com/g/d81WBT72)
+
+
+## TP2: Le rapport de données
+
+### Objectifs
+- Se familiariser avec les données
+- Identifier et préparer les données
+- Identifier la pertinence des données
+
+### Consignes
+- Suivez le lien vers l'espace de travail correspondant à votre semestre dans la section "Remise".
+- Le rapport est à réaliser à partir du fichier `rapport_de_donnees_TP2.Rmd`.
+- Le rapport de données doit faire maximum 1000 mots (~2 pages).
+- Dans celui-ci vous devez identifier votre variable dépendante (VD), les variables indépendantes (VI) et les variables contrôles (VC).
+    - Identifiez ces variables en vous basant sur le codebook de l'["American National Election Studies" (ANES) 2016](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+- Vous pouvez vous aider de références scientifiques pour justifier vos choix.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+    - Les références sont citées adéquatement et mises en perspectives dans le projet.
+    - Les références sont répertoriés dans une bibliographie.
+- Vous devez compiler votre fichier `.Rmd` en `.pdf` en utilisant RStudio.
+- Déposez les deux fichiers (`.Rmd` et `.pdf`) dans l'espace de travail.
+
+### Remise
+
+- **Avant la Séance 5**
+- **Semestre 1 : **[Lien vers l'espace de travail](https://classroom.github.com/g/AAzabTq2)
+- **Semestre 2 : **[Lien vers l'espace de travail](https://classroom.github.com/g/WnERz_-V)
+
+
+# Le Rapport de recherche (40%)
+L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestre. Dans celui-ci l'étudiant démontre sa capacité de répondre empiriquement à une question en sciences sociales tout en articulant les méthodes qualitatives et quantitatives.
+
+## Objectifs
+- Analyser et interpréter les données.
+- Répondre empiriquement à une question de recherche.
+- Déterminer les contributions et les limites du rapport.
+
+## Consignes
+- Suivez le lien vers l'espace de travail correspondant à votre semestre dans la section "Remise".
+- Le rapport est à réaliser à partir du fichier `rapport_de_recherche.Rmd`.
+- Le rapport de lecture fait maximum 4000 mots (~8 pages).
+    - Sans compter les annexes et la bibliographie.
+- Dans le rapport vous devez répondre à votre question de départ!
+- Le rapport contient au maximum 2 images.
+    - Les images font au maximum 1/3 de page.
+    - Vous pouvez mettre d'autres images en annexe.
+- Le projet fait s'appuie sur différentes références scientifiques.
+    - Le format [APA](https://www.mendeley.com/guides/apa-citation-guide) est utilisé pour les citations et la bibliographie.
+    - Les références sont citées adéquatement et mises en perspectives dans le projet.
+    - Les références sont répertoriés dans une bibliographie.
+    - Les références et la bibliographie utilisent les clés du fichier BibTex.
+- Vous devez  `.pdf` en utilisant RStudio.
+- Vous devez déposer les différents fichiers dans l'espace de travail :
+    - Un fichier RMarkdown (`rapport_de_recherche.Rmd`) permettant de générer le PDF du rapport.
+    - Un fichier BibTeX (`references.bib`) contenant toutes les références bibliographiques.
+    - Un fichier (`rapport_de_recherche.pdf`) généré en utilisant RStudio, le fichier `rapport_de_recherche.Rmd` et le fichier `.bib`
+    - Les annexes ou autre fichiers pertinents
+
+## Remise
+
+- **Semestre 1 : **[Lien vers l'espace de travail](https://classroom.github.com/g/gBLIj52O)
+    - *Groupe A* : lundi 11 janvier 2021; *Groupe B* : lundi 18 janvier 2021
+- **Semestre 2 : **[Lien vers l'espace de travail](https://classroom.github.com/g/hUyGz2Hu)
+    - *Groupe A* : lundi 9 avril 2021; *Groupe B* : lundi 16 avril 2021
