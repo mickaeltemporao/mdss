@@ -191,8 +191,10 @@ tinytex::install_tinytex()
 ### Technique
 - Installer et utiliser des "packages" sur R.
 ```{r eval=FALSE}
-install.packages("tidyverse")
+install.packages("tidyverse")  # Permet d'installer un package
+library(tidyverse)             # Permet de charger un package installé
 ```
+- Workflow RStudio et GitHub
 
 #### À préparer pour la prochaine séance
 - Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
