@@ -44,10 +44,10 @@ title: "Horaire des séances"
 #### À préparer pour la prochaine séance
 - Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
 - Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
-    - [https://ajps.org/](American Journal of Political Science)
-    - [https://www.cambridge.org/core/journals/american-political-science-review](American Political Science Review)
-    - [https://www.springer.com/journal/11109](Political Behavior)
-    - [https://academic.oup.com/poq](Public Opinion Quarterly)
+    - [American Journal of Political Science](https://ajps.org/)
+    - [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review)
+    - [Political Behavior](https://www.springer.com/journal/11109)
+    - [Public Opinion Quarterly](https://academic.oup.com/poq)
 
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
@@ -182,6 +182,7 @@ tinytex::install_tinytex()
 
 ### Théorie
 - Présentation du second semestre
+    - Exemple d'article : APSR -[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/871DB7A02565D65FB0584FE89D7EF35D/S0003055420001057a.pdf/family-matters-how-immigrant-histories-can-promote-inclusion.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/871DB7A02565D65FB0584FE89D7EF35D/S0003055420001057a.pdf/family-matters-how-immigrant-histories-can-promote-inclusion.pdf)
 - The American National Election Study 2016 (ANES 2016)
 
 ### Application
@@ -196,11 +197,11 @@ install.packages("tidyverse")
 #### À préparer pour la prochaine séance
 - Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
 - Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
-    - [https://ajps.org/](American Journal of Political Science)
-    - [https://www.cambridge.org/core/journals/american-political-science-review](American Political Science Review)
-    - [https://www.springer.com/journal/11109](Political Behavior)
-    - [https://academic.oup.com/poq](Public Opinion Quarterly)
-    - Et aussi [https://electionstudies.org/papers-documents/anes-bibliography/](ANES Bibliography Data Base)
+    - [American Journal of Political Science](https://ajps.org/)
+    - [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review)
+    - [Political Behavior](https://www.springer.com/journal/11109)
+    - [Public Opinion Quarterly](https://academic.oup.com/poq)
+    - Et aussi [ANES Bibliography Data Base](https://electionstudies.org/papers-documents/anes-bibliography/)
 - [Introduction Tidyverse](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)
 - Lecture :
     - [Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 866-887.](https://academic.oup.com/poq/article/82/S1/866/4951269?login=true)

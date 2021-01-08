@@ -36,7 +36,7 @@ Le cours est divisé en 12 sessions synchrones et 12 sessions asynchrones. Chaqu
 
 Chaque séance synchrone est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique aux derniers de outils de recherche.
 
-Dans la partie théorique, un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+Dans la partie théorique, un groupe effectue une présentation de 15 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
 
 Dans la partie application, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
 
