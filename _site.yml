@@ -23,7 +23,7 @@ output_dir: "docs"
 output:
   html_document:
     theme: cosmo
-    highlight: zenburn
+    highlight: default
     include:
       after_body: footer.html
     self_contained: false
