@@ -225,7 +225,7 @@ tinytex::install_tinytex()
 
 ### Technique
 - Introduction à R et Tidyverse
-- Lancez RStudio et ouvrez le fichier suivant --> [unit_02.R](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_02.R) <--
+- Téléchargez le fichier suivant [--> unit_02.R <--](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_02.R) et ouvrez-le dans RStudio.
 
 
 
