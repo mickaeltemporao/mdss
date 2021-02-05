@@ -216,7 +216,7 @@ tinytex::install_tinytex()
 ## S2 Séance 2 - Projet (2/2)
 
 ### Théorie
-- L'inférence descriptive
+- Les statistiques descriptives
 - Lecture :
     - [Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 866-887.](https://academic.oup.com/poq/article/82/S1/866/4951269?login=true)
 
@@ -225,7 +225,7 @@ tinytex::install_tinytex()
 
 ### Technique
 - Introduction à R et Tidyverse
-- Statistiques descriptives
+- Lancez RStudio et ouvrez le fichier suivant --> [unit_02.R](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_02.R) <--
 
 
 
