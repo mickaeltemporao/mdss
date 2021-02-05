@@ -195,7 +195,7 @@ tinytex::install_tinytex()
     library(tidyverse)             # Permet de charger un package installé
     ```
 
-- [Inscription DataCamp](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)
+- [Inscription DataCamp](https://campus.datacamp.com)
 - Workflow RStudio et GitHub
 
 #### À préparer pour la prochaine séance
@@ -216,20 +216,23 @@ tinytex::install_tinytex()
 ## S2 Séance 2 - Projet (2/2)
 
 ### Théorie
-- Échantillonnage
+- L'inférence descriptive
 - Lecture :
     - [Mason, L. (2018). Ideologues without issues: The polarizing consequences of ideological identities. *Public Opinion Quarterly*, 82(S1), 866-887.](https://academic.oup.com/poq/article/82/S1/866/4951269?login=true)
 
 ### Application
-- ...
+- Identification et exploration de variables pour le projet
 
 ### Technique
 - Introduction à R et Tidyverse
 - Statistiques descriptives
 
+
+
 #### À préparer pour la prochaine séance
 - Terminez le TP1
-- Identifiez les variables (VD, VI, VC) pertinentes pour votre projet
+- [Data Visualization](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2)
+- Identifiez les variables (VD, VI, VC) pertinentes pour votre projet.
 - Lecture :
     - [Dassonneville, R., & McAllister, I. (2018). Gender, political knowledge, and descriptive representation: The impact of long‐term socialization. *American Journal of Political Science*, 62(2), 249-265.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12353?casa_token=tlAw257HPaYAAAAA%3AS1xclhUDJ-Fp7qYb9qCVW_WRBb8lMltfTKpC8UTPSosAovXYGDF2HE75gmHNUFjF528w2K-l7pX0WVk)
 
@@ -239,7 +242,7 @@ tinytex::install_tinytex()
 ## S2 Séance 3 - Données (1/2)
 
 ### Théorie
-- Test d'hypothèse
+- Échantillonnage
 - Lecture :
     - [Dassonneville, R., & McAllister, I. (2018). Gender, political knowledge, and descriptive representation: The impact of long‐term socialization. *American Journal of Political Science*, 62(2), 249-265.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12353?casa_token=tlAw257HPaYAAAAA%3AS1xclhUDJ-Fp7qYb9qCVW_WRBb8lMltfTKpC8UTPSosAovXYGDF2HE75gmHNUFjF528w2K-l7pX0WVk)
 
@@ -254,7 +257,8 @@ tinytex::install_tinytex()
 
 #### À préparer pour la prochaine séance
 - Planifiez une rencontre de feedback pour le TP1 avec le professeur.
-- Identifiez des manières potentielles de mesurer les concepts de votre projet
+- [Data Manipulation](https://learn.datacamp.com/courses/data-manipulation-with-dplyr)
+- Identifiez des manières potentielles de mesurer vos concepts.
 - Lecture:
     - [Broockman, D. E., & Butler, D. M. (2017). The Causal Effects of Elite Position‐Taking on Voter Attitudes: Field Experiments with Elite Communication. *American Journal of Political Science*, 61(1), 208-221.](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12243)
 
@@ -264,7 +268,7 @@ tinytex::install_tinytex()
 ## S2 Séance 4 - Données (2/2)
 
 ### Théorie
-- Régression (1/2)
+- Test d'hypothèse
 - Lecture:
     - [Broockman, D. E., & Butler, D. M. (2017). The Causal Effects of Elite Position‐Taking on Voter Attitudes: Field Experiments with Elite Communication. *American Journal of Political Science*, 61(1), 208-221.](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12243)
 
@@ -276,6 +280,7 @@ tinytex::install_tinytex()
 
 #### À préparer pour la prochaine séance
 - Terminez le TP2
+- [Exploratory Data Analysis](https://learn.datacamp.com/courses/case-study-exploratory-data-analysis-in-r)
 - Identifiez des critères potentiels permettant de différencier vos cas/observations.
 - Lecture:
     - [Barber, M., & Pope, J. C. (2019). Does party trump ideology? Disentangling party and ideology in America. American Political Science Review, 113(1), 38-54.](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3)
@@ -286,7 +291,7 @@ tinytex::install_tinytex()
 ## S2 Séance 5 - Analyse (1/2)
 
 ### Théorie
-- Régression (2/2)
+- Régression (1/2)
 - Lecture:
     - [Barber, M., & Pope, J. C. (2019). Does party trump ideology? Disentangling party and ideology in America. American Political Science Review, 113(1), 38-54.](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3)
 
@@ -298,6 +303,7 @@ tinytex::install_tinytex()
 
 #### À préparer pour la prochaine séance
 - Planifiez une rencontre de feedback pour le TP2 avec le professeur.
+- [Correlation & Regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
 - Préparez des questions liées à votre projet de recherche.
 
 ---
@@ -306,7 +312,7 @@ tinytex::install_tinytex()
 ## S2 Séance 6 - Analyse (2/2)
 
 ### Théorie
-- Inférence descriptive, prédictive, causale.
+- Régression (2/2)
 
 ### Application
 - Rétrospective
@@ -315,7 +321,7 @@ tinytex::install_tinytex()
 - Graphiques avancés
 
 #### À préparer pour la prochaine séance
-- Terminez le Rapport 1.
+- Terminez le Rapport 2.
 
 ---
 
