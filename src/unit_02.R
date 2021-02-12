@@ -51,10 +51,10 @@ head(df)
 library(tidyverse)
 
 ## Sélectionner des variables
-select(df, share)  # vote intention
-select(df, party)  # ideology
+select(df, share)
+select(df, party)
 
-clean_data <- select(raw_data, share, party)
+clean_data <- select(df, share, party)
 
 ## Renomer une variable
 rename(df, "pourcentage"  = "share")
