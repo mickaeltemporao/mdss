@@ -1,5 +1,5 @@
 name: "CMT3A-MSS"
-exclude: [ "LICENSE", "README.md", "imgs", "readings", "slides"]
+exclude: [ "LICENSE", "README.md", "imgs", "readings", "slides", "src"]
 navbar:
   title: "Méthodes des sciences sociales"
   type: default
