@@ -273,7 +273,8 @@ tinytex::install_tinytex()
 - Rétrospective
 
 ### Technique
-- ...
+- dplyr
+- R code & Rmd
 
 #### À préparer pour la prochaine séance
 - Terminez le TP2
