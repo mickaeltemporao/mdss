@@ -18,6 +18,7 @@ clean_data <- raw_data %>%
     V161155,   # party identification
     V161126,   # ideology
     V162209,   # tolerance
+    V162113,   # ft black lives matter
   ) %>%
   rename(
     "age"         = "V161267",
@@ -27,6 +28,7 @@ clean_data <- raw_data %>%
     "party_id"    = "V161155",
     "ideology"    = "V161126",
     "tolerance"   = "V162209",
+    "therm_blm"   = "V162113",
   ) %>%
   filter(
     age >= 18,
@@ -35,6 +37,7 @@ clean_data <- raw_data %>%
     between(party_id, 1, 3),
     between(ideology, 1, 7),
     between(tolerance, 1, 5),
+    between(therm_blm, 1, 100),
   ) %>%
   mutate(
     gender     = factor(gender,  labels = c("Male", "Female", "Other")),
@@ -98,9 +101,38 @@ ggplot(clean_data, aes(x=ideology)) +
     limits=c("Extrm. Lib", "", "", "Moderate", "", "", "Extrm. Con.")
   )
 
+ggplot(clean_data, aes(therm_blm)) +
+  geom_histogram()
+
 
 ## Visualiser des relations entre variables
+### x continue, y continue
+ggplot(clean_data, aes(x=age, y=therm_blm)) +
+  geom_point()
+
+ggplot(clean_data, aes(x=age, y=therm_blm)) +
+  geom_smooth()
+
+ggplot(clean_data, aes(x=age, y=therm_blm)) +
+  geom_point() +
+  geom_smooth()
+
+
+### x discrète, y continue
+ggplot(clean_data, aes(x=voting_int, y=age)) +
+  geom_boxplot()
+
+ggplot(clean_data, aes(x=voting_int, y=ideology)) +
+  geom_boxplot()
+
+### x discrète, y discrète
+ggplot(clean_data, aes(x=tolerance)) +
+  geom_bar()
+
 ggplot(clean_data, aes(x=tolerance, fill=party_id)) +
   geom_bar(position="dodge")
 
+ggplot(clean_data, aes(x=tolerance)) +
+  facet_wrap(~party_id) +
+  geom_bar()
 
