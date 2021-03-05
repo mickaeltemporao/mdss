@@ -70,12 +70,12 @@ ggplot(clean_data, aes(x=age)) +
     linetype="dashed"
   )
 
-### Les variables discrès
+### Les variables discrètes
 #### Graphique à barres
 ggplot(clean_data, aes(x=gender)) +
   geom_bar()
 
-#### Essayez de visualiser d'autres variables discretes
+#### Essayez de visualiser d'autres variables discrètes
 "-- créez vos graphique ici! --"
 
 
