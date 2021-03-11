@@ -1,8 +1,8 @@
 # Session 4 - Introduction à la préparation de données
-## dplyr et tidyverse
+
 
 # Chargement des libraries requises
-library(tidyverse)
+library(tidyverse)  # dplyr
 
 # Chargement des données de l'ANES 2016
 data_url <- "https://github.com/mickaeltemporao/CMT4A-CMSS-TEMPLATE/raw/main/data/ts_2016.rds"
