@@ -240,7 +240,7 @@ tinytex::install_tinytex()
 ## S2 Séance 3 - Données (1/2)
 
 ### Théorie
-- L'opérationnalisation
+- L'opérationnalisation et les types de variables
 - Lecture :
     - [Dassonneville, R., & McAllister, I. (2018). Gender, political knowledge, and descriptive representation: The impact of long‐term socialization. *American Journal of Political Science*, 62(2), 249-265.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12353?casa_token=tlAw257HPaYAAAAA%3AS1xclhUDJ-Fp7qYb9qCVW_WRBb8lMltfTKpC8UTPSosAovXYGDF2HE75gmHNUFjF528w2K-l7pX0WVk)
 
@@ -270,11 +270,11 @@ tinytex::install_tinytex()
     - [Broockman, D. E., & Butler, D. M. (2017). The Causal Effects of Elite Position‐Taking on Voter Attitudes: Field Experiments with Elite Communication. *American Journal of Political Science*, 61(1), 208-221.](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12243)
 
 ### Application
-- Rétrospective
+- Transformation de variables
 
 ### Technique
-- dplyr
-- R code & Rmd
+- Préparation des données avec R et Rmd
+- Téléchargez le fichier suivant [--> unit_04.R <--](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_04.R) et ouvrez-le dans RStudio.
 
 #### À préparer pour la prochaine séance
 - Terminez le TP2
