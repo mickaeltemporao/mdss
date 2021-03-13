@@ -17,7 +17,7 @@ title: "Horaire des séances"
 | 2021/02/05     | 2021/02/12     | [S2 Séance 2 - Le projet (2/2)](#s2-séance-2---projet-22)    | Groupe 1     | -                                                          |
 | 2021/02/26     | 2021/03/05     | [S2 Séance 3 - Les données (1/2)](#s2-séance-3---données-12) | Groupe 2     | [TP1](activities.html#TP1:_Le_projet_de_recherche)         |
 | 2021/03/12     | 2021/03/19     | [S2 Séance 4 - Les données (2/2)](#s2-séance-4---données-22) | Groupe 3     | -                                                          |
-| 2021/03/26     | 2021/04/02     | [S2 Séance 5 - L'analyse (1/2)](#s2-séance-5---analyse-12)   | Groupe 4     | [TP2](activities.html#tp2-le-rapport-de-données)           |
+| 2021/03/26     | 2021/04/02     | [S2 Séance 5 - L'analyse)](#s2-séance-5---analyse-12)   | Groupe 4     | [TP2](activities.html#tp2-le-rapport-de-données)           |
 | **2021/04/09** | **2021/04/16** | **Remise de rapport de recherche**                           |              | [Rapport 2](activities.html#Le_Rapport_de_recherche_(40%)) |
 
 ---
