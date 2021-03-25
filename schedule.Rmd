@@ -298,7 +298,6 @@ tinytex::install_tinytex()
 
 ### Technique
 - Communication de résultats
-- Préparation des données avec R et Rmd
 - Téléchargez le fichier suivant **[--> unit_05.Rmd <--](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_05.Rmd)** et ouvrez-le dans RStudio.
 
 #### À préparer pour la prochaine séance
