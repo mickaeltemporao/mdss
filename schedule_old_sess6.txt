@@ -1,0 +1,23 @@
+#### À préparer pour la prochaine séance
+- Planifiez une rencontre de feedback pour le TP2 avec le professeur.
+- [Correlation & Regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
+- Préparez des questions liées à votre projet de recherche.
+
+---
+
+
+## S2 Séance 6 - Analyse (2/2)
+
+### Théorie
+- Régression (2/2)
+
+### Application
+- Rétrospective
+
+### Technique
+- Graphiques avancés
+
+#### À préparer pour la prochaine séance
+- Terminez le Rapport 2.
+
+

@@ -120,5 +120,5 @@ L'étudiant remet un rapport de recherche de huit pages à fin de chaque semestr
     - Les annexes ou autre fichiers pertinents
 
 ## Remise
-    - *Groupe A* : lundi 11 janvier 2021; *Groupe B* : lundi 18 janvier 2021
-    - *Groupe A* : lundi 9 avril 2021; *Groupe B* : lundi 16 avril 2021
+- *Groupe A* : lundi 11 janvier 2021; *Groupe B* : lundi 18 janvier 2021
+- *Groupe A* : lundi 9 avril 2021; *Groupe B* : lundi 16 avril 2021

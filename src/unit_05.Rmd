@@ -1,0 +1,132 @@
+---
+title: "Séance 5 - L’analyse"
+subtitle: "Méthodes des sciences sociales"
+date: "3/26/2021"
+---
+
+# La modélisation
+
+## Qu'est-ce qu'un modèle?
+
+```{r echo=FALSE, message=FALSE}
+my_data <- data.frame(
+  time_to_iep=c(16.93, 19.49, 18.21, 19.09, 17.67, 18.48, 16.37, 17.57, 19.18, 18.74, 17.15, 17.76, 17.2, 19.78, 18.34, 17.93, 18.09, 17.14, 19.41, 17.99, 16.54, 18.42, 16.65, 19.83, 18.32, 18.13, 16.72, 18.05, 18.5, 19.45, 17.22, 17.32, 19.48, 18.93, 18.69, 18.78, 18.58, 18.8, 18.28, 20.06, 18.12, 18.64, 18.16, 17.44, 18.96, 17.55, 19.09, 17.95, 21.01, 18.19)
+)
+
+ggplot(my_data, aes(x=time_to_iep)) +
+  geom_histogram() +
+  geom_vline(aes(xintercept=mean(time_to_iep)), color="red", linetype=2) +
+  geom_text(
+    aes(x=mean(time_to_iep), y=0.15, label=round(mean(time_to_iep), 2)),
+    color="red", hjust=-0.25, size=3.25) +
+  theme_minimal() +
+  labs(
+    title = "Distribution du temps pour se rendre à l'IEP",
+    x = "Temps (minutes)",
+    y = "Fréquence"
+  )
+```
+
+## Préparation et visualisation de données
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+# Chargement de la librairie de traitement de données
+library(tidyverse)
+
+# Chargement des données
+data_url <- "https://github.com/mickaeltemporao/CMT4A-CMSS-TEMPLATE/raw/main/data/ts_2016.rds"
+raw_data <- readRDS(url(data_url,"rb"))
+
+clean_data <- raw_data %>%
+  select(
+    V161086,   # feeling democrat
+    V161267,   # age
+    V161342,   # gender
+    V161155,   # party identification
+    V161241,   # religion importance
+    V162230,   # man works, women home
+  ) %>%
+  rename(
+    "age"         = "V161267",
+    "gender"      = "V161342",
+    "party_id"    = "V161155",
+    "democrat"    = "V161086",
+    "religion"    = "V161241",
+    "sexism"      = "V162230",
+  ) %>%
+  filter(
+    democrat >= 0,
+    age >= 18,
+    between(gender, 1, 3),
+    between(party_id, 1, 3),
+    between(religion, 1, 2),
+    between(sexism, 1, 3),
+  ) %>%
+  mutate(
+    gender     = factor(gender,  labels = c("Male", "Female", "Other")),
+    party_id   = factor(party_id, labels = c("Democrat", "Republican", "Independent")),
+    religion   = factor(religion, labels = c("Important", "Not important")),
+    sexism     = factor(sexism, labels = c("Better", "Worse", "Makes no difference")),
+  )
+
+```
+
+```{r echo=FALSE}
+ggplot(clean_data, aes(x=age, y=democrat)) +
+  geom_point()
+```
+
+Quel est la relation entre ces deux variables?
+
+
+## La régression linéaire avec lm()
+
+- lm = linear model
+
+```{r eval=FALSE}
+lm(formula, data)
+- formula : y ~ x
+- y : variable dépendante, ce que vous voulez expliquer
+- x : variable(s) indépendante(s), ce qui permet d'expliquer y
+- data : vos données sous la forme d'un `data.frame`
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
+
+# Quel est la relation entre le sentiment démocrate et l'age?
+lm(democrat ~ age, data = clean_data)
+
+# Quel est la relation entre le sentiment démocrate et l'age?
+lm(democrat ~ gender, data = clean_data)
+
+# Quel est la relation entre le sentiment démocrate et l'age?
+lm(democrat ~ party_id, data = clean_data)
+
+# Quel est la relation entre le sentiment démocrate et l'age?
+lm(democrat ~ religion, data = clean_data)
+
+# Quel est la relation entre le sentiment démocrate et l'age?
+lm(democrat ~ sexism, data = clean_data)
+
+# Mais tout cela ne ressemble pas à un tableau de régression?
+# Créons un modèle avec plusieurs variables et sauvegardons le!
+
+my_model <- lm(democrat ~ age + gender + party_id + religion + sexism, data = clean_data)
+
+# Utilisons notre modèle avec summary()
+summary(my_model)
+
+
+```
+
+
+```{r, echo=FALSE, eval=TRUE, tidy = TRUE, size="small", results="asis"}
+# install.packages("stargazer")
+stargazer::stargazer(
+  my_model,
+  title="Régression Linéaire", header=FALSE, single.row = TRUE,
+  omit.stat=c("adj.rsq","ser","f"), star.char = c("*"),
+  star.cutoffs = c(0.05), notes.append = FALSE, notes = "*p<0.05"
+)
+
+```

@@ -17,7 +17,7 @@ title: "Horaire des séances"
 | 2021/02/05     | 2021/02/12     | [S2 Séance 2 - Le projet (2/2)](#s2-séance-2---projet-22)    | Groupe 1     | -                                                          |
 | 2021/02/26     | 2021/03/05     | [S2 Séance 3 - Les données (1/2)](#s2-séance-3---données-12) | Groupe 2     | [TP1](activities.html#TP1:_Le_projet_de_recherche)         |
 | 2021/03/12     | 2021/03/19     | [S2 Séance 4 - Les données (2/2)](#s2-séance-4---données-22) | Groupe 3     | -                                                          |
-| 2021/03/26     | 2021/04/02     | [S2 Séance 5 - L'analyse](#s2-séance-5---analyse-12)         | Groupe 4     | [TP2](activities.html#tp2-le-rapport-de-données)           |
+| 2021/03/26     | 2021/04/02     | [S2 Séance 5 - L'analyse](#s2-séance-5---analyse)            | Groupe 4     | [TP2](activities.html#tp2-le-rapport-de-données)           |
 | **2021/04/09** | **2021/04/16** | **Remise de rapport de recherche**                           |              | [Rapport 2](activities.html#Le_Rapport_de_recherche_(40%)) |
 
 ---
@@ -265,7 +265,7 @@ tinytex::install_tinytex()
 ## S2 Séance 4 - Données (2/2)
 
 ### Théorie
-- Test d'hypothèse
+- Test d'hypothèse (1/2)
 - Lecture:
     - [Broockman, D. E., & Butler, D. M. (2017). The Causal Effects of Elite Position‐Taking on Voter Attitudes: Field Experiments with Elite Communication. *American Journal of Political Science*, 61(1), 208-221.](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12243)
 
@@ -286,40 +286,23 @@ tinytex::install_tinytex()
 ---
 
 
-## S2 Séance 5 - Analyse (1/2)
+## S2 Séance 5 - Analyse
 
 ### Théorie
-- Régression (1/2)
+- Test d'hypothèse (2/2)
 - Lecture:
     - [Barber, M., & Pope, J. C. (2019). Does party trump ideology? Disentangling party and ideology in America. American Political Science Review, 113(1), 38-54.](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/does-party-trump-ideology-disentangling-party-and-ideology-in-america/B5BAD0AE947BD3CF18D51D399263C8D3)
 
 ### Application
-- ...
+- Régression Linéaire
 
 ### Technique
-- Créer des tableaux de régression
+- Communication de résultats
+- Préparation des données avec R et Rmd
+- Téléchargez le fichier suivant **[--> unit_05.Rmd <--](https://github.com/mickaeltemporao/CMT3A-MSS/raw/main/src/unit_05.Rmd)** et ouvrez-le dans RStudio.
 
 #### À préparer pour la prochaine séance
 - Planifiez une rencontre de feedback pour le TP2 avec le professeur.
-- [Correlation & Regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
-- Préparez des questions liées à votre projet de recherche.
-
----
-
-
-## S2 Séance 6 - Analyse (2/2)
-
-### Théorie
-- Régression (2/2)
-
-### Application
-- Rétrospective
-
-### Technique
-- Graphiques avancés
-
-#### À préparer pour la prochaine séance
-- Terminez le Rapport 2.
 
 ---
 
