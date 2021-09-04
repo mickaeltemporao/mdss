@@ -1,6 +1,8 @@
 # Méthodes des sciences sociales
-## Sciences Po Bordeaux
-### "Mickael Temporão"
+
+
+
+**Mickael Temporão**, Sciences Po Bordeaux
 
 | Horaire          | Jour          | Heure       | Local      |
 | -------------    | ------------- | -           | -          |

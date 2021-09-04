@@ -1,8 +1,6 @@
----
-title: "Horaire des séances"
----
+# "Horaire des séances"
 
-# **Aperçu**
+## **Aperçu**
 
 | Groupe A       | Groupe B       | Thème                                                        | Présentation | Échéance                                                   |
 | -              | -              | -                                                            | :-:          | :-:                                                        |
@@ -22,25 +20,25 @@ title: "Horaire des séances"
 
 ---
 
-# **S1 Méthodes Qualitatives**
+## **S1 Méthodes Qualitatives**
 
-## S1 Séance 1 - Projet (1/2)
-### Théorie
+### S1 Séance 1 - Projet (1/2)
+#### Théorie
 - Introduction
 -  Présentation du [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
 
-### Application
+#### Application
 -  Définitions des groupes et ordre de passage
 
-### Technique
+#### Technique
 - Déposer ses travaux sur [GitHub](https://github.com/)
 
-#### À préparer avant cette séance
+##### À préparer avant cette séance
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
 - Créer un compte sur [Slack](methodesss.slack.com)
 - Créer un compte sur [GitHub](https://github.com/)
 
-#### À préparer pour la prochaine séance
+##### À préparer pour la prochaine séance
 - Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
 - Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
     - [American Journal of Political Science](https://ajps.org/)

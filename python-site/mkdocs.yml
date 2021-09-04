@@ -1,32 +1,72 @@
 site_name: Méthodes des sciences sociales
 site_url: https://example.com/
-nav:
-    - <i class="fa fa-home fa-lg"></i> About: index.md
-    - <i class="fa fa-home fa-lg"></i> Calendar: index.md
-    - <i class="fa fa-home fa-lg"></i> Resources: index.md
-    - <i class="fa fa-home fa-lg"></i> Activités:
-        - 'Participation': 'writing-your-docs.md'
-        - 'Travaux Pratiques': 'styling-your-docs.md'
-        - 'Rapports de Recherche': 'styling-your-docs.md'
-    - About:
-        - 'License': 'license.md'
-        - 'Release Notes': 'release-notes.md'
+
 theme:
-    name: flatly
-    locale: en
-    highlightjs: true
-    hljs_style: github
-    hljs_languages:
-        - yaml
-        - python
-    shortcuts:
-        next: 78     # n
-        previous: 80 # p
-        search: 191  # /
+  font:
+    text: Input
+    code: Input Mono
+  langage: fr
+  name: material
+  icon:
+    logo: fontawesome/brands/python
+  favicon: images/favicon.ico
+  palette:
+    scheme: slate
+    primary: amber
+    accent: red
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.tabs.sticky
+    - navigation.top
+
 markdown_extensions:
-    - fontawesome_markdown
+  - fontawesome_markdown
+  - toc:
+      permalink: true
 
-copyright: Copyright &copy; 2021 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+copyright: Copyright &copy; 2020 - 2021 Mickael Temporão,  <a href="https://spdx.org/licenses/AGPL-3.0-or-later.html">GNU Affero General Public License v3.0</a>.
 
-repo_url: https://github.com/mkdocs/mkdocs/
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mickaeltemporao
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mickaeltemprao
 
+# repo_url: https://github.com/mkdocs/mkdocs/
+
+# Page tree
+nav:
+  - Calendar:
+    - Schedule: schedule.md
+    - Semestre 1:
+      - Setting up social cards: setup/setting-up-social-cards.md
+      - Setting up tags: setup/setting-up-tags.md
+      - Setting up versioning: setup/setting-up-versioning.md
+    - Semestre 2:
+      - Setting up the header: setup/setting-up-the-header.md
+      - Setting up the footer: setup/setting-up-the-footer.md
+      - Adding a git repository: setup/adding-a-git-repository.md
+  - Misc:
+    - Activités: activities.md
+    - Participation: participation.md
+    - Travaux Pratiques: styling-your-docs.md
+    - Rapports de Recherche: styling-your-docs.md
+  - Resources:
+    - Materials: resources.md
+    - Template: template_research_design.md
+  - Insiders:
+    - Sponsorship: insiders/index.md
+    - Getting started:
+      - Installation: insiders/getting-started.md
+      - Changelog: insiders/changelog.md
+  - Setup:
+    - Changing the colors: setup/changing-the-colors.md
+    - Changing the fonts: setup/changing-the-fonts.md
+    - Changing the language: setup/changing-the-language.md
+    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
+    - Setting up navigation: setup/setting-up-navigation.md
+    - Setting up site search: setup/setting-up-site-search.md
+    - Setting up site analytics: setup/setting-up-site-analytics.md
