@@ -8,7 +8,7 @@ theme:
   langage: fr
   name: material
   icon:
-    logo: fontawesome/brands/python
+    logo: fontawesome/brands/facebook
   favicon: images/favicon.ico
   palette:
     scheme: slate
@@ -22,9 +22,12 @@ theme:
     - navigation.indexes
 
 markdown_extensions:
-  - fontawesome_markdown
   - toc:
       permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 copyright: Copyright &copy; 2020 - 2021 Mickael Temporão,  <a href="https://spdx.org/licenses/AGPL-3.0-or-later.html">GNU Affero General Public License v3.0</a>.
 
@@ -43,7 +46,6 @@ nav:
   - syllabus.md
   - Cours:
     - units/index.md
-
     - Cours 1: units/syllabus.md
     - Cours 2: units/science.md
     - Cours 3: units/science.md
@@ -55,13 +57,19 @@ nav:
     - Cours 9: units/measurement.md
     - Cours 10: units/replication.md
     - Cours 11: units/replication.md
-      Cours 12: units/retrospective.md
-
-    - Cours 7: units/
-    - Cours 8: units/
-    - Cours 9: units/
-    - Cours 10: units/
-    - Cours 12: units/
+    - Cours 12: units/retrospective.md
+    - Cours 1: units/programming.md
+    - Cours 2: units/programming.md
+    - Cours 3: units/statistics.md
+    - Cours 4: units/statistics.md
+    - Cours 5: units/variables.md
+    - Cours 6: units/variables.md
+    - Cours 7: units/hypothesis.md
+    - Cours 8: units/hypothesis.md
+    - Cours 9: units/analysis.md
+    - Cours 10: units/analysis.md
+    - Cours 11: units/communication.md
+    - Cours 12: units/communication.md
   - Misc:
     - Activités: activities.md
     - Participation: participation.md
