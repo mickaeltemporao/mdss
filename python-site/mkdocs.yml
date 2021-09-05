@@ -19,6 +19,7 @@ theme:
     - navigation.expand
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.indexes
 
 markdown_extensions:
   - fontawesome_markdown
@@ -39,16 +40,28 @@ extra:
 
 # Page tree
 nav:
-  - Calendar:
-    - Schedule: schedule.md
-    - Semestre 1:
-      - Setting up social cards: setup/setting-up-social-cards.md
-      - Setting up tags: setup/setting-up-tags.md
-      - Setting up versioning: setup/setting-up-versioning.md
-    - Semestre 2:
-      - Setting up the header: setup/setting-up-the-header.md
-      - Setting up the footer: setup/setting-up-the-footer.md
-      - Adding a git repository: setup/adding-a-git-repository.md
+  - syllabus.md
+  - Cours:
+    - units/index.md
+
+    - Cours 1: units/syllabus.md
+    - Cours 2: units/science.md
+    - Cours 3: units/science.md
+    - Cours 4: units/causality.md
+    - Cours 5: units/causality.md
+    - Cours 6: units/sampling.md
+    - Cours 7: units/sampling.md
+    - Cours 8: units/measurement.md
+    - Cours 9: units/measurement.md
+    - Cours 10: units/replication.md
+    - Cours 11: units/replication.md
+      Cours 12: units/retrospective.md
+
+    - Cours 7: units/
+    - Cours 8: units/
+    - Cours 9: units/
+    - Cours 10: units/
+    - Cours 12: units/
   - Misc:
     - Activités: activities.md
     - Participation: participation.md
