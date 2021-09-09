@@ -1,4 +1,4 @@
-## S2 Séance 5 - Analyse
+# S2 Séance 5 - Analyse
 
 ### Théorie
 - Test d'hypothèse (2/2)

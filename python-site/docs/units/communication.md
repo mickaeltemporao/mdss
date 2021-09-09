@@ -1,4 +1,4 @@
-# Analyse / Communication (2/2)
+## S2 Séance 6 - Analyse / Communication
 
 ## Théorie
 - ...

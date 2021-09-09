@@ -1,12 +1,12 @@
 # S1 Séance 2 - Projet (2/2)
 
 # Théorie
-- Le projet de recherche
 - La méthode scientifique
 - Lecture :
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://books.google.fr/books?id=A7VFF-JR3b8C&lpg=PP1&pg=PA3#v=onepage&q&f=false)
 
 # Application
+- Le projet de recherche
 - Ancrage théorique, problématique et bibliographie.
 
 ### Technique

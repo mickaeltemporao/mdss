@@ -1,9 +1,16 @@
 # Syllabus
 
-| Horaire          | Jour          | Heure       | Local      |
-| -------------    | ------------- | -           | -          |
-| Conférence       | Vendredi      | 09h45-11h15 | A.138/Zoom |
-| Heures de bureau | Vendredi      | 11h30-12h30 | B.140/Zoom |
+## Structure
+Le cours est divisé en XXXX . Chaque session synchrone introduit des activités pour la session asynchrone. Ses activités mettent en application la matière et permettent de l'assimiler petit à petit pour, au final, mener à la réalisation de rapports de recherche scientifiques. Les échéances des différentes activités sont toujours liées aux sessions respectives de chacun des groupe. Les 6 premières sessions synchrones portent davantage les méthodes qualitatives et les 6 dernières sessions synchrones portent davantage sur les méthodes quantitatives.
+
+Chaque séance synchrone est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique à de nouveaux outils recherche.
+
+Dans la partie théorique, un groupe effectue une présentation de 15 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+
+Dans la partie application, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
+
+Dans la partie technique, les étudiants ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
+
 
 
 ## Objectifs
@@ -19,19 +26,6 @@ Un ordinateur est nécessaire lors de chaque séance afin de pouvoir effectuer l
 Afin de lutter contre la précarité numérique parmi les étudiants, Sciences Po Bordeaux met en place un dispositif d'aide sous certaines conditions (présentation d'une facture d'achat; avis d'imposition N-1 de votre foyer fiscal de référence; notification de bourse CROUS; certificat de scolarité de l'année en cours ).
 
 Pour toutes questions relatives à ce dispositif et afin de soumettre votre demande, merci de bien vouloir écrire uniquement à l'adresse suivante en précisant votre besoin et en fournissant les justificatifs nécessaires : aidesnumeriques@sciencespobordeaux.fr.
-
-
-## Structure
-
-Le cours est divisé en 12 sessions synchrones et 12 sessions asynchrones. Chaque session synchrone introduit des activités pour la session asynchrone. Ses activités mettent en application la matière et permettent de l'assimiler petit à petit pour, au final, mener à la réalisation de rapports de recherche scientifiques. Les échéances des différentes activités sont toujours liées aux sessions respectives de chacun des groupe. Les 6 premières sessions synchrones portent davantage les méthodes qualitatives et les 6 dernières sessions synchrones portent davantage sur les méthodes quantitatives.
-
-Chaque séance synchrone est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique à de nouveaux outils recherche.
-
-Dans la partie théorique, un groupe effectue une présentation de 15 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
-
-Dans la partie application, les étudiants on l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
-
-Dans la partie technique, les étudiants ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
 
 
 ## Évaluation
