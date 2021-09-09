@@ -8,10 +8,10 @@ theme:
   langage: fr
   name: material
   icon:
-    logo: fontawesome/brands/facebook
+    logo: fontawesome/solid/book
   favicon: images/favicon.ico
   palette:
-    scheme: slate
+    scheme: default
     primary: amber
     accent: red
   features:
@@ -37,57 +37,45 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/mickaeltemporao
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/mickaeltemprao
-
+      link: https://twitter.com/mickaeltemporao
+extra_css:
+  - stylesheets/extra.css
 # repo_url: https://github.com/mkdocs/mkdocs/
 
 # Page tree
 nav:
   - syllabus.md
-  - Cours:
-    - units/index.md
-    - Cours 1: units/syllabus.md
-    - Cours 2: units/science.md
-    - Cours 3: units/science.md
-    - Cours 4: units/causality.md
-    - Cours 5: units/causality.md
-    - Cours 6: units/sampling.md
-    - Cours 7: units/sampling.md
-    - Cours 8: units/measurement.md
-    - Cours 9: units/measurement.md
-    - Cours 10: units/replication.md
-    - Cours 11: units/replication.md
-    - Cours 12: units/retrospective.md
-    - Cours 1: units/programming.md
-    - Cours 2: units/programming.md
-    - Cours 3: units/statistics.md
-    - Cours 4: units/statistics.md
-    - Cours 5: units/variables.md
-    - Cours 6: units/variables.md
-    - Cours 7: units/hypothesis.md
-    - Cours 8: units/hypothesis.md
-    - Cours 9: units/analysis.md
-    - Cours 10: units/analysis.md
-    - Cours 11: units/communication.md
-    - Cours 12: units/communication.md
-  - Misc:
-    - Activités: activities.md
-    - Participation: participation.md
-    - Travaux Pratiques: styling-your-docs.md
-    - Rapports de Recherche: styling-your-docs.md
+  - Horaires: units/index.md
+  - Modules:
+    - Module 1: units/syllabus.md
+    - Module 2: units/science.md
+    - Module 3: units/science.md
+    - Module 4: units/causality.md
+    - Module 5: units/causality.md
+    - Module 6: units/sampling.md
+    - Module 7: units/sampling.md
+    - Module 8: units/measurement.md
+    - Module 9: units/measurement.md
+    - Module 10: units/replication.md
+    - Module 11: units/replication.md
+    - Module 12: units/retrospective.md
+    - Module 1: units/programming.md
+    - Module 2: units/programming.md
+    - Module 3: units/statistics.md
+    - Module 4: units/statistics.md
+    - Module 5: units/variables.md
+    - Module 6: units/variables.md
+    - Module 7: units/hypothesis.md
+    - Module 8: units/hypothesis.md
+    - Module 9: units/analysis.md
+    - Module 10: units/analysis.md
+    - Module 11: units/communication.md
+    - Module 12: units/communication.md
   - Resources:
     - Materials: resources.md
     - Template: template_research_design.md
-  - Insiders:
-    - Sponsorship: insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
+    - Activités: activities.md
+    - Participation: participation.md
+    - Travaux Pratiques: participation.md
+    - Rapports de Recherche: participation.md
+  - Chat: "https://sciencespobordeaux.slack.com/messages/méthodes-des-sciences-sociales/"
