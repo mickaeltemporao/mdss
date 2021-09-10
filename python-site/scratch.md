@@ -1,4 +1,3 @@
-
 index.md
 
 syllabus.md

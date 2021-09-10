@@ -45,36 +45,31 @@ extra_css:
 # Page tree
 nav:
   - syllabus.md
-  - Horaires: units/index.md
+  - Horaires: schedule.md
   - Modules:
-    - Module 1: units/syllabus.md
-    - Module 2: units/science.md
-    - Module 3: units/science.md
-    - Module 4: units/causality.md
-    - Module 5: units/causality.md
-    - Module 6: units/sampling.md
-    - Module 7: units/sampling.md
-    - Module 8: units/measurement.md
-    - Module 9: units/measurement.md
-    - Module 10: units/replication.md
-    - Module 11: units/replication.md
-    - Module 12: units/retrospective.md
-    - Module 1: units/programming.md
-    - Module 2: units/programming.md
-    - Module 3: units/statistics.md
-    - Module 4: units/statistics.md
-    - Module 5: units/variables.md
-    - Module 6: units/variables.md
-    - Module 7: units/hypothesis.md
-    - Module 8: units/hypothesis.md
-    - Module 9: units/analysis.md
-    - Module 10: units/analysis.md
-    - Module 11: units/communication.md
-    - Module 12: units/communication.md
+    - Semestre 1:
+      - modules/syllabus.md
+      - modules/science.md
+      - modules/causality.md
+      - modules/sampling.md
+      - modules/measurement.md
+      - modules/replication.md
+    - Semestre 2:
+      - modules/programming.md
+      - modules/statistics.md
+      - modules/variables.md
+      - modules/hypothesis.md
+      - modules/analysis.md
+      - modules/communication.md
+  - Activités:
+    - activities/participation.md
+    - activities/assignments-winter.md
+    - activities/report-winter.md
+    # - Semestre 2:
+    #   - activities/assignments-summer.md
   - Resources:
     - Materials: resources.md
     - Template: template_research_design.md
-    - Activités: activities.md
     - Participation: participation.md
     - Travaux Pratiques: participation.md
     - Rapports de Recherche: participation.md

@@ -1,4 +1,5 @@
-# S1 Séance 1 - Projet (1/2)
+# Module 1 -
+Projet (1/2)
 
 ## Théorie
 

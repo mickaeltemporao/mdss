@@ -9,3 +9,12 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+.md-typeset__table {
+   min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}
+
