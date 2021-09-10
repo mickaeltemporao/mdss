@@ -7,8 +7,7 @@ theme:
     code: Input Mono
   langage: fr
   name: material
-  icon:
-    logo: fontawesome/solid/book
+  logo: "https://upload.wikimedia.org/wikipedia/commons/4/45/Glider.svg"
   favicon: images/favicon.ico
   palette:
     scheme: default
@@ -67,14 +66,13 @@ nav:
       - modules/hypothesis.md
       - modules/analysis.md
       - modules/communication.md
-    # - Semestre 2:
-    #   - activities/assignments-summer.md
+  - Activités:
+    - activities/participation.md
+    - activities/assignments-winter.md
+    - activities/report-winter.md
   - Resources:
-    - Activités:
-      - activities/participation.md
-      - activities/assignments-winter.md
-      - activities/report-winter.md
     - resources/book.md
     - resources/writing.md
     - resources/coding.md
   - Chat: "https://sciencespobordeaux.slack.com/messages/méthodes-des-sciences-sociales/"
+
