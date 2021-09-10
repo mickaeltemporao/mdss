@@ -11,10 +11,10 @@
 ### Technique
 - Installer et utiliser des "packages" sur R.
 
-    ``` r
-    install.packages("tidyverse")  # Permet d'installer un package
-    library(tidyverse)             # Permet de charger un package installé
-    ```
+``` r
+install.packages("tidyverse")  # Permet d'installer un package
+library(tidyverse)             # Permet de charger un package installé
+```
 
 - [Inscription DataCamp](https://campus.datacamp.com)
 - Workflow RStudio et GitHub

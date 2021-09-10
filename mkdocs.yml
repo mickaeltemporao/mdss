@@ -27,10 +27,16 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
-
-copyright: Copyright &copy; 2020 - 2021 Mickael Temporão,  <a href="https://spdx.org/licenses/AGPL-3.0-or-later.html">GNU Affero General Public License v3.0</a>.
-
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 extra:
   generator: false
   social:
@@ -61,13 +67,13 @@ nav:
       - modules/hypothesis.md
       - modules/analysis.md
       - modules/communication.md
-  - Activités:
-    - activities/participation.md
-    - activities/assignments-winter.md
-    - activities/report-winter.md
     # - Semestre 2:
     #   - activities/assignments-summer.md
   - Resources:
+    - Activités:
+      - activities/participation.md
+      - activities/assignments-winter.md
+      - activities/report-winter.md
     - resources/book.md
     - resources/writing.md
     - resources/coding.md
