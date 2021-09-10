@@ -1,4 +1,4 @@
-## S2 Séance 1 - Projet (1/2)
+# Programmation
 
 ### Théorie
 - Présentation du second semestre
@@ -11,7 +11,7 @@
 ### Technique
 - Installer et utiliser des "packages" sur R.
 
-    ```{r eval=FALSE}
+    ``` r
     install.packages("tidyverse")  # Permet d'installer un package
     library(tidyverse)             # Permet de charger un package installé
     ```

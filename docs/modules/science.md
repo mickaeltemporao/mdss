@@ -1,4 +1,4 @@
-# S1 Séance 2 - Projet (2/2)
+# Science
 
 # Théorie
 - La méthode scientifique
@@ -10,20 +10,11 @@
 - Ancrage théorique, problématique et bibliographie.
 
 ### Technique
-- [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-- [RMarkdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- Colaboratory
 
 ## À préparer pour la prochaine séance
 - Terminez le TP1
 - Identifiez les concepts principaux de votre projet de recherche
 - Lecture :
     - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
-- Exécutez les deux lignes de code suivant dans la console de RStudio:
-
-```{r eval=FALSE}
-install.packages('tinytex')
-tinytex::install_tinytex()
-```
-
----
 

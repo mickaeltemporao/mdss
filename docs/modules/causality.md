@@ -1,4 +1,4 @@
-# S1 Séance 3 - Données (1/2)
+# Causalité
 
 ## Théorie
 - Les types de données

@@ -1,4 +1,4 @@
-# S1 Séance 5 - Analyse (1/2)
+# Mesure
 
 ## Théorie
 - L'analyse de contenu

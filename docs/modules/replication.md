@@ -1,4 +1,4 @@
-# S1 Séance 6 - Analyse (2/2)
+# Reproductibilité
 
 ## Théorie
 - Le rapport de recherche
@@ -7,7 +7,7 @@
 - Rétrospective
 
 ## Technique
-- DataCamp
+- ...
 
 ### À préparer pour la prochaine séance
 - Terminez le Rapport 1.

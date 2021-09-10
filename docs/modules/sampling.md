@@ -1,4 +1,4 @@
-# S1 Séance 4 - Données (2/2)
+# Échantillons
 
 ## Théorie
 - La collecte de données ou processus de génération de données

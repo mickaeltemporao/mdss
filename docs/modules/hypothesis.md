@@ -1,4 +1,4 @@
-# S2E04 - Données (2/2)
+# Hypothèses
 
 ## Théorie
 - Test d'hypothèse (1/2)

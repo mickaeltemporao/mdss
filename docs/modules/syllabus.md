@@ -1,5 +1,4 @@
-# Module 1 -
-Projet (1/2)
+# Syllabus
 
 ## Théorie
 
@@ -9,8 +8,8 @@ Projet (1/2)
 -  Définitions des groupes et ordre de passage
 
 ## Technique
-- Déposer ses travaux
-- Tutoriel [Markdown](https://commonmark.org/help/tutorial/)
+- Slack
+- Markdown
 
 ### À préparer avant cette séance
 - Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
