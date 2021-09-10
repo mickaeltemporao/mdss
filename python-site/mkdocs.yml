@@ -68,9 +68,7 @@ nav:
     # - Semestre 2:
     #   - activities/assignments-summer.md
   - Resources:
-    - Materials: resources.md
-    - Template: template_research_design.md
-    - Participation: participation.md
-    - Travaux Pratiques: participation.md
-    - Rapports de Recherche: participation.md
+    - resources/book.md
+    - resources/writing.md
+    - resources/coding.md
   - Chat: "https://sciencespobordeaux.slack.com/messages/méthodes-des-sciences-sociales/"
