@@ -3,8 +3,8 @@ site_url: https://example.com/
 
 theme:
   font:
-    text: Input
-    code: Input Mono
+    text: Glory
+    code: Source Code Pro
   langage: fr
   name: material
   logo: "https://upload.wikimedia.org/wikipedia/commons/4/45/Glider.svg"
@@ -34,8 +34,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.tasklist:
       custom_checkbox: true
-
-copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 extra:
   generator: false
   social:
@@ -49,7 +47,7 @@ extra_css:
 
 # Page tree
 nav:
-  - syllabus.md
+  - index.md
   - Horaires: schedule.md
   - Modules:
     - Semestre 1:
@@ -76,3 +74,4 @@ nav:
     - resources/coding.md
   - Chat: "https://sciencespobordeaux.slack.com/messages/méthodes-des-sciences-sociales/"
 
+copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Méthodes des sciences sociales</span> by <span property="cc:attributionName">Mickael Temporão</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
