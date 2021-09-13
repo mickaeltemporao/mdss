@@ -48,7 +48,7 @@ extra_css:
 # Page tree
 nav:
   - index.md
-  - Horaires: schedule.md
+  - Horaire: schedule.md
   - Modules:
     - Semestre 1:
       - modules/introduction.md
