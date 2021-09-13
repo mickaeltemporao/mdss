@@ -20,7 +20,7 @@ Ce cours est composé de 24 séances, réparties sur deux semestre de 12 séance
 ### Structure d'une séance
 Chaque module est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique à de nouveaux outils recherche.
 
-Dans la partie théorique, un groupe effectue une présentation de 15 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+Dans la partie théorique, un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
 
 Dans la partie application, les étudiant.e.s ont l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
 
