@@ -1,6 +1,6 @@
 # Syllabus
 
-| Séances de cours                                               | Enseignat                                                  |
+| Séances de cours                                               | Enseignant                                                 |
 | -                                                              | -                                                          |
 | :fontawesome-solid-calendar: Du 17 sep. 2021 au 1 avr. 2022    | :material-account-circle: Mickael Temporão                 |
 | :fontawesome-solid-clock: Vendredi, **9:45am-11:15pm**         | :fontawesome-regular-comments: Vendredi, 11:30am-12:30pm   |
@@ -49,9 +49,12 @@ Ce cours est évalué sur deux semestres à travers différentes activités perm
 
 ## Communication
 
-Le moyen de communication privilégié pour le cours est **[Slack](https://spb-methods.slack.com)**.
-Si vous avez des questions en dehors des séances, posez-les directement sur [Slack](https://spb-methods.slack.com) dans le *channel* approprié.
-Publier publiquement ses questions/réponses nous permet à tous d'apprendre de manière dynamique.
+Ce cours utilise une plateforme de discussion instantanée :fontawesome-brands-slack: Slack.
+Lorsque vous avez des questions en dehors des séances de cours, cliquez sur l'onglet communication et posez votre question dans un *channel* public.
+
+Les questions et réponses publiques nous permettent à tous d'apprendre de manière dynamique. De même, si vous avez une question sur un sujet, il est probable que quelqu'un d'autre ait la même question. Finalement, être actif sur la plateforme, que ce soit en répondant aux questions de vos pairs ou en posant des questions, est fortement encouragée et aura une incidence positive sur votre note de participation!
+
+Réservez les messages privés à l'enseignant pour des questions d'ordre personnel.
 
 
 ## License
