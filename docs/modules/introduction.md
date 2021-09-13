@@ -1,7 +1,6 @@
-# Syllabus
+# Introduction
 
-## Théorie
-
+## Ordre du jour
 - Présentation du [syllabus](https://mickaeltemporao.github.io/CMT3A-MSS/)
 
 ## Application
@@ -12,7 +11,7 @@
 - Markdown
 
 ### À préparer avant cette séance
-- Se familiariser avec le syllabus (si vous lisez ceci, c'est bien parti!)
+- Se familiariser avec le syllabus
 - Créer un compte sur [Slack](methodesss.slack.com)
 
 ### À préparer pour la prochaine séance
