@@ -61,8 +61,8 @@ Réservez les messages privés à l'enseignant pour des questions d'ordre person
 
 La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Le code source de cette page se trouve à l'adresse: [https://github.com/mickaeltemporao/CMT3A-MSS](https://github.com/mickaeltemporao/CMT3A-MSS)
+Le code source pour créer ce site se trouve sur [:fontawesome-brands-github: GitHub](https://github.com/mickaeltemporao/mss).
 
 
 ## Feedback
-Si vous avez des suggestions ou repérez une erreur merci de me l'indiquer [ICI](https://github.com/mickaeltemporao/CMT3A-MSS/issues) ensuite cliquer sur "New Issue" et décrivez le problème. Merci pour votre aide!
+Si vous avez des suggestions ou repérez une erreur merci de me l'indiquer ici: [:octicons-bug-16: Bug!](https://github.com/mickaeltemporao/mss/issues) ensuite cliquez sur "New Issue" et décrivez le problème. Merci pour votre aide!
