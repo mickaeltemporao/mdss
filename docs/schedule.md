@@ -1,5 +1,6 @@
 # Horaire
 
+Cet horaire est approximatif, sujet à des changements en fonction des besoins des étudiants du cours. Les étudiants seront informés des changements d'horaire.
 
 ### Description des icônes
 - **:fontawesome-solid-book-reader: Séance:** Indique qu'il y a une séance de cours à cette date. Contient un le lien vers le module de la séance.
