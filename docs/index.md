@@ -18,9 +18,11 @@ Un support d'apprentissage sera fourni pour au moins un langage de programmation
 
 
 ### Objectifs
-1. Développer les compétences nécessaires pour permettre aux étudiant.e.s de mener une recherche empirique et d'évaluer des recherches existantes.
-2. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
-3. Introduire les étudiant.e.s à une boîte d'outils de recherche moderne et en *open source*.
+1. Visualiser, résumer et analyser des données du monde réel à l'aide de codes reproductible.
+2. Se familiarise avec une boîte d'outils d'analyse de données à la pointe de la technologie et *open source*.
+3. Comprendre la méthode scientifique, savoir évaluer des recherches existantes et savoir appliquer une démarche scientifique à un projet de recherche.
+4. Tester empiriquement des théories, en passant par la génération d'hypothèses, la conceptualisation, la mesure et l'inférence.
+5. Fournir une compréhension conceptuelle des différentes approches dans les sciences sociales.
 
 
 ### Pré-requis
