@@ -1,5 +1,18 @@
 # Horaire
 
+## Structure du cours
+Ce cours est composé de 24 séances, réparties sur deux semestre de 12 séances. Les 12 séances du premier semestre portent davantage les méthodes qualitatives et les 12 dernières portent davantage sur les méthodes quantitatives. Chaque semestre est subdivisé en modules: Projet, Collecte et Analyse. Chaque module est composé de 4 séances de cours lors desquelles les étudiant.e.s réalisent différentes activités. Les activités permettent aux étudiant.e.s de mettre en application la matière et de l'assimiler petit à petit pour, au final, mener à la réalisation d'un rapport de recherche empirique.
+
+## Structure d'une séance
+Chaque module est divisée en trois parties : une partie théorique basé sur des lectures d'articles scientifiques, une partie application qui permettra d'appliquer les concepts théoriques et une partie technique qui introduit de manière pratique à de nouveaux outils recherche.
+
+Dans la partie théorique, un groupe effectue une présentation de 20 minutes. La présentation est suivi d'un commentaire et d'une période de questions. L'enseignant termine cette partie en approfondissant certains thèmes liés à la lecture et la présentation.
+
+Dans la partie application, les étudiant.e.s ont l'opportunité d'articuler la théorie à travers des exercices pratiques pour les aider dans l'acquisition de la matière et les préparer à la recherche empirique.
+
+Dans la partie technique, les étudiant.e.s ont l'opportunité de se familiariser avec de nouveaux outils de recherche en libre accès qui leur seront utiles tout au long de leur carrière.
+
+
 ### Description des icônes
 - **:fontawesome-solid-book-reader: Séance:** Indique qu'il y a une séance de cours à cette date. Contient un le lien vers le module de la séance.
 - **:fontawesome-solid-chalkboard-teacher: Présentation:** Indique qu'il y a une présentation des étudiants à la date indiqué. Contient un le lien vers les consignes.
