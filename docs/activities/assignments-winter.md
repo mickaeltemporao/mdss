@@ -7,7 +7,7 @@ Différents travaux pratiques (TP) sont mis en place pour permettre aux étudian
 
 Pour votre projet de recherche vous devez identifier une problématique et formuler une question de recherche en **comportement politique et/ou opinion publique**.
 
-- [:fontawesome-solid-file-code: Projet de recherche](https://colab.research.google.com/github/mickaeltemporao/methodes-sciences-sociales-materials/blob/main/projet-de-recherche.ipynb)
+- [:fontawesome-solid-file-code: Projet de recherche](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/projet-de-recherche.ipynb)
 - **:fontawesome-solid-exclamation-triangle: Attention** le lien vers le rapport doit être partagé avec à l'enseignant sur :fontawesome-brands-slack: Slack à la date de remise.
 
 ### Objectifs
@@ -21,7 +21,7 @@ Pour votre projet de recherche vous devez identifier une problématique et formu
 Pour votre projet de recherche vous devez avoir **terminé de collecter vos données** en utilisant une méthode systématique de collecte mise en place selon différents critères.
 
 
-- [:fontawesome-solid-file-code: Rapport de collecte](https://colab.research.google.com/github/mickaeltemporao/methodes-sciences-sociales-materials/blob/main/rapport-de-collecte.ipynb)
+- [:fontawesome-solid-file-code: Rapport de collecte](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/rapport-de-collecte.ipynb)
 - **:fontawesome-solid-exclamation-triangle: Attention** le lien vers le rapport doit être partagé avec à l'enseignant sur :fontawesome-brands-slack: Slack à la date de remise.
 
 ### Objectifs
