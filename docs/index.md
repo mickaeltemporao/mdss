@@ -8,7 +8,7 @@
          - :fontawesome-brands-twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
          - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
      - :fontawesome-solid-university: ScPoBx, B.140
-     - :fontawesome-regular-comments: [**Prendre RDV**](https://calendly.com/mickaeltemporao/rencontre-methodes)
+     - :fontawesome-regular-calendar-check: [**Prendre RDV**](https://calendly.com/mickaeltemporao/rencontre-methodes)
 
 
 ## Description
