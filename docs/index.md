@@ -1,20 +1,14 @@
 # Méthodes des scineces sociales
 
-
-<figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Peter_Schlumbohm._Coffee_Maker%2C_Designed_1941.jpg" width=300 style="float:left" />
-  <figcaption>Chemex 1941 - Peter Schlumbohm</figcaption>
-</figure>
-
 !!! note inline end
 
      **Enseignant**
 
      - :material-account-circle: [Mickael Temporão](https://durkheim.u-bordeaux.fr/Notre-equipe/Chercheur-e-s-et-enseignant-e-s-chercheur-e-s/CV/Mickael-Temporao)
+         - :fontawesome-brands-twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
+         - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
      - :fontawesome-solid-university: ScPoBx, B.140
-     - :fontawesome-regular-comments: [Heures de bureau](https://calendly.com/mickaeltemporao/rencontre-methodes)
-     - :fontawesome-brands-twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
-     - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
+     - :fontawesome-regular-comments: [**Prendre RDV**](https://calendly.com/mickaeltemporao/rencontre-methodes)
 
 
 ## Description
