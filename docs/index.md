@@ -1,4 +1,4 @@
-# Méthodes des scineces sociales
+# Méthodes des sciences sociales
 
 !!! note inline end
 
