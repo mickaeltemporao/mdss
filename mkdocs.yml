@@ -34,6 +34,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.tasklist:
       custom_checkbox: true
+      clickable_checkbox: true
+  - admonition
 extra:
   generator: false
   social:
@@ -47,32 +49,34 @@ extra_css:
 
 # Page tree
 nav:
-  - index.md
-  - Horaire: schedule.md
-  - Modules:
-    - Semestre 1:
-      - modules/introduction.md
-      - modules/tools.md
-      - modules/science.md
-      - modules/causality.md
-      - modules/sampling.md
-      - modules/measurement.md
-      - modules/replication.md
-    - Semestre 2:
-      - modules/programming.md
-      - modules/statistics.md
-      - modules/variables.md
-      - modules/hypothesis.md
-      - modules/analysis.md
-      - modules/communication.md
+  - Home: index.md
+  - syllabus.md
   - Activités:
     - activities/participation.md
     - activities/assignments-winter.md
     - activities/report-winter.md
-  - Resources:
+  - Horaire:
+    - schedule.md
+    - Semestre 1:
+      - modules/introduction.md
+      # - modules/tools.md
+      # - modules/science.md
+      # - modules/causality.md
+      # - modules/sampling.md
+      # - modules/measurement.md
+      # - modules/replication.md
+    # - Semestre 2:
+      # - modules/programming.md
+      # - modules/statistics.md
+      # - modules/variables.md
+      # - modules/hypothesis.md
+      # - modules/analysis.md
+      # - modules/communication.md
+  - Ressources:
+    - resources/onboarding.md
     - resources/book.md
     - resources/writing.md
     - resources/coding.md
-  - Communication: "https://sciencespobordeaux.slack.com/messages/méthodes-des-sciences-sociales/"
+  - Chat: "https://gitter.im/ScPoBx/methodes-des-sciences-sociales"
 
 copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Méthodes des sciences sociales</span> by <span property="cc:attributionName">Mickael Temporão</span> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
