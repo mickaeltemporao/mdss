@@ -2,7 +2,7 @@
 
 ## Ordre du jour
 - Présentation des outils
-    - :fontawesome-brands-slack: Slack
+    - :fontawesome-brands-gitter: Gitter
     - :fontawesome-brands-markdown: Markdown
     - :fontawesome-brands-google: Colaboratory
 - Dépôt de documents
