@@ -1,6 +1,8 @@
 # Méthodes des Sciences Sociales
 Repository containing the source code for *Méthodes des sciences sociales*.
 
+[![Join the chat at https://gitter.im/ScPoBx/methodes-des-sciences-sociales](https://badges.gitter.im/ScPoBx/methodes-des-sciences-sociales.svg)](https://gitter.im/ScPoBx/methodes-des-sciences-sociales?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The website can be found at: https://mickaeltemporao.github.io/methodes/
 
 # License and credit
