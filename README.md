@@ -1,4 +1,7 @@
 # CMT3A-MSS 2020
+
+[![Join the chat at https://gitter.im/ScPoBx/methodes-des-sciences-sociales](https://badges.gitter.im/ScPoBx/methodes-des-sciences-sociales.svg)](https://gitter.im/ScPoBx/methodes-des-sciences-sociales?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repository containing the source code for *CMT3A-MSS: Méthodes des sciences sociales*.
 
 The website can be found at: https://mickaeltemporao.github.io/CMT3A-MSS/
