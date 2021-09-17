@@ -72,14 +72,3 @@ Les questions et réponses publiques nous permettent à tous d'apprendre de mani
 Réservez les messages privés à l'enseignant pour des questions d'ordre personnel.
 
 
-## License
-
-La science se doit d'être ouverte et ce cours est construit à partir d'autres matériels en licence ouverte. À cet effet, et sauf indication contraire, tous les contenus et supports de ce cours sont sous licence [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-Le code source pour créer ce site se trouve sur [:fontawesome-brands-github: GitHub](https://github.com/mickaeltemporao/mdss).
-
-
-## Feedback
-Si vous avez des suggestions ou repérez une erreur vous pouvez me le signaler ici:
-
-- [**:octicons-bug-16: Bug**](https://github.com/mickaeltemporao/methodes/issues): cliquez ensuite sur "New Issue" et décrivez le problème. **Merci pour votre aide!**
