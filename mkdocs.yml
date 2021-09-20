@@ -36,6 +36,7 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true
   - admonition
+  - pymdownx.details
 extra:
   generator: false
   social:
