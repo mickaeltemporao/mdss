@@ -2,9 +2,7 @@
 
 ## Description
 
-!!! note inline end
-
-     **Cours**
+!!! note inline end "Cours"
 
     - :fontawesome-solid-calendar: 17 sep. 2021 au 1 avr. 2022
     - :fontawesome-solid-clock: V 9:45am-11:15am
