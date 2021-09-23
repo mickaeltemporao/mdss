@@ -11,7 +11,7 @@ theme:
   favicon: images/favicon.ico
   palette:
     scheme: default
-    primary: amber
+    primary: teal
     accent: red
   features:
     - navigation.tabs
