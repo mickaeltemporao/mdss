@@ -13,3 +13,7 @@
 - Identifiez les concepts principaux de votre projet de recherche
 - Lecture :
     - [Gerring, J. (2017). Qualitative methods. *Annual Review of Political Science*, 20, 15-36](https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-092415-024158).
+
+
+- Formulez une question de recherche et une hypothèse.
+- Présenter revue systématique avec article à l'appui!

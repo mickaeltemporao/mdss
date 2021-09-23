@@ -3,9 +3,9 @@ La note de participation est divisée en trois parties: présentations, commenta
 
 ## **:fontawesome-solid-chalkboard-teacher: Présentations - 15%**
 
-Lors des séances, un groupe d'étudiants effectue une présentation d'un article scientifique pendant une durée de 20 minutes. Un rapport de lecture d'une page est réalisé par le groupe effectuant la présentation et partagé avec le reste de la classe au minimum 24h à l'avance.
+Lors des séances, un groupe d'étudiants effectue une présentation d'un article scientifique pendant une durée de 15 minutes. Un rapport de lecture d'une page est réalisé par le groupe effectuant la présentation et partagé avec le reste de la classe au minimum 24h à l'avance.
 
-- [:fontawesome-solid-file-code: Rapport de lecture ](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/rapport-de-lecture.ipynb)
+- [:fontawesome-solid-file-code: **Rapport de lecture**](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/rapport-de-lecture.ipynb)
 - **:fontawesome-solid-exclamation-triangle: Attention** le rapport de lecture doit être partagé 24h à l'avance sur :fontawesome-brands-gitter: Gitter (le Chat du cours).
 
 ## **:fontawesome-regular-comment-dots: Commentaires - 5%**
