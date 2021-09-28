@@ -1,5 +1,4 @@
 # Outils
-
 ## Ordre du jour
 
 - [ ] Récapitulatif
