@@ -28,11 +28,9 @@
 
 
 ## Pour la prochaine fois
-- :fontawesome-solid-book: Lecture obligatoire:
+- :fontawesome-solid-book: Lecture obligatoire, rapport de lecture et présentation.
     - [King, G., Keohane, R., & Verba, S. (1994). The Science in Social Science. In *Designing Social Inquiry: Scientific Inference in Qualitative Research* (pp. 3-33). Princeton, New Jersey: Princeton University Press. doi:10.2307/j.ctt7sfxj.4](https://proxy.sciencespobordeaux.fr:5139/document/doi/10.1515/9781400821211-002/pdf)
-- :fontawesome-solid-chalkboard-teacher: Présentation
-    - Partage du rapport de lecture 24h à l'avance sur le chat.
-    - Présentation de 15 minutes
-- :fontawesome-solid-brain: Identifiez un puzzle dans la littérature en comportement électoral/opinion publique.
+- :fontawesome-solid-brain: Projet
+    - Identifiez un puzzle dans la littérature en comportement électoral/opinion publique.
     - Consultez les *Ressources -> Divers* pour vous aider.
 
