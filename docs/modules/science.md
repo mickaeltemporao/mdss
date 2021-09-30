@@ -1,11 +1,11 @@
 # La méthode scientifique
 
 ## Ordre du jour
-- La méthode scientifique
+- [ ] La méthode scientifique
     - Présentation et Discussion
-- Thème, ancrage, problématique et bibliographie.
+- [ ] Thème, ancrage, problématique et bibliographie.
     - Exercices
-- Variable dépendante et indépendante.
+- [ ] Variable dépendante et indépendante.
     - Introduction
 
 ## Notebook
