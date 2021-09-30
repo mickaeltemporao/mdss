@@ -61,7 +61,7 @@ nav:
     - Modules:
       - modules/introduction.md
       - modules/tools.md
-      # - modules/science.md
+      - modules/science.md
       # - modules/causality.md
       # - modules/sampling.md
       # - modules/measurement.md
