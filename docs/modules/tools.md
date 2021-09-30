@@ -34,5 +34,5 @@
     - Partage du rapport de lecture 24h à l'avance sur le chat.
     - Présentation de 15 minutes
 - :fontawesome-solid-brain: Identifiez un puzzle dans la littérature en comportement électoral/opinion publique.
-    - Consultez la partie Divers des Ressources pour vous aider.
+    - Consultez les *Ressources -> Divers* pour vous aider.
 

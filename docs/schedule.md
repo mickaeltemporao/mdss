@@ -19,13 +19,13 @@ Cet horaire est approximatif, sujet à des changements en fonction des besoins d
 - **:fontawesome-regular-file-code: Travail:** Indique qu'il y a un travail à rendre avant le cours de la date indiqué. Contient un le lien vers les consignes.
 
 
-## Planning Semestre 1
+## Planning
 
 | Date       | Module       | Thème                              | Séance                                                     | Présentation                                                                   | Travail                                                                     |
 | -          | -            | -                                  | :-:                                                        | :-:                                                                            | :-:                                                                         |
 | 2021/09/17 | **Projet**   | Introduction                       | [:fontawesome-solid-book-reader:](modules/introduction.md) |                                                                                |                                                                             |
 | 2021/09/24 |              | Les outils                         | [:fontawesome-solid-book-reader:](modules/tools.md)        |                                                                                | [**:fontawesome-regular-paper-plane: Initiation**](resources/onboarding.md) |
-| 2021/10/01 |              | La méthode scientifique            | :fontawesome-solid-book-reader:                            | [:fontawesome-solid-chalkboard-teacher: - **G8**](activities/participation.md) |                                                                             |
+| 2021/10/01 |              | La méthode scientifique            | [:fontawesome-solid-book-reader:](modules/science.md)      | [:fontawesome-solid-chalkboard-teacher: - **G8**](activities/participation.md) |                                                                             |
 | 2021/10/08 |              | Le projet de recherche             | :fontawesome-solid-book-reader:                            | [:fontawesome-solid-chalkboard-teacher: - **G3**](activities/participation.md) |                                                                             |
 | 2021/10/15 | **Collecte** | La conceptualisation               | :fontawesome-solid-book-reader:                            | [:fontawesome-solid-chalkboard-teacher: - **G2**](activities/participation.md) | [**:fontawesome-regular-file-code: TP1**](activities/assignments-winter.md) |
 | 2021/10/22 |              | Le diagramme causal                | :fontawesome-solid-book-reader:                            | [:fontawesome-solid-chalkboard-teacher: - **G1**](activities/participation.md) |                                                                             |
