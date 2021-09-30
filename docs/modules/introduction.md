@@ -3,8 +3,7 @@
 ## Ordre du jour
 - [ ] Présentations
 - [ ] Fonctionnement du cours
-- [ ] Définition des groupes
-- [ ] Ordre de passage
+- [ ] Définition des groupes et ordre de passage
 
 ## Pour la prochaine fois
 - Terminez l'[Initiation](../resources/onboarding.md) avant le prochain cours.

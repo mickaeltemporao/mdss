@@ -3,9 +3,9 @@
 
 - [ ] Récapitulatif
 - [ ] Présentation des outils
-    - [ ] Communication : **:fontawesome-brands-gitter: Gitter Chat**
-    - [ ] Écriture : **:fontawesome-brands-markdown: Markdown Syntax**
-    - [ ] Travail : **:fontawesome-brands-google: Colaboratory Platform**
+    - Communication : **:fontawesome-brands-gitter: Gitter Chat**
+    - Écriture : **:fontawesome-brands-markdown: Markdown Syntax**
+    - Travail : **:fontawesome-brands-google: Colaboratory Platform**
 - [ ] Remise des travaux
 - [ ] Le projet - Thème
 
