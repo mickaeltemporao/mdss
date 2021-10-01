@@ -9,7 +9,7 @@ Cet horaire est approximatif, sujet à des changements en fonction des besoins d
     - **Groupe 4:** Arthur Coline, Joude.
     - **Groupe 5:** Jeanne, Marie, Perrine.
     - **Groupe 6:** Anna, Capucine, Sirine.
-    - **Groupe 7:** Juliette, Justine, Lisa Bag.
+    - **Groupe 7:** Juliette, Justine Bai, Lisa Bag.
     - **Groupe 8:** Maeva, Oceane.
 
 

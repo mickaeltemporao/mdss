@@ -1,5 +1,8 @@
 # Causalité
 
+Terminer Exercice ancrage
+Feedback attentes présentation et commentaire semaine passée
+
 ## Ordre du jour
 - Les types de données
 - Présentation :
