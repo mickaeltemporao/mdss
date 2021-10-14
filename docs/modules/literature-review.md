@@ -5,7 +5,7 @@
     - Présentation et discussion
 - [ ] Les types de données
     - Exercices
-- [ ] Les données de l'ANES
+- [ ] Rendez-vous Feedback TP1
 
 ## Liens utiles
 - [ANES 2020 Overview](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbkf01.htm)
