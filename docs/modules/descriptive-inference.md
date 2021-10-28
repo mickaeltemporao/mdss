@@ -9,7 +9,6 @@
 - [ ] Les données de l'ANES
 
 ## Liens utiles
-- [:fontawesome-solid-file-code: Exercices]()
 - [:fontawesome-solid-database: ANES Codebook](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbkh01.htm)
 - [:fontawesome-solid-scroll: ANES Articles](https://electionstudies.org/papers-documents/anes-bibliography/)
 
