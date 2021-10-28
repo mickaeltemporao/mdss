@@ -64,7 +64,7 @@ nav:
       - modules/science.md
       - modules/descriptive-inference.md
       - modules/literature-review.md
-      # - modules/causality.md or causal-inference.md
+      - modules/causal-inference.md
       # - modules/sampling.md
       # - modules/measurement.md
       # - modules/replication.md
