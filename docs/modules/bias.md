@@ -4,6 +4,7 @@
 
 - [ ] Divers
     - Séance de Feedback
+    - [Quiz](https://www.wooclap.com/FTILOU)
 - [ ] Le choix des données et les biais
     - Présentation et discussion
 - [ ] Les données de l'[ANES](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
