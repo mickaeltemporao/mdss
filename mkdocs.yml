@@ -67,7 +67,7 @@ nav:
       - modules/causal-inference.md
       - modules/causal-inference-2.md
       - modules/bias.md
-      # - modules/measurement.md
+      - modules/measurement.md
       # - modules/replication.md
     # - Semestre 2:
       # - modules/programming.md
