@@ -14,9 +14,9 @@ Cet horaire est approximatif, sujet à des changements en fonction des besoins d
 
 
 ### Description des icônes
-- **:fontawesome-solid-book-reader: Séance:** Indique qu'il y a une séance de cours à cette date. Contient un le lien vers le module de la séance.
-- **:fontawesome-solid-chalkboard-teacher: Présentation:** Indique qu'il y a une présentation des étudiants à la date indiqué. Contient un le lien vers les consignes.
-- **:fontawesome-regular-file-code: Travail:** Indique qu'il y a un travail à rendre avant le cours de la date indiqué. Contient un le lien vers les consignes.
+- **:fontawesome-solid-book-reader: Séance:** Indique qu'il y a une séance de cours à cette date. Contient le lien vers le module de la séance.
+- **:fontawesome-solid-chalkboard-teacher: Présentation:** Indique qu'il y a une présentation des étudiants à la date indiqué. Contient le lien vers les consignes.
+- **:fontawesome-regular-file-code: Travail:** Indique qu'il y a un travail à rendre avant le cours de la date indiqué. Contient le lien vers les consignes.
 
 
 ## Planning
