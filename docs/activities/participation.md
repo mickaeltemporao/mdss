@@ -1,7 +1,7 @@
 # 30% | Participation
 La note de participation est divisée en trois parties : présentations, commentaires et engagement.
 
-## **:fontawesome-solid-chalkboard-teacher: Présentations - 15%**
+## **:octicons-mortar-board-24: Présentations - 15%**
 Lors des séances, un groupe d'étudiants effectue une présentation de 15 minutes sur la lecture obligatoire. Le groupe effectuant la présentation prépare un rapport de lecture d'une page et le partage avec le reste de la classe 24h à l'avance.
 
 Le groupe qui présente :

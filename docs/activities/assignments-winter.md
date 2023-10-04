@@ -8,7 +8,7 @@ Différents travaux pratiques (TP) sont mis en place pour permettre aux étudian
 Pour votre projet de recherche vous devez identifier une problématique et formuler une question de recherche en **comportement politique et/ou opinion publique**.
 
 - [:fontawesome-solid-file-code: **Projet de recherche**](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/projet-de-recherche.ipynb)
-- **:fontawesome-solid-exclamation-triangle: Attention** le lien vers le rapport doit être partagé avec l'enseignant sur :fontawesome-brands-gitter: Gitter à la date de remise.
+- **:octicons-alert-24: Attention** le lien vers le rapport doit être partagé avec l'enseignant sur :fontawesome-brands-gitter: Gitter à la date de remise.
 
 ### Objectifs
 - Conception et planification d’un projet de recherche.
@@ -22,7 +22,7 @@ Pour votre projet de recherche vous devez avoir **terminé de collecter vos donn
 
 
 - [:fontawesome-solid-file-code: **Rapport de collecte**](https://colab.research.google.com/github/mickaeltemporao/mdss-materials/blob/main/rapport-de-collecte.ipynb)
-- **:fontawesome-solid-exclamation-triangle: Attention** le lien vers le rapport doit être partagé avec l'enseignant sur :fontawesome-brands-gitter: Gitter à la date de remise.
+- **:octicons-alert-24: Attention** le lien vers le rapport doit être partagé avec l'enseignant sur :fontawesome-brands-gitter: Gitter à la date de remise.
 
 ### Objectifs
 - Se familiariser avec les données.
