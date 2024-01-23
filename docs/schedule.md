@@ -3,14 +3,14 @@
 Cet horaire est approximatif, sujet à des changements en fonction des besoins des étudiants du cours. Les étudiants seront informés des changements d'horaire.
 
 ???+ info inline end "Groupes"
-    - **G1:** Ines, Lisa Bac, Lisa Bal.
-    - **G2:** Adrien, Justine Bac, Mathias.
-    - **G3:** Adriana, Émile, Vincent.
-    - **G4:** Arthur Coline, Joude.
-    - **G5:** Jeanne, Marie, Perrine.
-    - **G6:** Anna, Capucine, Sirine.
-    - **G7:** Juliette, Justine Bai, Lisa Bag.
-    - **G8:** Maeva, Oceane.
+    - **G1:** TBD
+    - **G2:** TBD
+    - **G3:** TBD
+    - **G4:** TBD
+    - **G5:** TBD
+    - **G6:** TBD
+    - **G7:** TBD
+    - **G8:** TBD
 
 
 ### Description des icônes
