@@ -6,7 +6,7 @@
 
     - :fontawesome-solid-calendar: 17 sep. 2021 au 1 avr. 2022
     - :fontawesome-solid-clock: V 9:45am-11:15am
-    - :fontawesome-solid-university: ScPoBx, Monnet
+    - :octicons-home-24: ScPoBx, Monnet
 
 Cette conférence de méthodes des sciences sociales introduit à différentes méthodes de recherche en sciences sociales. Notre objectif est de vous donner la capacité de comprendre, d'expliquer et d'effectuer des recherches empiriques en sciences sociales avec un accent particulier sur l'analyse et l'inférence des données. Vous serez capable de lire et de comprendre la méthodologie de la plupart des articles académiques en sciences sociales, mais plus important encore, vous aurez un pied dans la porte du monde de la *Data Science*. La capacité de collecter et d'analyser des données de manière sophistiquée devient un ensemble de compétences crucial dans le marché du travail moderne dans toutes les industries. Enfin, vous obtiendrez une maîtrise des données qui vous aidera à être un consommateur critique de preuves empiriques pour le reste de votre vie.
 

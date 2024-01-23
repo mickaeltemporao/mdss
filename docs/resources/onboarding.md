@@ -11,7 +11,7 @@ Assurez-vous d'avoir terminé les activités suivantes avant le deuxième cours:
 5. Rejoignez le chat du cours [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/ScPoBx/introduction-to-data-science) et dites bonjour!
     - Vous devez sélectionner votre compte :fontawesome-brands-github: **GitHub** pour vous identifier dans le chat.
     - Ceci est l'outil de communication que nous allons utiliser tout au long du cours.
-6. Intallez l'application [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) sur votre :fontawesome-solid-mobile-alt: et/ou :fontawesome-solid-laptop:
+6. Intallez l'application [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) sur votre :octicons-device-mobile-24: et/ou :fontawesome-solid-laptop:
 
 Pour l'instant, vous pouvez explorer ces outils par vous-même. Si ces outils n'ont pas encore trop de sens, ne vous inquiétez pas. Nous les couvrirons dans les cours à venir.
 
